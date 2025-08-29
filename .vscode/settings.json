@@ -1,0 +1,4 @@
+{
+  // Enable reusable prompt files from .github/prompts (experimental in some builds)
+  "chat.promptFiles": true
+}

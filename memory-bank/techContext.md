@@ -1,27 +1,14 @@
 # Tech Context
 
-Last updated: {{date}}
+Environment
+- Windows + PowerShell (pwsh); editing in VS Code and Obsidian.
 
-## Environment
-- OS: Windows
-- Shell: PowerShell (pwsh)
-- Editor: VS Code + Obsidian
+Repository
+- Repo: Creative-Writing; default branch: main (current branch noted in PRs/commits).
 
-## Repository
-- Repo: Creative-Writing
-- Default branch: main (current working branch: master)
+Conventions
+- Markdown-only; Obsidian wikilinks for internal refs.
+- Keep edits small and cross-link new terms.
 
-## Tools & Plugins
-- Obsidian core + any used community plugins: [TBD]
-- Version control with GitHub; keep Memory Bank updated on changes.
-
-## Conventions
-- Markdown-only outputs, no code execution in this repo.
-- Use wikilinks for internal references.
-
-## Git Ops
-- Commit small, descriptive changes.
-- When adding features/sections, update relevant Memory Bank files.
-
-## Dependencies
-- None required; optional plugins/tools documented here when adopted.
+Plugins/Tools
+- Document active Obsidian plugins here as they are adopted.

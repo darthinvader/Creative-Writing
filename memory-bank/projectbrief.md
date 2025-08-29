@@ -1,30 +1,30 @@
 # Project Brief
 
-Last updated: {{date}}
+Purpose
+- Produce Book 1 of a fantasy novel set in Codaria: artifact conflict around the Sword/Book of Gosh, siege of [[Coldreach]], and finale at [[Winter University]].
 
-## Purpose
-[TBD] Concise statement of what this vault aims to produce and why it matters.
+Goals & Scope
+- Tell Samantha Seraphel, Melf Maelstorm, and Lareth Lakhart’s story across one novel.
+- Focus on Codaria; keep Samantha’s homeland background-only in Book 1.
+- Integrate three powers: [[Serathis]] (Lady Vaelora Serath), [[Kandar]] (Paladin King Alistair Dawnspear), and Codaria.
 
-## Goals & Scope
-- Primary goals: [TBD]
-- Out of scope: [TBD]
+Success Criteria
+- Complete outline + scene drafts for key tentpoles (opener, Dawnspear’s Folly, The Gate at Winter).
+- Consistent canon in [[Glossary]] and cross-links between scenes/plot.
+- Opening chapter revised to match outline (retreat from Coldreach).
 
-## Success Criteria
-- Measurable outcomes that indicate success: [TBD]
+Constraints
+- Markdown/Obsidian only; minimal frontmatter.
+- Safety: avoid harmful content; use respectful alternatives.
 
-## Constraints
-- Time/wordcount/process constraints: [TBD]
-- Content boundaries/safety constraints: avoid harmful content; use respectful alternatives.
+Readers
+- Primary: author and future beta readers of modern fantasy with rule-bound magic.
 
-## Stakeholders / Readers
-- Author(s): [TBD]
-- Target readers/audience: [TBD]
-
-## Canon Sources
-- Plot: [[Book 1/02 Plot/Outline]], [[Book 1/02 Plot/Beat Sheet]]
+Canon Sources
+- Plot: [[Book 1/02 Plot/Outline]], [[Book 1/02 Plot/Beat Sheet]], [[Book 1/02 Plot/Timeline]]
 - World: [[Book 1/03 Worldbuilding/README]]
 - Characters: [[Book 1/04 Characters/README]]
 - References: [[Book 1/06 References/Glossary]], [[Book 1/06 References/Pronunciation Guide]]
 
-## Change Log Pointer
-See [[memory-bank/progress]] for current status and recent updates.
+Change Log Pointer
+- See [[memory-bank/progress]] for current status and recent updates.

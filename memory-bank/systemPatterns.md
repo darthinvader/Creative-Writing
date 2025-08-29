@@ -1,30 +1,19 @@
 # System Patterns
 
-Last updated: {{date}}
+Architecture
+- Work lives under `Book 1/`; Memory Bank holds meta (scope, decisions, status).
 
-## Architecture
-- Vault structure centers on `Book 1/` with clear folders for Plot, Worldbuilding, Characters, Locations, References, Templates.
-- Memory Bank tracks meta (project scope, decisions, status, tasks).
+Information Architecture
+- Drafts: `Book 1/01 Drafts/` (Scenes, Chapters).
+- Plot: `Book 1/02 Plot/` (Act Structure, Beat Sheet, Outline, Timeline, Arcs).
+- Canon: `Book 1/06 References/` (Glossary, Pronunciation, Session Logs).
 
-## Information Architecture
-- Drafts: scenes and chapters live under `Book 1/01 Drafts/`.
-- Plot planning under `Book 1/02 Plot/` (Act structure, beats, outline, timeline, arcs).
-- Canon facts under `Book 1/06 References/`.
+Linking
+- Wikilinks everywhere; scenes reference beats and timeline.
+- Keep new terms in [[Book 1/06 References/Glossary]].
 
-## Cross-file Linking
-- Prefer wikilinks: [[Like This]].
-- Link scenes to beats and timeline entries.
-- Maintain pronunciation and glossary entries alongside new terms.
+Templates & Frontmatter
+- Use `Book 1/07 Templates/`; keep YAML minimal (per Frontmatter Fields).
 
-## Templates
-- Use templates in `Book 1/07 Templates/` for consistency.
-- Minimal YAML frontmatter per Frontmatter Fields template.
-
-## Naming & Slugs
-- Sluggify filenames, keep short and descriptive.
-
-## Versioning & Changelog
-- Track notable changes in [[memory-bank/progress]] and `Book 1/08 Editing/Changelog`.
-
-## Automation Ideas
-- Simple scripts/Dataview for indexes (optional, documented here if added).
+Changelog
+- Log notable shifts in [[memory-bank/progress]] and `Book 1/08 Editing/Changelog`.

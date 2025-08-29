@@ -1,0 +1,22 @@
+# Obsidian volatile files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & env
+*.log
+.env
+.env.*
+
+# Editors
+*.swp
+*.swo
+*.tmp
+~$*
+
+# Node (in case of plugin experiments)
+node_modules/

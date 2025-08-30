@@ -22,7 +22,7 @@ The third bell swung to war when the first ladder hit stone. Samantha took the s
 
 “I’m an acolyte,” she’d said. “I can help.”
 
-From the parapet the enemy were plain: not an army, a contract. Brigands and sellswords in mismatched mail with tarred shields slick with sleet, some marked by onyx sea‑drake pins—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets and ladders, two sled‑mounted towers lurching in the gusts. A banner nobody recognized hung stiff with ice. At the fore, men with slings scattered glittering grit against the wind so it skittered along the stone like blown sand. Behind them, a ram head of iron waited like a patient animal.
+From the parapet the enemy were plain: not an army, a contract. Brigands and sellswords in mismatched mail with tarred shields slick with sleet, some marked by onyx sea‑drake pins—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets and ladders, two sled‑mounted towers lurching in the gusts. An unknown banner hung stiff with ice. At the fore, men with slings scattered glittering grit against the wind so it skittered along the stone like blown sand. Behind them, a ram head of iron waited like a patient animal.
 
 “Alchemical chaff,” someone muttered near her. “Salted ash and iron. Foul the catches.”
 
@@ -34,7 +34,7 @@ He glanced along the parapet, caught Samantha watching, and raised his brows as 
 
 “I won’t,” she said, then, because it itched at her, “Something’s off on that seam.”
 
-“Are they?” He pressed two fingertips to the seam and smiled as if the wall had told him a joke. Warmth pulsed once in the stone. “Better?”
+“Is it?” He pressed two fingertips to the seam and smiled as if the wall had told him a joke. Warmth pulsed once in the stone. “Better?”
 
 “Better,” she said, and moved on.
 
@@ -52,14 +52,18 @@ She chalked a small tightening curve where he tapped and whispered the smallest 
 
 “Did they hire alchemists after all?” a student asked, breath fogging.
 
-“Looks like it,” Melf said, arriving in a swirl of cold and wet wool. Up close he seemed carved from winter itself, all silver and white and a grin that warmed cold fingers. “They’re clever—throwing grit where our work is fussy.” He spread his hands toward the plug. “I’ll keep the shoelaces tied; you two keep the boots on the right feet.”
+“Looks like it,” Melf said, the wet‑wool smell following him. Up close he seemed carved from winter itself, all silver and white and a grin that warmed cold fingers. “They’re clever—throwing grit where our work is fussy.” He spread his hands toward the plug. “I’ll keep the shoelaces tied; you two keep the boots on the right feet.”
+
+Samantha kept pace between them. “I came to petition the University,” she said—“for counsel, and a caster if any would hear me.”
+
+“Not on the wall,” Lareth said, his tone even as the flame. “Hold here first. After, speak—and I’ll listen.”
 
 “Steady,” Lareth said without looking away from the field. “They’re clocking how much fire we spend.”
-His voice stayed even, and the flame stitched exactly where he set it, no wider than a boot.
+His voice stayed even, and the flame stitched exactly where he set it—no wider than a boot, no hotter than needed.
 
 The next push came quick: mantlets thumped into place; ladders rose; hooks bit stone. Lareth rationed flame in tight stitches that melted rings and sent men scrambling. Melf shifted the wall’s grain so a crack went sideways instead of through, and a ladder bounced back when its hooks failed to bite.
 
-Magic always asked for breath and discipline; overreach made edges fray or bite back.
+Magic always asked for breath and discipline; overreach frayed edges or made them bite back.
 
 Another stave went dim. Samantha cleaned, followed Melf’s curt taps for placement, and snugged it before the dullness could spread.
 

@@ -1,5 +1,9 @@
 ---
-- The Lattice: The patterned substrate of magic; replaces the D&D term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.
+- The Lattice: The patterned substrate of magic; replaces the ## Samantha Se## Erandia
+- Definition: Distant land many in Codaria consider a myth; Samantha's homeland. Features temple bells with distinctive rhythms and strong traditions of diplomatic preparation and service.
+- Related: [[Samantha Seraphel]], [[Whitehaven]], [[Valamar]]hel
+- Definition: Paladin-herald from Erandia, a "lost" land; hidden angel (unaware). POV for the siege. Trained in diplomatic protocols and formal petitioning; follows Valamar's teaching that "truth is best proven through service, not proclamation."
+- Related: [[Samantha Seraphel]], [[Valamar]], [[Erandia]] term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.
 - Lattice Sight: Lareth's unique ability to perceive magical flows and tensions directly; enables precise spellcraft and misfiring prevention.
 - Strain: The accumulating effort from working the Lattice; managed via cadence, rests, washes, and sinks. Exceeding Redlines risks misfires and warp.
 - Redline Three: Crisis operating band at [[Winter University]]; external petitions paused; triage of resources and safety.
@@ -90,8 +94,8 @@ Use one term per heading and link usages in notes.
 - Related: [[Lareth Lakhart]]
 
 ## Valamar (Platinum Dragon)
-- Definition: Platinum dragon deity of justice, protection, and order (appearance adjusted from classic canon).
-- Related: [[Samantha Seraphel]]
+- Definition: Platinum dragon deity of justice, protection, and order (appearance adjusted from classic canon). Teaches that truth is best proven through service and action, and that when the direct path is barred, one should serve where they stand.
+- Related: [[Samantha Seraphel]], [[Erandia]]
 
 ## Pentharra (Five-Headed Dragon)
 - Definition: Five-headed dragon deity embodying tyranny and dominion (appearance adjusted from classic canon).

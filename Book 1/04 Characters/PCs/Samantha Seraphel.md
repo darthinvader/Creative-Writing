@@ -1,7 +1,11 @@
 ---
 title: Samantha Seraphel
 type: character
-role: Protagonist
+role: Protagon## Continuity
+- Her homeland's name and exact location TBD; maintain mystery but drop concrete sensory details (architecture, textiles, prayers) to make it feel real.
+- Erandia details: temple bells with distinctive rhythm; formal diplomatic protocols; cultural emphasis on preparation and service.
+
+## Links
 status: active
 age: 19-20
 species: Human (hidden angel; unaware)
@@ -41,6 +45,8 @@ updated: 2025-08-30
 - Paladin rites (oaths, warding steadies, protective auras); Herald authority in sacred spaces.
  - Concord Channel: her covenant stabilizes coupling to [[Magic System — The Lattice|The Lattice]]; costs land as exertion and clarity—she tires, but her edge stays clean.
 - Keen intuition for divine‑magic anomalies; unconscious angelic resilience.
+- Lattice sensitivity: her divine covenant makes her sensitive to magical flows and patterns, though she lacks the scholarly terms to name what she perceives.
+- Herald training: diplomatic protocols, cultural research, and preparation for formal petitions; "a Herald comes prepared."
 - Polite diplomacy with stubborn persistence.
 
 ## Relationships

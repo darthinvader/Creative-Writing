@@ -20,13 +20,15 @@ Outcome: Formal petition denied but redirected to practical service; earns five 
 
 The bells had stopped naming streets for retreat and started naming work. Each bronze voice found its purpose in the University's rhythm—first bell for runners, second for shifts, third for the census of what remained. Samantha's chest still burned from the climb up narrow stairs that reeked of wet wool and fear-sweat. Her satchel bounced against her hip with each step, the buckles singing against leather stiff with frost. She had come to speak. Now she followed two men whose silence felt like locked doors.
 
-Snow whispered against her face—not the cutting sleet of the siege but fat, lazy flakes that melted on her lashes and left salt-tracks down her cheeks. Her stomach knotted around the hollow ache of too little food and too much dread. *What if they won't listen? What if they can't help?*
+Snow whispered against her face—not the cutting sleet of the siege but fat, lazy flakes that melted on her lashes and left salt-tracks down her cheeks. Her stomach knotted around the hollow ache of too little food and too much dread. The first clean breath in hours hit her lungs sharp as broken glass, tasting of winter instead of smoke.
+
+*What if they won't listen? What if they can't help? Valamar grant me wisdom to serve where I stand, regardless of their answer.*
 
 Winter University's garden opened before them like a held breath made visible. The air hit her lungs clean and sharp—the first breath in hours that didn't taste of blood or smoke. Ordered beds stretched in geometric precision under the pale sun, their edges cut from black basalt that drank what warmth there was and gave none back. Her boots crunched on gravel paths where ice crystals caught the light and threw it back in splinters that made her eyes water.
 
 Glasshouses lined the inner wall like giant ribs—long, curved spines of glass that breathed fog into the cold air with each exhalation. The condensation rolled down the panes in rivulets that froze and thawed and froze again, creating delicate traceries of ice. Brass plaques named each bed in script that hurt to read in the brightness: winter aconite; saint's valerian; juniper; foxglove; frost-mint. The metal was so cold it stung her fingertips when she brushed against one.
 
-A row of copper glyph-arches traced the central path, their surfaces green with verdigris that cracked like old paint. Water ran beneath them without freezing—a gentle murmur that spoke of warmth below. The sigils pulsed with light the color of old honey, slow as a sleeping pulse, each beat sending warmth through the metal that she could feel on her face when she passed near.
+A row of copper glyph-arches traced the central path, their surfaces green with verdigris that cracked like old paint. Water ran beneath them without freezing—a gentle murmur that spoke of warmth below. The sigils pulsed with light the color of old honey, slow as a sleeping pulse, each beat sending warmth through the metal that she could feel on her face when she passed near. The rhythm reminded her of temple bells in Erandia, though these served function rather than worship.
 
 Steam met sleet at ankle height and made ghost-clouds that twisted around her boots. The air was a symphony of scents that made her mouth water despite her fear: rich peat and sharp vinegar from somewhere behind the hedges, sweet bay crushed underfoot releasing oils that made her think of summer kitchens, and beneath it all the whisper of brimstone from a sealed retort in the alchemical shed—sulfur and possibilities and controlled fire. Her stomach clenched with hunger.
 
@@ -34,7 +36,7 @@ Beyond the hedges, a glass hive slept in the pale light. Through the transparent
 
 "This way," Lareth said, his voice cutting paths through her wonder as surely as his footsteps cut tracks in the gravel. Each word crisp as the air, each syllable a decision made and acted upon. Ice cracked beneath his boots with sounds like breaking glass.
 
-He led them along a cinder path between beds where small black stakes bore chalk marks—symbols that would mean nothing to most and everything to the initiated. Samantha studied them as she walked, the way she had learned to read people's hands for tells. Her fingers twitched, wanting to trace the familiar patterns.
+He led them along a cinder path between beds where small black stakes bore chalk marks—symbols that would mean nothing to most and everything to the initiated. Samantha studied them as she walked, the way she had learned to read people's hands for tells. Her fingers twitched, wanting to trace the familiar patterns. *Ward markers. Harvest dates. Growth cycles.* Some spoke in the common tongue of practical magic; others carried the particular grammar of this place, this tradition.
 
 A gate-warden in a blue sash stepped from an archway that smelled of old stone and wet mortar. "Faculty and students only under Redline Three," she said, breath smoking in silver plumes that dissipated quickly in the cold air. Her voice was professional rather than unkind—the tone of someone who had delivered the same words a hundred times in the past hour. Her eyes took inventory of Samantha's travel-stained satchel, the soot ground into her cuffs like charcoal dust, the small cuts along her knuckles that had scabbed over with dried blood. "Visitors will be billeted in the east lecture hall."
 
@@ -70,13 +72,15 @@ The Administrator stood by the blackboard like a monument to efficiency. A half-
 
 "Good." She chalked two lines under *binder gum*, the scratch of calcium carbonate on slate like fingernails on stone. Then she stood still long enough to make it clear that she could stand still while others rushed—a display of control more pointed than any words. Only then did she look to Samantha. "And you?"
 
-Samantha's rehearsed words scattered like startled birds. She reached for the simplest truth, the one that didn't require performance or persuasion. "I am Samantha Seraphel," she said, keeping titles to herself. She had tried that approach too often to anything but narrowing eyes and closed doors. "I came to plead a case to the University's spellcasters—those who would choose to hear me. My homeland needs aid."
+Samantha's rehearsed words scattered like startled birds. She reached for the simplest truth, the one that didn't require performance or persuasion. "I am Samantha Seraphel," she said, keeping titles to herself. She had tried that approach too often to anything but narrowing eyes and closed doors. "I came to plead a case to the University's spellcasters—those who would choose to hear me. My homeland needs aid." The words felt inadequate, stripped of the formal language she'd practiced, but perhaps plainness would serve where ceremony had failed.
 
 The Administrator listened the way granite listens—fully, without yielding, absorbing without changing. Her stillness was complete, the kind that made you aware of your own fidgeting, your own unnecessary motion. "You will be billeted with the others. We will feed you and keep you warm. We are not accepting external petitions under Redline Three."
 
 The refusal landed like a physical blow, settling in Samantha's chest with the weight of lead. She had known it was possible—probable, even—but hearing it spoken aloud made it real in a way that planning couldn't prepare her for. Her hands clenched at her sides, nails biting into palms already tender from the morning's work.
 
 *Think. Don't react. Find another way.*
+
+*Valamar's teachings: when the direct path is barred, serve where you stand. Truth reveals itself through action, not words.*
 
 "I can pay in service," she said, fighting to keep her voice level. "I can work. I can prove what I am, if belief is the price."
 
@@ -120,11 +124,15 @@ Work took them. Not the desperate scramble of the siege, but the focused dance o
 
 Samantha ground juniper resin with a mortar worn smooth by countless hands stronger than hers. The pestle fit her grip like it had been waiting for her to arrive. She bled vinegar into the mixture with drops that fell like counted coins—each one measured, each one purposeful. The smell rose sharp and clean, cutting through the workshop's other scents like a blade through silk.
 
+*Something stirred beneath her awareness—not sight but sense. Patterns wanting to align, threads of possibility weaving through the work. Her covenant with Valamar had always made her sensitive to the underlying flows, though she'd never learned the scholarly terms for what she felt.*
+
 A student brought bay leaves, their surfaces glossy with oil that caught the light. She cracked one between her nails—the sound crisp as breaking glass—and let the oil thread through the mixture until the consistency shifted from slick to sure. Her hands moved without conscious thought, following patterns learned in quieter laboratories in distant places.
 
-Melf tuned the rune-kiln with fingertip taps that made the copper sing in harmonics that settled in her bones like music. Each note was precise, intentional, part of a larger melody only he could hear. Lareth watched the glyphs with the intensity of a cat watching mice, keeping the working steady through small adjustments that spoke of deep understanding.
+Melf tuned the rune-kiln with fingertip taps that made the copper sing in harmonics that settled in her bones like music. Each note was precise, intentional, part of a larger melody only he could hear. Lareth watched the glyphs with the intensity of a cat watching mice, keeping the working steady through small adjustments that spoke of deep understanding. His eyes tracked something she couldn't see—flows and tensions in the air itself.
 
-Magic always asked for breath and discipline. Overreach frayed edges or made them bite back through channels never meant to carry such forces. She could taste it now—the copper-lightning flavor of power flowing through living flesh, the metallic tang that spoke of boundaries tested but not crossed.
+*"Lattice Sight,"* Melf murmured, noticing her attention. *"Lareth sees the patterns directly. Useful for keeping teams from cooking themselves when the work gets hot."*
+
+Magic always asked for breath and discipline. Overreach frayed edges or made them bite back through channels never meant to carry such forces. She could taste it now—the copper-lightning flavor of power flowing through living flesh, the metallic tang that spoke of boundaries tested but not crossed. Her Herald training had taught her to recognize the sensation, though not to name it as these scholars did.
 
 They tested their work on a fouled stave pulled from the wall—old wood blackened with the enemy's grit. The wash turned the contamination to mud that lifted under cloth without scratching the surface beneath. Samantha drew a tightening curve with fresh chalk, feeling it bite the wood like it had been waiting for exactly this shape to make sense again.
 
@@ -140,8 +148,24 @@ Lareth glanced toward Samantha, something that might have been approval flickeri
 
 The door opened with a whisper of hinges that needed oil. The garden's cold made a brief treaty with the workshop's warmth, and in the balance between them the warden in the blue sash appeared. She held out a tin badge stamped with the University's seal—a stylized fjord and three spires that caught the light like promises. "For internal movement," she said. "Don't get lost. People do, even in straight halls, when they're needed in more than one place."
 
-"I won't," Samantha said. She pinned the badge to her cloak with fingers steady despite the morning's trials, feeling something small but significant align in her chest. Not acceptance—not yet. But a place to stand, a foundation from which to build. The bells in the city had grown quieter, and steam rose steady where workshop warmth met winter air.
+"Hold fast, work true," Samantha said quietly, recognizing the University's motto etched beneath the symbol.
+
+The warden's eyebrows lifted slightly. "Someone did their reading before arriving."
+
+"I always do." Samantha pinned the badge to her cloak with fingers steady despite the morning's trials, feeling something small but significant align in her chest. Not acceptance—not yet. But a place to stand, a foundation from which to build. "A Herald comes prepared."
+
+"Herald?" Melf's voice sharpened with interest. "Of what tradition?"
+
+"Valamar's." She met his gaze directly. "The Platinum Dragon teaches that truth is best proven through service, not proclamation."
+
+Something passed between Lareth and Melf—a quick exchange of glances that spoke of recognition, perhaps even approval. The bells in the city had grown quieter, and steam rose steady where workshop warmth met winter air.
 
 *Five minutes with the triad. It's enough. It has to be enough.*
+
+*But even as relief flickered in her chest, doubt shadowed it. Five minutes to explain a conflict spanning realms. Five minutes to convince them that Erandia wasn't legend, that the threats she warned of were real. Five minutes to find the ally her homeland desperately needed.*
+
+*And beneath it all, the nagging certainty that her true nature—the angelic heritage she herself didn't understand—would complicate any alliance she tried to forge. The signs were subtle but growing stronger: the way ward-magic responded too readily to her touch, the clarity that came when others grew confused and tired.*
+
+*Time would tell if Winter University was prepared for the Herald they'd just accepted.*
 
 Notes: This scene links to [[01 - Siege at Coldreach]] and establishes Samantha's foothold at the University, setting up her formal petition opportunity.

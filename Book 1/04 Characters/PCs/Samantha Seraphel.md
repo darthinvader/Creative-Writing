@@ -8,7 +8,7 @@ species: Human (hidden angel; unaware)
 origin: Erandia ("lost" land)
 tags: [#character, #pc, #protagonist, #paladin, #herald]
 created: 2025-08-29
-updated: 2025-08-29
+updated: 2025-08-30
 ---
 
 # Samantha Seraphel
@@ -31,10 +31,14 @@ updated: 2025-08-29
 ## Wounds & Fears
 - Wound: Exiled by circumstance—left when few believed her story.
 - Fear: Being dismissed as a liar or zealot; losing the last link to her faith.
+ - Faith State: Nearly unshakable; under strain she suffers depletion, not doubt (risk: Concord Fracture = temporary clarity loss, remedied by rest/rite).
 
 ## Abilities
+- Close‑quarters weapon mastery: disciplined strikes, joint control, efficient disarms.
+- Empowered Smite: focused divine strike that adds controlled force to a blow; used sparingly and precisely.
 - Paladin rites (oaths, warding steadies, protective auras); Herald authority in sacred spaces.
-- Keen intuition for divine-magic anomalies; unconscious angelic resilience.
+ - Concord Channel: her covenant stabilizes coupling to [[Magic System — The Lattice|The Lattice]]; costs land as exertion and clarity—she tires, but her edge stays clean.
+- Keen intuition for divine‑magic anomalies; unconscious angelic resilience.
 - Polite diplomacy with stubborn persistence.
 
 ## Relationships

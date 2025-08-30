@@ -8,14 +8,14 @@ height: 1.70 m
 species: Half-elf
 class: Sorcerer (War/Destructive)
 affiliation: Winter University (Professor)
-tags: [#character, #pc, #professor, #sorcerer, #war-mage]
+tags: [#character, #pc, #professor, #sorcerer, #war-mage, #astronomer]
 created: 2025-08-29
-updated: 2025-08-29
+updated: 2025-08-30
 ---
 
 # Lareth Lakhart
 
-- Occupation: War-trained sorcerer; former highest-rank war mage in Florian; professor focusing on large-scale evocation and battlefield control.
+- Occupation: War-trained sorcerer; former highest-rank war mage in Florian; professor focusing on large-scale evocation and battlefield control; practicing astronomer.
 - Reputation: Calm under fire; known for giant fire spells and disciplined spellcraft.
 
 ## GMC
@@ -28,7 +28,13 @@ updated: 2025-08-29
 
 ## Abilities
 - High-output evocations (fire-centric), counter-siege tactics, unit coordination.
-- Tactical thinker; balances destructive force with protection wards.
+ - Lattice Sight: perceives The Lattice directly—flows and tension; uses this to stitch precise fire lines and prevent misfires.
+ - Discipline: cadenced casting and restraint; keeps team work clean and safe under pressure.
+ - Capacity & Control: Exceptional capacity paired with battlefield-scale control; steady voice and cadence let him hold large effects without drift.
+- Astronomy and timekeeping: sky charts, conjunction tracking, navigation by stars; applies celestial timing to spell planning.
+
+## Appearance
+- Trimmed beard and slick hair; prefers clean, ordered presentation even in the field.
 
 ## Relationships
 - Lifelong friend: [[Melf Maelstorm]]; iron sharpens iron.

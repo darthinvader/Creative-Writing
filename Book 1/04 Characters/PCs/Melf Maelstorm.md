@@ -8,17 +8,16 @@ height: 1.70 m
 species: Half-elf
 class: Wizard (Transmutation) / Blood Mage (latent)
 affiliation: Winter University (Professor)
-tags: [#character, #pc, #professor, #wizard, #transmutation, #blood-magic]
+tags: [#character, #pc, #professor, #wizard, #transmutation, #blood-magic, #alchemist]
 created: 2025-08-29
-updated: 2025-08-29
+updated: 2025-08-30
 ---
 
 # Melf Maelstorm
 
-- Occupation: Professor of Transmutation at [[Winter University]].
+- Occupation: Professor of Transmutation and Alchemy at [[Winter University]].
 - Reputation: Brilliant, irreverent, and notorious prankster (favoring harmless illusions and inconvenient shoelace knots via Mage Hand).
- - Reputation: Brilliant, irreverent, and notorious prankster (favoring harmless illusions and inconvenient shoelace knots via Mage Hand).
- - Cognitive profile: Extremely intelligent, agile, and atypical thinking patterns; savant-like intuition for magical systems.
+- Cognitive profile: Extremely intelligent, agile, and atypical thinking patterns; savant-like intuition for magical systems.
 - Hidden Depth: Unusually adept blood magic, stronger than his transmutation in decisive moments.
 
 ## GMC
@@ -28,8 +27,14 @@ updated: 2025-08-29
 
 ## Abilities
 - Transmutation expert: matter manipulation, structural reinforcement, precision transformations.
+- Alchemy master: battlefield reagents, binders, solvents, anti-chaff washes; rapid formulation under pressure.
 - Blood magic: rare, potent, risky—kept discreet; costs: fatigue, focus, ethical toll.
 - Battlefield ingenuity; excels at improvised solutions.
+ - Casting Profile: Lower baseline capacity than [[Lareth Lakhart]] but superior precision; blood magic temporarily multiplies capacity and opens a deeper repertoire of powerful spells—invoked only after safer options.
+
+## Appearance
+- Big white beard; long, thick silver‑white hair; often rimed with frost in winter.
+- Wears a "cape of capes"—a modular, many-layered cape with options for weather, pockets, and ceremony.
 
 ## Relationships
 - Best friend: [[Lareth Lakhart]] (friendly rivalry; fire vs. matter).

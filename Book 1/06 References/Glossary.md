@@ -3,6 +3,10 @@ title: Glossary — Book 1
 ---
 
 # Glossary
+- The Lattice: The patterned substrate of magic; replaces the D&D term “weave.” Accessed via arcane patterns, divine covenants, or alchemical processes.
+- Strain: The accumulating effort from working the Lattice; managed via cadence, rests, washes, and sinks. Exceeding Redlines risks misfires and warp.
+- Redline Three: Crisis operating band at [[Winter University]]; external petitions paused; triage of resources and safety.
+- Green Crucible: Heat-tolerant lab hall at [[Winter University]] for countermeasures like binder washes.
 
 Use one term per heading and link usages in notes.
 

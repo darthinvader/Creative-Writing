@@ -5,8 +5,8 @@ title: Style Guide — Book 1
 # Style Guide
 
 Voice & tense:
-- Narrative POV:
-- Verb tense:
+- Narrative POV: Third-person limited, single-POV per scene (deep in one character’s interior at a time). No head-hopping. Interior sensations and judgments are filtered through the POV character.
+- Verb tense: Past.
 - Register & tone:
 
 Conventions:

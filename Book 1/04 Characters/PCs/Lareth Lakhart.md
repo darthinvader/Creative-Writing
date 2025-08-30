@@ -34,7 +34,8 @@ updated: 2025-08-30
 - Astronomy and timekeeping: sky charts, conjunction tracking, navigation by stars; applies celestial timing to spell planning.
 
 ## Appearance
-- Trimmed beard and slick hair; prefers clean, ordered presentation even in the field.
+- Trimmed beard and slick gray hair; prefers clean, ordered presentation even in the field.
+- Appears younger than his ~120 years due to half-elf heritage.
 
 ## Relationships
 - Lifelong friend: [[Melf Maelstorm]]; iron sharpens iron.

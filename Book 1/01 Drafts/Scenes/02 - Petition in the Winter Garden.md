@@ -1,131 +1,147 @@
 ---
 title: 02 - Petition in the Winter Garden
-tags: [book/book1, type/scene, status/draft]
-scene_type: dialogue
+type: scene
 pov: Samantha Seraphel
+tense: past
 location: [[Winter University]]
-when: Y1 M1 D1, fourth bell to fifth
-wordcount:
+timeline: [[Timeline]]
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]]
 status: draft
+created: 2025-08-30
+updated: 2025-08-30
 ---
 
 # 02 — Petition in the Winter Garden
 
-## Purpose
-- Conflict/Goal: Samantha insists on accompanying [[Lareth Lakhart]] and [[Melf Maelstorm]] to plead her case for spellcasters to aid her cause.
-- Stakes: University resources are stretched by siege; her credibility is fragile.
-- Outcome (lose): She is politely refused; redirected to present crisis.
+Goal: Secure a hearing for her petition by proving herself useful in the immediate crisis.
+Conflict: University resources stretched to breaking; official policy blocks external petitions during wartime; her credibility as an outsider questioned.
+Turn: Samantha demonstrates her alchemical knowledge and practical skill in the Green Crucible, earning a narrow foothold.
+Outcome: Formal petition denied but redirected to practical service; earns five minutes with the triad after proving herself through work.
 
-## Beat Outline
-- Opening image: Crossing the frost-bright cloister into the University’s garden—glasshouses breathing, beds labeled in tidy brass.
-- Inciting moment: Samantha states she will speak for spellcasters before any council that will hear her.
-- Rising complications: Faculty triage, students carrying crates of reagents; talk of depleted stocks and emergency protocols; a gate-warden challenges outsiders.
-- Climax/turning point: In the herbarium cloister, an administrator declines her petition due to wartime rationing; policy cited.
-- Resolution/hook: Melf promises a hearing later; Lareth offers a narrow task she can own now: help formulate anti-chaff wash in the Green Crucible; Samantha accepts.
+The bells had stopped naming streets for retreat and started naming work. Each bronze voice found its purpose in the University's rhythm—first bell for runners, second for shifts, third for the census of what remained. Samantha's chest still burned from the climb up narrow stairs that reeked of wet wool and fear-sweat. Her satchel bounced against her hip with each step, the buckles singing against leather stiff with frost. She had come to speak. Now she followed two men whose silence felt like locked doors.
 
-## On-page Notes
-- Sensory detail of the Winter Garden: steam in cold air; scents of crushed juniper, peat, vinegar, foxglove, brimstone; bees asleep in glass hives; rune‑kilns and alchemical braziers; runic irrigation.
-- Keep Samantha’s voice precise, observant, respectful.
+Snow whispered against her face—not the cutting sleet of the siege but fat, lazy flakes that melted on her lashes and left salt-tracks down her cheeks. Her stomach knotted around the hollow ache of too little food and too much dread. *What if they won't listen? What if they can't help?*
 
----
+Winter University's garden opened before them like a held breath made visible. The air hit her lungs clean and sharp—the first breath in hours that didn't taste of blood or smoke. Ordered beds stretched in geometric precision under the pale sun, their edges cut from black basalt that drank what warmth there was and gave none back. Her boots crunched on gravel paths where ice crystals caught the light and threw it back in splinters that made her eyes water.
 
-They came in with the bells still naming streets. The University took the sound and sorted it into work. Doors unlatched. Runners appeared like phrases in a familiar language—two with ledgers, one with a bell of his own. Snow smoked from cloaks as they crossed the outer cloister. 
+Glasshouses lined the inner wall like giant ribs—long, curved spines of glass that breathed fog into the cold air with each exhalation. The condensation rolled down the panes in rivulets that froze and thawed and froze again, creating delicate traceries of ice. Brass plaques named each bed in script that hurt to read in the brightness: winter aconite; saint's valerian; juniper; foxglove; frost-mint. The metal was so cold it stung her fingertips when she brushed against one.
 
-Samantha had expected towers and lecture halls; she had not expected the garden.
+A row of copper glyph-arches traced the central path, their surfaces green with verdigris that cracked like old paint. Water ran beneath them without freezing—a gentle murmur that spoke of warmth below. The sigils pulsed with light the color of old honey, slow as a sleeping pulse, each beat sending warmth through the metal that she could feel on her face when she passed near.
 
-Winter University’s garden opened like a held breath. Beds lay in ordered geometry under the pale sun, their paths edged in black basalt that drank what warmth there was. Glasshouses ran along the inner wall—long backs of ribbed glass that breathed a faint, even fog into the cold. Brass plaques named each bed in tidy script: winter aconite; saint’s valerian; juniper; foxglove; frost-mint. A row of copper glyph‑arches arced over a trough where water ran without freezing, sigils pulsing slow as heartbeats to keep the flow from seizing.
+Steam met sleet at ankle height and made ghost-clouds that twisted around her boots. The air was a symphony of scents that made her mouth water despite her fear: rich peat and sharp vinegar from somewhere behind the hedges, sweet bay crushed underfoot releasing oils that made her think of summer kitchens, and beneath it all the whisper of brimstone from a sealed retort in the alchemical shed—sulfur and possibilities and controlled fire. Her stomach clenched with hunger.
 
-Steam met sleet and made ghost-clouds at ankle height. The air was an argument between scents: peat and vinegar from the tanners’ wash, sweet bay crushed underfoot, a whisper of brimstone from a sealed retort in the alchemical shed. Beyond the hedges, a glass hive slept with its bees clotted in amber clusters, the combs faintly luminous where a tiny rune kept them just above death’s drowse.
+Beyond the hedges, a glass hive slept in the pale light. Through the transparent walls she could see bees clotted in amber clusters, their wings folded in perfect stillness. The combs glowed with a faint luminescence where tiny runes—no bigger than pinheads—kept them just above death's drowse. The soft hum of their dreaming filled the spaces between her heartbeats.
 
-“This way,” Lareth said. The clipped cadence made a path as surely as his hand. He led them along a cinder path between beds where small black stakes bore chalk marks that would mean nothing to a layman and far too much to a student. Samantha watched them the way she watched people’s hands.
+"This way," Lareth said, his voice cutting paths through her wonder as surely as his footsteps cut tracks in the gravel. Each word crisp as the air, each syllable a decision made and acted upon. Ice cracked beneath his boots with sounds like breaking glass.
 
-A gate-warden in a blue sash stepped from the arch. “Faculty and students only under Redline Three,” she said, breath smoking, voice professional rather than unkind. Her eyes took in Samantha’s satchel, the soot on her cuffs, the small cuts along her knuckles. “Visitors will be billeted in the east lecture hall.”
+He led them along a cinder path between beds where small black stakes bore chalk marks—symbols that would mean nothing to most and everything to the initiated. Samantha studied them as she walked, the way she had learned to read people's hands for tells. Her fingers twitched, wanting to trace the familiar patterns.
 
-“She’s with us,” Melf said, not slowing. He nudged a brass lever with the back of his knuckles as he passed; somewhere a sluice opened with a soft chuck and water changed its mind about direction. “And I am about to break three separate procurement rules in the shed, but we’re calling it pedagogy.”
+A gate-warden in a blue sash stepped from an archway that smelled of old stone and wet mortar. "Faculty and students only under Redline Three," she said, breath smoking in silver plumes that dissipated quickly in the cold air. Her voice was professional rather than unkind—the tone of someone who had delivered the same words a hundred times in the past hour. Her eyes took inventory of Samantha's travel-stained satchel, the soot ground into her cuffs like charcoal dust, the small cuts along her knuckles that had scabbed over with dried blood. "Visitors will be billeted in the east lecture hall."
 
-“Professor.” The warden’s mouth thought about smiling and decided against it. She stepped aside. “The Administrator is in the herbarium.”
+Samantha's hands tightened on her satchel straps. The leather creaked in her grip. *Billeted with the others. Set aside. Forgotten.*
 
-“I will go where I must,” Samantha said to the warden, because politeness is cheaper than conflict, “but I came to speak. Not only of Coldreach.”
+"She's with us," Melf said without slowing, his cape billowing around him in layers of wool and secrets. He nudged a brass lever with the back of his knuckles as he passed—a casual gesture that spoke of long familiarity. Somewhere water changed its mind about direction with a soft *chuck* and a sigh of redirected flow. "And I am about to break three separate procurement rules in the shed, but we're calling it pedagogy."
 
-The warden’s gaze flicked to Lareth.
+The warden's mouth considered smiling and decided against it. She stepped aside, boots scraping against stone worn smooth by countless passages. "Professor." A pause, weighted with something that might have been sympathy. "The Administrator is in the herbarium."
 
-“She will speak,” Lareth said, which was a promise with edges. “We’ll keep it brief.”
+"I will go where I must," Samantha said to the warden, because politeness cost nothing and might buy everything. Her voice sounded steadier than she felt. "But I came to speak. Not only of Coldreach."
 
-They crossed under an arch cut with old wave-marks—the basalt had been sea once, long before anyone read it. In the herbarium cloister, glass panes turned the snow to light. Tables held trays of labeled cuttings; a blackboard bore a list of shortfalls in a hand with no flourishes: saltpeter low; copper wire low; glass alembics (thin); juniper cones (green only); alcohol (denatured) down to two casks; vinegar (sour) fine; foxglove leaves to be rationed to infirmary; brimstone safe; binder gum pending.
+The warden's gaze flicked to Lareth—a question asked without words.
 
-People moved like they had been told what mattered. A boy barely old enough to shave staggered under a crate of peat blocks; a woman with ink to her wrists counted glass pipettes into a rack with a rhythm like prayer. Melf’s students—Samantha guessed by the cut of their coats and the way their eyes tried to be everywhere—ran for the shed where a brazier sighed and a rune‑kiln steamed with intent.
+"She will speak," Lareth said, and the promise had edges sharp enough to cut. His tone carried the weight of authority earned through fire and precision. "We'll keep it brief."
 
-The Administrator stood by the board, sleeves rolled, a half-orc with neat tusks and an expression that did not change to suit the room. “Professor. Marshal.” She nodded to Melf and Lareth in equal measure. Her gaze took in Samantha without curiosity and without disdain. “Report.”
+They crossed under an arch cut with wave-marks—old stone that remembered when it had been sea floor, millions of years before anyone had learned to read its grain. The memory of salt water seemed to linger in the air, mixing with the scents of growing things and careful chemistry.
 
-“Alchemical chaff in the assault,” Lareth said. “Salted ash and iron. It fouls our delicate work—wards, catches, triggers. We need a binder wash and a chalk that sets through grit. Melf will lead formulation in the Green Crucible.”
+In the herbarium cloister, winter light turned to gold through glass panes that sang faintly when the wind caught them just right. Tables held trays of labeled cuttings—each slip of green life tagged with careful script that documented hope and intention. A blackboard dominated one wall, covered in a list of shortfalls written in a hand with no flourishes, no wasted motion: *saltpeter low; copper wire low; glass alembics (thin); juniper cones (green only); alcohol (denatured) down to two casks; vinegar (sour) fine; foxglove leaves to be rationed to infirmary; brimstone safe; binder gum pending.*
 
-“Green Crucible is live?” the Administrator asked.
+Each line was a negation. Each shortage a door closing on possibility.
 
-“Two rune‑kilns and an attitude,” Melf said. “I’ll make them get along.”
+People moved through the space with the focused intensity of those who knew exactly what mattered and what didn't. A boy barely old enough to shave staggered under a crate of peat blocks that looked heavier than he was, his breath coming in short puffs that spoke of strain held just this side of breaking. A woman with ink stained to her wrists counted glass pipettes into a rack with the rhythm of prayer, her lips moving silently as she sorted by size and condition. Students—identifiable by the cut of their coats and the way their eyes tried to be everywhere at once—ran for the shed where a brazier sighed contentment and a rune-kiln steamed with barely contained intent.
 
-“Good.” She chalked two lines under binder gum, then stood still long enough to be very clear that she could stand still while others rushed. Only then did she look to Samantha. “And you?”
+The Administrator stood by the blackboard like a monument to efficiency. A half-orc with neat tusks that caught the light when she turned her head, sleeves rolled to reveal forearms marked with old scars from laboratory accidents. Her expression had been carved from stone that didn't care about weather or wishes. When she looked at you, you understood that time was a limited resource and she would not waste it on courtesy.
 
-“I am Samantha Seraphel,” she said, and did not add titles. She had tried that too often to anything but narrowing eyes. “I came to plead a case to the University’s spellcasters—those who would choose to hear me. My homeland needs aid.”
+"Professor. Marshal." She nodded to Melf and Lareth with equal measure—respect without deference, acknowledgment without subservience. Her gaze found Samantha and evaluated without curiosity, without disdain. Simply measured and catalogued. "Report."
 
-The Administrator listened the way a stone listens—fully, without yielding. “You will be billeted with the others. We will feed you and keep you warm. We are not accepting external petitions under Redline Three.”
+"Alchemical chaff in the assault," Lareth said, his words crisp as the air outside. "Salted ash and iron. It fouls our delicate work—wards, catches, triggers. We need a binder wash and chalk that sets through grit. Melf will lead formulation in the Green Crucible."
 
-Samantha had rehearsed so many versions of this moment that all of them scattered. She reached for the simplest. “I can pay in service. I can work. I can prove what I am, if belief is the price.”
+"Green Crucible is live?" the Administrator asked, chalk dust on her fingers from marking updates.
 
-“Belief is not the price,” the Administrator said. “Metal and time are the price. Also the safety of students, which costs more than either. We are at war. The University’s casters are seconded to the city defense and hospital. When the bells stop naming streets for retreat, we can speak of the outside again.”
+"Two rune-kilns and an attitude," Melf said, pulling his cape closer around his shoulders. The fabric whispered secrets with each movement. "I'll make them get along."
 
-The refusal was not cruel. That did not make it light. Samantha looked at the board where needs were written with numbers that did not care about prayers. Copper wire low. Alcohol down to two casks. Foxglove leaves to be rationed. Each line was a negation of a speech she had thought she might make.
+"Good." She chalked two lines under *binder gum*, the scratch of calcium carbonate on slate like fingernails on stone. Then she stood still long enough to make it clear that she could stand still while others rushed—a display of control more pointed than any words. Only then did she look to Samantha. "And you?"
 
-She bowed her head, because that was the only move that did not waste anyone’s time. “I understand.” She looked up. “May I stand where I am useful now?”
+Samantha's rehearsed words scattered like startled birds. She reached for the simplest truth, the one that didn't require performance or persuasion. "I am Samantha Seraphel," she said, keeping titles to herself. She had tried that approach too often to anything but narrowing eyes and closed doors. "I came to plead a case to the University's spellcasters—those who would choose to hear me. My homeland needs aid."
 
-The Administrator turned to Melf as if the answer lived with him, not because she deferred but because she allocated. “What do you need in the Crucible?”
+The Administrator listened the way granite listens—fully, without yielding, absorbing without changing. Her stillness was complete, the kind that made you aware of your own fidgeting, your own unnecessary motion. "You will be billeted with the others. We will feed you and keep you warm. We are not accepting external petitions under Redline Three."
 
-“Hands that don’t panic when the coil coughs,” Melf said. “An eye for seams. Someone who can read chalk like a second language. She does all three.” His eyes flicked to Samantha for a confirming beat, not to ask permission but to make a small contract of trust.
+The refusal landed like a physical blow, settling in Samantha's chest with the weight of lead. She had known it was possible—probable, even—but hearing it spoken aloud made it real in a way that planning couldn't prepare her for. Her hands clenched at her sides, nails biting into palms already tender from the morning's work.
 
-“Granted,” the Administrator said. “You will receive a billet and a badge for internal movement. After the countermeasure is stable, you may request five minutes to speak to the triad. No promises beyond five minutes.”
+*Think. Don't react. Find another way.*
 
-Five minutes was a kingdom. “Thank you,” Samantha said. Hope moved in her like a small bird—alive, but wary of windows.
+"I can pay in service," she said, fighting to keep her voice level. "I can work. I can prove what I am, if belief is the price."
 
-They went toward the Green Crucible, a long, low hall where working sigils made their own weather. The door exhaled a breath that smelled like vinegar, brass, damp wool, and oranges that had given their skins to someone else’s tincture. Inside, sigil‑lines traced the ceiling in quiet geometries; focus rings gleamed along the walls. A green‑banded crucible sulked in the corner as if it had opinions about being asked to work again.
+"Belief is not the price," the Administrator said, her voice carrying the finality of mathematical law. "Metal and time are the price. Also the safety of students, which costs more than either. We are at war. The University's casters are seconded to the city defense and hospital. When the bells stop naming streets for retreat, we can speak of the outside again."
 
-“Steady,” Lareth said to the room. The words cut through chatter without being loud. “We’re being clocked.”
+The refusal was not cruel. That somehow made it heavier. Samantha looked at the blackboard where needs were written in numbers that didn't care about prayers or pleas or the desperation in her voice. *Copper wire low. Alcohol down to two casks. Foxglove leaves to be rationed.* Each line was evidence that her problems were not the only problems, her need not the only need.
 
-“As always,” Melf said, rolling his sleeves to his elbows. His forearms were strong in the way of people who lift things more important than themselves. “All right. Binder wash. We need something that makes the grit into a polite paste and slides out of grooves without scratching. Juniper resin? Vinegar? A breath of oil so it doesn’t seize.”
+She bowed her head because that was the only gesture that didn't waste anyone's time or dignity. The movement sent a strand of hair across her face, still damp with melted snow. "I understand." She looked up, meeting the Administrator's eyes directly. "May I stand where I am useful now?"
 
-The work took breath and steadiness; Samantha felt the edges of fatigue the way a blade feels a whetstone—aware, but not dulled.
+The Administrator turned to Melf as if the answer lived with him—not deference but delegation, the efficient distribution of decisions to those best equipped to make them. "What do you need in the Crucible?"
 
-“Saltpeter is low,” a student called from a ledger.
+"Hands that don't panic when the coil coughs," Melf said, his voice warm with the promise of shared work. "An eye for seams. Someone who can read chalk like a second language." His eyes found Samantha for a confirming beat—not asking permission but making a small contract of trust. "She does all three."
 
-“Then we’ll not ask it to dance,” Melf said. “Samantha?”
+"Granted," the Administrator said. The word fell with the weight of official sanction. "You will receive a billet and a badge for internal movement. After the countermeasure is stable, you may request five minutes to speak to the triad. No promises beyond five minutes."
 
-She stepped to the bench without feeling small. “Short and tight chalk marks set through it,” she said. “If the wash leaves a sheen, the chalk will skate. It needs a bite.”
+Five minutes. It wasn't what she had come for, but it was a foothold on a cliff face that had seemed smooth. "Thank you," Samantha said, and felt something small and fierce unfurl in her chest—not quite hope, but the possibility of hope.
 
-“Good,” Melf said. “Bay oil for bite. A hair. Lareth, hold the hum where it is—no surges. If it scums, we’ve over‑asked the vinegar.”
+They walked toward the Green Crucible, a long, low hall where working sigils made their own weather. The door exhaled breath that carried the mingled scents of vinegar sharp enough to make her eyes water, brass polish that caught in the back of her throat, damp wool that spoke of long hours and dedicated work, and oranges that had given their skins to someone else's tincture—a ghost of citrus floating over everything else.
 
-“Holding,” Lareth said, and his palm steadied the sigil‑ring with the steadiness of a man who had learned long ago how to be a metronome.
+Inside, sigil-lines traced the ceiling in geometries that pleased the eye without revealing their purpose to casual observation. Focus rings gleamed along the walls like silver eyes, each one positioned with the precision of a master clockmaker. In the corner, a green-banded crucible sat with the sullen patience of a tool that had opinions about being asked to work again.
 
-Work took them.
+The air hummed with potential—not loud, but persistent, like the feeling before a thunderstorm when every hair on your body stands at attention.
 
-Samantha ground juniper resin with a mortar worn smooth by stronger hands than hers, then bled vinegar in with a patience that felt like prayer but was not. The smell rose sharp and clean. A student brought bay leaves; she cracked one between her nails and let the oil thread the mix until the gloss shifted from slick to sure. Melf tuned the rune‑kiln with fingertip taps that made the copper sing. Lareth watched the glyphs and kept the working even, as if it had always wanted to be there.
+"Steady," Lareth said to the room, his voice cutting through nervous chatter without needing volume. The words carried authority earned through competence, respected because it had been tested. "We're being clocked."
 
-They tested on a fouled stave taken from the wall. The wash turned the grit to mud that lifted under a cloth without scratching. Samantha drew a tightening curve with new chalk and felt it take as if the wood had been waiting for this exact shape to make sense again.
+"As always," Melf said, rolling his sleeves to his elbows with methodical care. His forearms were strong in the way of people who lifted things more important than themselves—not the bulk of a laborer but the precise strength of a craftsman. "All right. Binder wash. We need something that turns grit into polite paste and slides out of grooves without scratching. Juniper resin? Vinegar? A breath of oil so it doesn't seize."
 
-“It bites,” she said, unable to keep the small satisfaction out of her voice.
+The work demanded breath and steadiness. Samantha felt fatigue at the edges of her consciousness like a blade testing an edge—aware of its presence but not yet cutting deep enough to matter.
 
-“It does,” Melf said, not looking up because his hands were busy making the next batch bigger. “We’ll need pails and sane people to carry them. We’ll need to teach the marks in three minutes to hands that feel like they have five.”
+"Saltpeter is low," a student called from across the room, consulting a ledger with the careful attention of someone who knew that mistakes had consequences.
 
-Lareth glanced to Samantha. “Your five minutes,” he said. “Earned sooner with this than any speech.”
+"Then we'll not ask it to dance," Melf said, his hands already moving toward ingredients with the confidence of long practice. "Samantha?"
 
-“I meant to speak first,” she admitted, surprising herself. “I am better when I have said what I came to say.”
+She stepped to the bench without hesitation, feeling the rightness of the movement in her bones. "Short and tight chalk marks need to set through it," she said, her voice gaining strength from familiar ground. "If the wash leaves a sheen, the chalk will skate. It needs bite."
 
-“You said it,” Melf said mildly. “Just not with your mouth.”
+"Good," Melf said, approval warm in his voice. "Bay oil for bite. A hair. Lareth, hold the hum where it is—no surges. If it scums, we've over-asked the vinegar."
 
-The door opened and the garden’s cold made a brief treaty with the room’s heat. The warden in the blue sash held out a tin badge stamped with the University’s seal—a stylized fjord and three spires. “For internal movement,” she said. “Don’t get lost. People do, even in straight halls, when they’re needed in more than one place.”
+"Holding," Lareth said, his palm settling on the sigil-ring with the steadiness of a man who had learned long ago how to be a living metronome.
 
-“I won’t,” Samantha said. She pinned the badge to her cloak and felt something small align. Not acceptance, not yet. A place to stand. The bells in the city were quieter now, and the steam rose steady where it met the cold.
+Work took them. Not the desperate scramble of the siege, but the focused dance of people who knew their craft and trusted each other to know theirs.
 
----
+Samantha ground juniper resin with a mortar worn smooth by countless hands stronger than hers. The pestle fit her grip like it had been waiting for her to arrive. She bled vinegar into the mixture with drops that fell like counted coins—each one measured, each one purposeful. The smell rose sharp and clean, cutting through the workshop's other scents like a blade through silk.
 
-## Aftermath
-- Continuity links: [[01 - Siege at Coldreach]] → [[03 - TBD Next Scene]]
-- Update character states: Samantha refused but redirected; earns a narrow hearing after countermeasure. Lareth trusts her under pressure. Melf formalizes her help as pedagogy.
-- Loose ends: Admin triad hearing pending; resource shortfalls remain.
+A student brought bay leaves, their surfaces glossy with oil that caught the light. She cracked one between her nails—the sound crisp as breaking glass—and let the oil thread through the mixture until the consistency shifted from slick to sure. Her hands moved without conscious thought, following patterns learned in quieter laboratories in distant places.
+
+Melf tuned the rune-kiln with fingertip taps that made the copper sing in harmonics that settled in her bones like music. Each note was precise, intentional, part of a larger melody only he could hear. Lareth watched the glyphs with the intensity of a cat watching mice, keeping the working steady through small adjustments that spoke of deep understanding.
+
+Magic always asked for breath and discipline. Overreach frayed edges or made them bite back through channels never meant to carry such forces. She could taste it now—the copper-lightning flavor of power flowing through living flesh, the metallic tang that spoke of boundaries tested but not crossed.
+
+They tested their work on a fouled stave pulled from the wall—old wood blackened with the enemy's grit. The wash turned the contamination to mud that lifted under cloth without scratching the surface beneath. Samantha drew a tightening curve with fresh chalk, feeling it bite the wood like it had been waiting for exactly this shape to make sense again.
+
+"It bites," she said, unable to keep satisfaction from coloring her voice.
+
+"It does," Melf said, his attention focused on scaling the mixture to useful quantities. His hands moved with the precision of someone who had made the same calculations countless times. "We'll need pails and steady hands to carry them. We'll need to teach these marks in three minutes to fingers that feel like they have eight thumbs."
+
+Lareth glanced toward Samantha, something that might have been approval flickering in his expression. "Your five minutes," he said. "Earned sooner with this than any speech."
+
+"I meant to speak first," she admitted, the confession surprising her with its honesty. "I am better when I have said what I came to say."
+
+"You said it," Melf said, his tone mild but certain. "Just not with your mouth."
+
+The door opened with a whisper of hinges that needed oil. The garden's cold made a brief treaty with the workshop's warmth, and in the balance between them the warden in the blue sash appeared. She held out a tin badge stamped with the University's seal—a stylized fjord and three spires that caught the light like promises. "For internal movement," she said. "Don't get lost. People do, even in straight halls, when they're needed in more than one place."
+
+"I won't," Samantha said. She pinned the badge to her cloak with fingers steady despite the morning's trials, feeling something small but significant align in her chest. Not acceptance—not yet. But a place to stand, a foundation from which to build. The bells in the city had grown quieter, and steam rose steady where workshop warmth met winter air.
+
+*Five minutes with the triad. It's enough. It has to be enough.*
+
+Notes: This scene links to [[01 - Siege at Coldreach]] and establishes Samantha's foothold at the University, setting up her formal petition opportunity.

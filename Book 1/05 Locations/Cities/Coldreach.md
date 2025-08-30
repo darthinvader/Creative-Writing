@@ -13,13 +13,15 @@ updated: 2025-08-29
 - Reputation: Tough, communal, skeptical until convinced.
 
 ## Districts & Features
-- North Wall — site of the opening siege and ward-stave anomalies.
+- North Wall — site of the opening siege and ward-stave anomalies; North Bend particularly vulnerable to assault.
+- West Gate — breached during the siege, forcing organized retreat.
 - Harbor Quarter — ice-scarred pilings; winter fleets pulled to sheds.
 - Council Hall — compact, timbered, practical.
 
 ## Security & Wards
-- Civic sigils tied to hearth-wards; University-standard staves along parapets.
-- Recent Issue: "Bleeding" wards consistent with magic-drain patterns.
+- Civic sigils tied to hearth-wards; University-standard ward-staves along parapets that can be fouled by alchemical chaff (salted ash and iron grit).
+- Recent Issue: "Bleeding" wards consistent with magic-drain patterns; staves require cleaning and counter-marking to restore function.
+- North Bend: Vulnerable section where wind cuts worst, susceptible to ladder assaults.
 
 ## Current Events
 - Fell after a siege by foreign sellswords covertly funded by [[Serathis|Serathis (Eastern Realm)]].

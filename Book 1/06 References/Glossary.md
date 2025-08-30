@@ -1,5 +1,10 @@
 ---
-title: Glossary — Book 1
+- The Lattice: The patterned substrate of magic; replaces the D&D term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.
+- Lattice Sight: Lareth's unique ability to perceive magical flows and tensions directly; enables precise spellcraft and misfiring prevention.
+- Strain: The accumulating effort from working the Lattice; managed via cadence, rests, washes, and sinks. Exceeding Redlines risks misfires and warp.
+- Redline Three: Crisis operating band at [[Winter University]]; external petitions paused; triage of resources and safety.
+- Green Crucible: Heat-tolerant lab hall at [[Winter University]] for countermeasures like binder washes.
+- Alchemical Chaff: Salted ash and iron grit used to foul magical wards and precision casting; countered by binder washes and re-marking.e: Glossary — Book 1
 ---
 
 # Glossary

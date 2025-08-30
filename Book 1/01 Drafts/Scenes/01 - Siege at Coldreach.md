@@ -15,96 +15,96 @@ updated: 2025-08-30
 
 Goal: Deliver a plea for aid and be believed by proving herself in battle and on the line.
 Conflict: Organized sellsword assault (Serathis coin) with alchemical chaff; storm; skepticism; breach attempt at the North Bend.
-Turn: Samantha holds a ladder breach in close quarters with disciplined strikes and an empowered smite, buying time for Melf’s stonework and Lareth’s fire lines.
-Outcome: West Gate compromised; ordered withdrawal toward [[Winter University]] to regroup, brew countermeasures, and hear Samantha’s petition.
+Turn: Samantha holds a ladder breach in close quarters with disciplined strikes and an empowered smite, buying time for Melf's stonework and Lareth's fire lines.
+Outcome: West Gate compromised; ordered withdrawal toward [[Winter University]] to regroup, brew countermeasures, and hear Samantha's petition.
 
-The third bell swung to war when the first ladder hit stone. Samantha took the stairs two at a time, shoulder to the press, breath white in the sleet. She had come to speak in a council chamber with a sealed petition and a practiced voice. A guard with a crooked braid had redirected her with a jab of two fingers: “If you’re a caster, up. We need hands, not speeches.”
+The third bell swung to war when the first ladder hit stone. The impact shuddered through Samantha's boots, up her shins, settling in her teeth like the taste of copper. She took the stairs two at a time, shoulder grinding against rough-hewn stone, each breath a knife of frozen air that burned her throat white. Ice crystals formed on her lashes with each blink. She had come to speak in a council chamber with a sealed petition and a practiced voice—now that voice was trapped behind chattering teeth and the metallic fear coating her tongue. A guard with a crooked braid and frost-cracked lips had redirected her with a jab of two fingers that left bruises: "If you're a caster, up. We need hands, not speeches."
 
-“I’m an acolyte,” she’d said. “I can help.”
+"I'm an acolyte," she'd said, the words barely escaping the vice of cold around her chest. "I can help."
 
-From the parapet the enemy were plain: not an army, a contract. Brigands and sellswords in mismatched mail with tarred shields slick with sleet, some marked by onyx sea‑drake pins—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets and ladders, two sled‑mounted towers lurching in the gusts. An unknown banner hung stiff with ice. At the fore, men with slings scattered glittering grit against the wind so it skittered along the stone like blown sand. Behind them, a ram head of iron waited like a patient animal.
+Her stomach twisted. *Can I?*
 
-“Alchemical chaff,” someone muttered near her. “Salted ash and iron. Foul the catches.”
+From the parapet the enemy were plain: not an army, a contract. The stench hit first—unwashed bodies, rotting leather, the sour reek of men who'd marched through mud and worse. Brigands and sellswords in mismatched mail that screamed with each movement, rust flaking like dried blood. Their tarred shields steamed in the sleet, the acrid smoke making her eyes water. Some bore onyx sea‑drake pins that glinted like wet obsidian—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets on wheels that shrieked like dying animals, ladders dark with old blood, two sled‑mounted towers lurching in the gusts like drunken giants. An unknown banner hung stiff with ice, its fabric crackling. At the fore, men with slings whirled their weapons in practiced arcs, the whistle of leather cutting through wind. They scattered glittering grit that hissed against stone, skittering like a thousand tiny claws. Behind them, a ram head of pitted iron waited, its mouth twisted in a permanent snarl.
 
-A man in a heavy traveling cape had both hands pressed to a fresh plug of pale blocks. His beard was a grand thing—big, white, rimed with frost—and long silver‑white hair blew from beneath his hood. The cape itself billowed and folded in clever layers: one of the many from the “cape of capes” he was famous (and teased) for. “Two inches more,” he called to the team below, voice cheerful despite the cold, “and I promise I will stop making these heavier than they already are.”
+"Alchemical chaff," someone muttered near her, spitting pink-tinged phlegm over the wall. "Salted ash and iron. Foul the catches, burn your lungs if you breathe it."
 
-Samantha realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered. Old mortar creaked, then knit with a ripple like frost taking a window.
+The grit stung where it found exposed skin, leaving welts that throbbed with each heartbeat.
 
-He glanced along the parapet, caught Samantha watching, and raised his brows as if to ask whether she planned to faint. “Don’t,” he said lightly. “We’re very short on fainting space.”
+A man in a heavy traveling cape had both hands pressed to a fresh plug of pale blocks, his knuckles white with strain. Sweat beaded on his forehead despite the cold, freezing before it could fall. His beard was a grand thing—big, white, rimed with frost that crackled when he spoke—and long silver‑white hair whipped from beneath his hood like banners. The cape itself billowed and folded in clever layers: one of the many from the "cape of capes" he was famous (and teased) for. The fabric whispered secrets with each gust. "Two inches more," he called to the team below, voice cheerful despite the tremor of exhaustion beneath, "and I promise I will stop making these heavier than they already are."
 
-“I won’t,” she said, then, because it itched at her, “Something’s off on that seam.”
+The stone groaned. Samantha felt it in her bones—a deep, primal sound like the earth itself crying out.
 
-“Is it?” He pressed two fingertips to the seam and smiled as if the wall had told him a joke. Warmth pulsed once in the stone. “Better?”
+She realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered with a sound like breaking bones knitting backwards. Old mortar creaked, dust cascading in gray waterfalls, then knit with a ripple like frost taking a window. The smell of crushed limestone and something older—magic itself—filled her nostrils.
 
-“Better,” she said, and moved on.
+He glanced along the parapet, caught Samantha watching, and raised his brows as if to ask whether she planned to faint. His eyes were the color of winter sky before a storm. "Don't," he said lightly, though she could see the strain in the cords of his neck. "We're very short on fainting space."
 
-Along the inner path of the parapet another figure walked as if the wind were merely inconvenient. Trimmed beard, slick black hair, eyes that measured rather than glared. [[Lareth Lakhart]] did not posture. He lifted a hand without flourish and a narrow stripe of flame stitched along the snow between two ladders, not a wave but a precise line. When grapnels came, he clipped ropes with neat lances and burned ice beneath boots rather than men when he could, letting archers do the rest. The air smelled of pitch, hot iron, and singed hair.
+"I won't," she said, then, because it itched at her like a splinter beneath skin, "Something's off on that seam."
 
-Samantha anchored her satchel with her knee and checked the ward‑staves set at intervals along the stone. She knew enough to spot when light ran wrong, not enough to name every mark. These read thin—insulated, not failing but fouled.
+"Is it?" He pressed two fingertips to the seam and she heard him suck in a sharp breath—the stone bit back. A bead of blood welled on his finger before he smiled as if the wall had told him a joke. Warmth pulsed once in the stone, and with it came the smell of hot granite and ozone. "Better?"
 
-At the north curve a stave dimmed. Samantha was already shouldering past a bowman whose fingers were blue to the second knuckle. “Excuse me,” she said, and set her palm to the spiral. The wood was dusted with the enemy’s glittering grit where it lodged in the cuts.
+"Better," she said, tasting the metallic aftershock of his working, and moved on.
 
-She took a scrap of oiled wool from her satchel and wiped the spiral clean. “Counter‑mark?” she asked without looking up.
+Along the inner path of the parapet another figure walked as if the wind were merely inconvenient. The ice beneath his boots hissed and steamed with each step. Trimmed beard glistening with melted frost, slick gray hair plastered to his skull—younger-seeming than his years would suggest—eyes that measured rather than glared, cold as the arithmetic of death. [[Lareth Lakhart]] did not posture. He lifted a hand without flourish and a narrow stripe of flame stitched along the snow between two ladders, the heat hitting Samantha's face like an open forge. Not a wave but a precise line that left the air shimmering and her skin tight. Snow flash-boiled to steam that scalded exposed flesh. When grapnels came—metal singing its hunger through the air—he clipped ropes with neat lances that left ends glowing cherry-red, dripping molten hemp. He burned ice beneath boots rather than men when he could, the screams of those who slipped and fell making her gorge rise. The air grew thick with pitch smoke, hot iron tang, and the sweet-sick smell of singed hair and cooking meat where flames found flesh.
 
-“Short and tight,” Melf said, arriving with the smell of wet wool. “Just snug it; don’t redraw the world.”
+Samantha's eyes watered. Her mouth tasted of ash.
 
-She chalked a small tightening curve where he tapped and whispered the smallest of her rites—the kind that steadied candles in drafty chapels. The stave brightened and held.
+She anchored her satchel with her knee, the leather already stiff with cold, and checked the ward‑staves set at intervals along the stone. The wood thrummed against her palm like a dying heartbeat. She knew enough to spot when light ran wrong—the way it flickered and dimmed like a candle drowning in its own wax—not enough to name every mark. These read thin, their glow the sickly yellow of infected wounds—insulated, not failing but fouled.
 
-“Did they hire alchemists after all?” a student asked, breath fogging.
+At the north curve a stave dimmed to nothing. The absence of its warmth hit like a slap. Samantha was already shouldering past a bowman whose fingers were blue to the second knuckle, the joints swollen like sausages. His breath wheezed; frostbite was eating him alive. "Excuse me," she said, and set her palm to the spiral. The wood was rough with ice crystals, dusted with the enemy's glittering grit that burned like salt in a wound where it lodged in the cuts.
 
-“Looks like it,” Melf said, the wet‑wool smell following him. Up close he seemed carved from winter itself, all silver and white and a grin that warmed cold fingers. “They’re clever—throwing grit where our work is fussy.” He spread his hands toward the plug. “I’ll keep the shoelaces tied; you two keep the boots on the right feet.”
+She took a scrap of oiled wool from her satchel—it reeked of lanolin and old sweat—and wiped the spiral clean. Black residue came away on the cloth. "Counter‑mark?" she asked without looking up, her voice tight.
 
-Samantha kept pace between them. “I came to petition the University,” she said—“for counsel, and a caster if any would hear me.”
+"Short and tight," Melf said, arriving with the smell of wet wool and stone dust. His breathing was labored now, each exhale a plume of frost. "Just snug it; don't redraw the world."
 
-“Not on the wall,” Lareth said, his tone even as the flame. “Hold here first. After, speak—and I’ll listen.”
+She chalked a small tightening curve where he tapped, the chalk squealing against wood, leaving white dust on her fingers that mixed with blood from her scraped palms. She whispered the smallest of her rites—the kind that steadied candles in drafty chapels—and felt the words pull something from her core, leaving her hollow. The stave brightened with a sound like a sharp intake of breath and held.
 
-“Steady,” Lareth said without looking away from the field. “They’re clocking how much fire we spend.”
-His voice stayed even, and the flame stitched exactly where he set it—no wider than a boot, no hotter than needed.
+"Did they hire alchemists after all?" a student asked, breath fogging. His lips were already turning blue.
 
-The next push came quick: mantlets thumped into place; ladders rose; hooks bit stone. Lareth rationed flame in tight stitches that melted rings and sent men scrambling. Melf shifted the wall’s grain so a crack went sideways instead of through, and a ladder bounced back when its hooks failed to bite.
+"Looks like it," Melf said, wiping blood from his nose with the back of his hand. The wet‑wool smell followed him, mixed now with copper. Up close he seemed carved from winter itself, all silver and white and a grin that warmed cold fingers even as exhaustion carved lines around his eyes. "They're clever—throwing grit where our work is fussy." He spread his hands toward the plug, and she saw them tremble. "I'll keep the shoelaces tied; you two keep the boots on the right feet."
 
-Magic always asked for breath and discipline; overreach frayed edges or made them bite back.
+Samantha kept pace between them, her boots slipping on ice slick with blood. "I came to petition the University," she said, having to shout over the wind's howl—"for counsel, and a caster if any would hear me."
 
-Another stave went dim. Samantha cleaned, followed Melf’s curt taps for placement, and snugged it before the dullness could spread.
+"Not on the wall," Lareth said, his tone even as the flame, though sweat carved channels through the soot on his face. "Hold here first. After, speak—and I'll listen."
 
-“Understood,” Lareth said. “Archers, cover her hands.”
+A crossbow bolt whistled past her ear, so close she felt the fletching kiss her cheek.
 
-They held their stretch. The sled‑tower nearest them pitched when a wheel—hastily nailed and badly—sheared its spokes. Men jumped; one landed with a leg turning wrong and howled until an arrow took him quiet. Lareth burned the ice beneath the others’ feet to slow rather than sear, and the city’s fletchers did the rest. Blood hit snow and steamed.
+"Steady," Lareth said without looking away from the field, though his jaw clenched. "They're clocking how much fire we spend."
 
-Relief lasted three breaths. Then a knot of sellswords crashed grapnels under a mantlet and rammed a ladder up flush to the North Bend where the wind cut worst. Hooks shrieked on stone. Three crested the parapet at once—tarred shields, ice on their beards, knives for close work.
+His voice stayed even, but she could see the cost—the way his shoulders hunched, the tremor in his extended hand. Through his Lattice Sight, he could read the precise threads of power, stitching flame exactly where he set it—no wider than a boot, no hotter than needed—but each casting left him grayer.
 
-Samantha moved. Training settled her shoulders and emptied her breath. She stepped inside the first man’s guard, turned his elbow, and struck the rim of his helm with the butt of her weapon—clean, efficient, no flourish. Metal rang; his teeth pinked his breath. The second swung low; she caught on leather bracer, drove her shoulder, and stamped his knee. Something in it gave with a wet pop. The third met her eyes, hesitated at what he saw there, and paid for it.
+The next push came like a hammer blow: mantlets thumped into place with impacts that rattled teeth; ladders rose like skeletal fingers; hooks bit stone with shrieks that set her teeth on edge. The sound of tearing metal on stone was the sound of nightmares. Lareth rationed flame in tight stitches that melted rings to flesh—the screams were immediate and horrible—and sent men scrambling back with blistered hands fused to ladder rungs. The stench of burned pork made her stomach heave. Melf shifted the wall's grain with a grinding sound like millstones, and when a crack tried to form, he guided it sideways instead of through. A ladder bounced back when its hooks failed to bite, the man at its top falling with a wet crunch that carried even over the battle din.
 
-“Left!” a student shouted. Lareth’s flame stitched a line behind the ladder to keep new boots from finding purchase. Melf’s hands were sunk to the wrists in stone, coaxing grain to bite the ladder’s hooks. Grit hissed; frost cracked.
+Magic always asked for breath and discipline; overreach frayed edges or made them bite back through the Lattice's own resistance. She could taste it now—the copper-lightning flavor of power burning its channels through living flesh.
 
-Steel rang. The first man recovered with a snarl. Samantha drew a breath that tasted like snow and smoke and prayer. “Valamar,” she said, not loud but true.
+Another stave went dim with a dying wheeze. Samantha cleaned, her fingers numb and clumsy, followed Melf's curt taps for placement, and snugged it before the dullness could spread like gangrene.
 
-Light ran up her arm like a bell-note made visible. The next strike landed with more in it than muscle—a clean, constrained blow that drove the man back as if the air itself had weight. He hit the ladder hard enough to rattle every ring in his mail; one fell, one clung, and the last froze long enough for an arrow to punch through the gap at his collarbone.
+"Understood," Lareth said, blood trickling from one nostril. "Archers, cover her hands."
 
-“Smite,” Melf said conversationally, as if identifying a bird by its call. “Useful.”
+They held their stretch. Muscles screamed; tendons pulled taut as bowstrings. The sled‑tower nearest them pitched when a wheel—hastily nailed and badly—sheared its spokes with a sound like breaking teeth. The tower groaned, tilted, and men jumped rather than ride it down. One landed with a leg turning wrong, the bone punching through leather with a wet snap. His howl cut through everything else—primal, animal—until an arrow took him quiet, the shaft sprouting from his throat like a crimson flower. He gurgled, clawed at it, then went still. Blood hit snow and steamed, the iron smell thick enough to chew.
 
-“Measured,” Lareth said, approving the restraint as much as the force. “Hold them there.”
+Relief lasted three breaths that tasted of death. Then a knot of sellswords crashed grapnels under a mantlet and rammed a ladder up flush to the North Bend where the wind cut worst, driving ice splinters like needles into exposed flesh. Hooks shrieked on stone—the sound of violation. Three crested the parapet at once—tarred shields smoking in the cold, ice on their beards, eyes like chips of flint, knives for close work that gleamed with promise.
 
-Samantha held. Not by shouting, not by show, but by placing each step where it counted and making each hit do only the work required. When more hands reached the crenel, she rapped knuckles hard enough to split one, hooked a wrist, and sent a knife clattering into the yard below. The empowered hum faded as quickly as it had come; she did not chase it. She saved it.
+Samantha moved. Training settled her shoulders and emptied her breath, but her heart hammered against her ribs like a caged bird. Time stretched like molten glass. She stepped inside the first man's guard—close enough to smell the rancid oil on his beard, the stale beer on his breath, see the broken veins in his eyes—turned his elbow with a wet pop, and struck the rim of his helm with the butt of her weapon. The impact jarred up her arms, into her shoulders. Metal rang like a broken bell; his teeth pinked his breath in a spray that spotted her face warm and copper-sweet. The second swung low, aiming for her guts; she caught on leather bracer that split but held, the blade's edge kissing her skin beneath, drove her shoulder into his solar plexus feeling ribs flex, and stamped his knee. Something in it gave with a wet pop like a knuckle cracking underwater. He screamed—high and thin—as the joint bent sideways. The third met her eyes, hesitated at what he saw there—her own face reflected in his pupils, splattered with blood, eyes wild—and paid for it when her strike caught him in the throat. Cartilage crunched. He dropped, clawing at his crushed windpipe, making sounds no human should make.
 
-Melf breathed out and the ladder’s hooks failed to bite. “Shoelaces tied,” he said. The ladder lurched backward and slid; bodies thumped into the drift, dull as sacks of wet grain.
+"Left!" a student shouted, voice cracking with panic. Lareth's flame stitched a line behind the ladder—flesh sizzled where it found targets—to keep new boots from finding purchase. The screaming intensified. Melf's hands were sunk to the wrists in stone that flowed like thick honey, coaxing grain to bite the ladder's hooks. Grit hissed against magic; frost cracked like bones breaking. His face was gray with strain, blood running freely from his nose now.
 
-Only then did relief last four breaths.
+Steel rang—a pure note in the chaos. The first man recovered with a snarl that showed teeth filed to points. His breath reeked of rotting meat. Samantha drew a breath that tasted like snow and smoke and prayer and the copper of her own fear. Something in her chest expanded, pressed against her ribs, demanded release. "Valamar," she said, not loud but true, the word scraping her throat raw.
 
-From the West Gate came a blow that felt like a drum in the stone. A long, low horn rolled over the streets—the withdrawal note. Bells followed in measured sequence, calling districts by order toward the inner ways.
+Light ran up her arm like a bell-note made visible, like lightning given form and purpose. Her skin prickled, every hair standing on end. The sensation was ecstasy and agony combined—power burning channels through meat never meant to hold it. The next strike landed with more in it than muscle—a clean, constrained blow that drove the man back as if the air itself had weight and wrath. His sternum caved with a crack like a tree splitting. He hit the ladder hard enough to rattle every ring in his mail, the sound like a sack of coins dropping. One fell immediately, limbs loose; one clung with fingers that left bloody streaks on the rungs; and the last froze long enough for an arrow to punch through the gap at his collarbone with a meaty thunk. He looked surprised as dark blood bubbled from his lips.
 
-Samantha realized her palm stung where chalk had ground into old scrapes. She flexed her fingers and looked to the others.
+"Smite," Melf said conversationally, as if identifying a bird by its call, though his voice was hoarse. "Useful."
 
-“We regroup at the University,” Lareth said, already turning. Snow beaded on his slick hair and trimmed beard; he brushed it away with the back of one gauntlet. “They’ll want a plan for countering the chaff, and I intend to hear your petition where I can listen to it.”
+"Measured," Lareth said, approving the restraint as much as the force while wiping blood from his upper lip. "Hold them there."
 
-Melf rolled his shoulders and the wall answered by settling another fraction. He flicked the edge of his billowing cape as if selecting which layer to wear next. “We can brew a binder wash and a new chalk in under an hour,” he said. “And I’ll file the paperwork later about how I definitely did not do anything the triad should scold me for.”
+Samantha held. Not by shouting, not by show, but by placing each step where it counted and making each hit do only the work required. Her body moved on instinct now, training overriding the part of her mind that wanted to curl up and weep. When more hands reached the crenel—fingers like pale spiders—she rapped knuckles hard enough to split skin to bone. The crack was audible. She hooked a wrist, feeling tendons pop beneath her grip, and sent a knife clattering into the yard below where it rang against stone. The empowered hum faded as quickly as it had come, leaving her feeling hollow and brittle as old paper; she did not chase it. She saved it, hoarding it like a last swallow of water in the desert.
 
-“You didn’t,” Samantha said, a little breathless.
+Melf breathed out—a long, shuddering exhale—and the ladder's hooks failed to bite. "Shoelaces tied," he said, though his grin was more grimace now. The ladder lurched backward and slid; bodies thumped into the drift far below, dull as sacks of wet grain. Some moved afterward. Most didn't.
 
-“Not yet.” He finally allowed himself a small, tired grin. “We’ll save the scolding for when it’s fun.”
+Only then did relief last four breaths that rattled in her chest.
 
-They left the parapet to those who knew how to clean and count. Snow was already filling footprints. Below, the sellswords were reforming around a wedge and a ram; above, the bells named streets and routes. “[[Winter University]],” Lareth said, as if it were a direction and not a place. Samantha hugged her satchel close and followed them down.
+From the West Gate came a blow that felt like a drum in the stone, like the world's own heartbeat stumbling. The vibration traveled up through her boots, into her bones, settling in her chest like dread given weight. A long, low horn rolled over the streets—the withdrawal note, mournful as a dying animal. Bells followed in measured sequence, bronze voices calling districts by order toward the inner ways. Each toll was a small surrender.
 
-—
+Samantha realized her palm stung where chalk had ground into old scrapes, mixing with fresh blood to form a pink paste. She flexed her fingers and looked to the others. They all looked like they'd been dragged through hell's own kitchen.
 
+"We regroup at the University," Lareth said, already turning, though blood still traced from his nose. "They'll have gone to Redline Three by now—crisis protocols, emergency shelter for the refugees." His voice carried the exhaustion of sustained casting, but also grim satisfaction. "And time to brew proper countermeasures for their alchemical tricks."
 Notes: This scene links to [[Outline#Chapter-by-Chapter|Outline]], anchors the inciting incident, and should be cross‑referenced in [[Timeline]].

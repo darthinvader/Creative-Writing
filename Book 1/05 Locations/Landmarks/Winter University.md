@@ -39,7 +39,7 @@ updated: 2025-08-29
 	 - If we don’t want Heat: Treat magic as costless for the scene. Remove clocking/needle mentions; keep only character fatigue as flavor. This is a dial, not a cage.
 
 ## Timeline
-- Y1 M1 D1 — Organized retreat from [[Coldreach]] begins; civilians and students received under emergency shelter protocols. See [[01 - Siege at Coldreach]] and [[Timeline]].
+- Y1 M1 D1 — Organized retreat from [[Coldreach]] begins; civilians and students received under emergency shelter protocols and Redline Three crisis mode. See [[01 - Siege at Coldreach]] and [[Timeline]].
 
  
 

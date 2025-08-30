@@ -54,15 +54,16 @@ Erandia is a continent of multiple kingdoms that exists in a liminal space betwe
 ## Ruling Family & History
 
 ### Royal Lineage
-- **Parents:** Angels (deceased) - Divine beings who established the royal line
-- **Current Ruler:** Queen [[Andromeda]] - "Very old woman" maintaining peace
-- **Herald:** [[Samantha Seraphel]] - Younger sister, serves as diplomatic envoy
+- **Founding Line:** Ancient angelic dynasty that established [[Whitehaven]]'s throne
+- **Current Ruler:** Queen [[Andromeda]] - Carries royal angelic bloodline, appears much older than chronological age due to extended lifespan
+- **Herald:** [[Samantha Seraphel]] - Adopted sister; birth parents were angelic servants to the royal house (deceased)
+- **Succession:** Both sisters carry angelic heritage but through different lineages
 
 ### Royal Nature
-- Both sisters carry angelic heritage from their divine parents
-- Samantha appears unaware of her full angelic nature (as established in character notes)
-- Andromeda likely more conscious of divine responsibilities given her age and throne
-- Longevity suggests extended lifespans due to angelic blood
+- Andromeda carries the full royal angelic bloodline with extended lifespan (appears much older despite being Samantha's adoptive sister)
+- Samantha has direct angelic parentage through servant-class angels, appears younger due to different heritage expression
+- Both possess angelic capabilities but at different scales and manifestations
+- Longevity and aging patterns vary significantly based on specific angelic lineage
 
 ## Current Conflict
 

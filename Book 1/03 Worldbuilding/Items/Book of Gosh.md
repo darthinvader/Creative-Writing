@@ -1,5 +1,21 @@
 ---
-title: Book of Gosh
+title: Book of Gos## Guardian & Protection
+- **Undead Dragon Guardian**: A skeletal dragon bound to protect the book with single-minded purpose
+- **Guardian's Nature**: Husk of bone and shadow, retains intelligence but exists only to fulfill its duty
+- **Guardian's Rules**: One absolute imperative - protect the book from those who would misuse it
+- **Guardian's Judgment**: Can recognize legitimate need vs. corruption, allows access to worthy protectors
+- **Location**: Hidden chamber beneath Administrator's quarters, accessible only by magic ring
+
+## Current Status
+- Hidden in a secret chamber beneath the Administrator's quarters at [[Winter University]]
+- Chamber sealed by magic ring in the Administrator's possession
+- Guarded by an undead dragon bound to eternal protection duty
+- Separated from the [[Sword of Gosh]] to prevent easy reunification
+- **Multiple Seekers**: Actively pursued by both [[Lady Vaelora Serath]] (diplomatic/intelligence approach) and [[Tengus]] (direct threat approach)
+- **Compromised Security**: Outer seals partially breached by Serathis agents, forcing confrontation
+- **Guardian Status**: Stirring to activity due to proximity of multiple powerful threats
+- **Current Conflict**: [[Samantha Seraphel]], University triad, Serathis agents, and Tengus converging on sealed chambers
+- Without this book's rites, attempts to wield the sword risk triggering Baramoth's minotaur incursion (see: Paladin King incident)
 type: item
 status: draft
 tags: [#item, #grimoire, #artifact]

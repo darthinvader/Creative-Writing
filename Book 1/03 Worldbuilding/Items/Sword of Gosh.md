@@ -1,6 +1,14 @@
 ---
 title: Sword of Gosh
-type: item
+type## Current Status
+- Located in sealed chambers beneath [[Winter University]], paired with the [[Book of Gosh]]
+- Actively sought by multiple factions: [[Lady Vaelora Serath]] of [[Serathis]], [[Tengus]] (dark elf sorcerer), and [[Samantha Seraphel]] (purification purpose)
+- **Security Crisis**: Containment seals compromised by Serathis infiltration, forcing immediate action
+- **Guardian Awakening**: Undead dragon stirring in response to multiple powerful presences
+- **Three-Way Conflict**: Diplomatic agents, overwhelming sorcerer, and paladin herald all converging on artifact location
+- **Escalation Point**: Tengus has abandoned subtlety, threatening mass destruction if denied access
+- Previous failed attempt by the Paladin King to wield it unpurified precipitated Baramoth's incursion and destroyed his city
+- **Critical Junction**: Current conflict may determine whether artifacts are purified, corrupted, or unleash demonic incursionitem
 status: draft
 tags: [#item, #artifact, #cursed]
 created: 2025-08-29

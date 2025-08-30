@@ -28,7 +28,7 @@ updated: 2025-08-30
 
 ## Abilities
 - High-output evocations (fire-centric), counter-siege tactics, unit coordination.
- - Lattice Sight: perceives The Lattice directly—flows and tension; uses this to stitch precise fire lines and prevent misfires.
+ - Lattice Sight: perceives [[Magic System — The Lattice|The Lattice]] directly—flows and tension; uses this to stitch precise fire lines and prevent misfires.
  - Discipline: cadenced casting and restraint; keeps team work clean and safe under pressure.
  - Capacity & Control: Exceptional capacity paired with battlefield-scale control; steady voice and cadence let him hold large effects without drift.
 - Astronomy and timekeeping: sky charts, conjunction tracking, navigation by stars; applies celestial timing to spell planning.

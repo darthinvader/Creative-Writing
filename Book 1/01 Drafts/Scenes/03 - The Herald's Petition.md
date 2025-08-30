@@ -28,6 +28,8 @@ Melf rubbed his temples where soot had left smudges despite his careful washing.
 
 Lareth sat with the controlled stillness of someone managing exhaustion through discipline. His astrolabe rested beside notes covered in siege calculations—angles of fire, ward coverage patterns, resource consumption rates. Even now, part of his attention tracked the sounds filtering through the herbarium's walls: the distant shouts of cleanup crews, the clatter of wagons moving supplies. "Speak quickly," he said, not unkindly. "The bells haven't named full retreat, which means we may need to return to the walls."
 
+A shadow passed across the window—too quick for a cloud, too large for a bird. Samantha's paladin senses prickled with wrongness, but when she glanced up, only empty sky remained. Lareth had noticed too; his fingers traced a protective ward against the astrolabe's rim.
+
 Samantha drew a breath that still tasted faintly of workshop vapors. Her practiced words felt clumsy after hours of precise chemical work, but she forced herself to find the rhythm. "Erandia is a realm where the divine and mortal worlds overlap. My sister rules the northern kingdom as Queen. I serve as her Herald, sent to find allies against enemies who corrupt magic at its source." She met the Administrator's measuring gaze. "The same enemies whose methods you saw today—the chaff designed to foul rather than destroy, the targeting of knowledge over wealth."
 
 "Explain," the Administrator said. One word, delivered with the expectation of efficiency.
@@ -62,7 +64,9 @@ The Administrator made a precise note in her ledger. "Resources required for thi
 
 Melf straightened despite his fatigue. "The metallurgical implications alone... temple bells that achieve those harmonics through divine influence rather than purely physical design. The research possibilities..."
 
-"One minute," the Administrator said, consulting her watch. Her scarred fingers drummed once against the table. "Decision point. The intelligence has immediate value. The broader claims require verification." She looked directly at Samantha. "Your competence in crisis work supports credibility. Preliminary investigation is warranted."
+A sudden chill swept through the herbarium, making the crystal formations dim briefly. The Administrator's head snapped up, scanning the corners of the room with sharp attention. "Ward fluctuation," she muttered, but her expression suggested something more concerning than routine magical interference.
+
+"One minute," she said, consulting her watch with forced calm. Her scarred fingers drummed once against the table. "Decision point. The intelligence has immediate value. The broader claims require verification." She looked directly at Samantha. "Your competence in crisis work supports credibility. Preliminary investigation is warranted."
 
 Lareth nodded slowly. "The tactical intelligence alone justifies further engagement. If the broader claims prove true..." He gestured at the map. "We need these allies."
 
@@ -72,8 +76,24 @@ Relief flooded Samantha's chest, followed immediately by the weight of responsib
 
 "Don't celebrate yet," the Administrator said, standing with brisk efficiency. "If your enemies are as dangerous as these documents suggest, we may all regret this conversation." She almost smiled. "But we'll definitely regret ignoring the warning."
 
-The watch clicked shut. Five minutes, used precisely as granted.
+Lareth rolled up Samantha's intelligence documents with careful precision. "These attack patterns... if they're accurate, this was reconnaissance as much as assault. They'll be back."
+
+"When?" Samantha asked.
+
+"Soon," the Administrator said, her scarred fingers unconsciously touching a ring on her right hand. "But next time, they won't announce themselves with siege engines." She moved to the window, scanning the courtyard below with the paranoid attention of someone who had learned not to trust peaceful intervals. "They'll be subtler. More patient."
+
+Melf gathered his cape around his shoulders, exhaustion finally showing in the slope of his back. "What do you recommend for the verification process? If we're expecting infiltration..."
+
+"Accelerated timeline," the Administrator said without hesitation. "Faculty vote tomorrow morning instead of next week. Full security protocols until then." She turned from the window, expression grim. "And I suggest our Herald friend stays close to University grounds. If her enemies are as sophisticated as these documents indicate, she's safer here than in any inn."
+
+Samantha felt the weight of being hunted settling on her shoulders like a familiar cloak. "I understand. But Administrator—" She hesitated, watching how the older woman's scarred fingers had stilled completely against the table edge. "When I mentioned corruption methods, you... your whole posture changed. Is there something specific you're protecting here?"
+
+The silence stretched uncomfortably. Lareth and Melf exchanged glances, recognizing the same shift in energy Samantha had noticed—the way the Administrator had gone from efficient authority to something closer to wariness.
+
+"Every institution has its foundations," the Administrator said finally, her voice carefully neutral. "Some are older than the buildings above them." She straightened, but not before her hand moved briefly to her jacket pocket—a gesture so quick it might have been unconscious. "What matters now is ensuring those foundations remain... stable."
+
+The watch clicked shut. Five minutes had become fifteen, and the real work was just beginning.
 
 ---
 
-*Notes: Revised to acknowledge the time gap and work completed in the Green Crucible. Shows characters dealing with fatigue from crisis work while maintaining the five-minute time pressure. The Administrator maintains her institutional authority and efficiency. Intelligence documents provide concrete value alongside the broader alliance proposal.*
+*Notes: Revised to set up the Administrator's paranoia and ring mystery. Establishes accelerated timeline and security concerns. Hints at University secrets without revealing them. Creates natural bridge to Scene 04's developments.*

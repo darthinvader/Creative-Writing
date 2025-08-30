@@ -38,13 +38,16 @@ updated: 2025-08-30
 
 ## Relationships
 - Best friend: [[Lareth Lakhart]] (friendly rivalry; fire vs. matter).
-- Spouse: Lumina (absent; details TBD).
-- Children: Melfina and Karol-Elf (quarter-elves). Karol-Elf is employed by Lady Vaelora Serath of [[Serathis (Eastern Realm)]]—complicating loyalties. Protectiveness drives choices.
+- Spouse: [[Lumina Maelstorm]] (long-distance marriage; she's in political work in [[Grettany]], capital Mesothenna).
+- Communication: Maintains contact through scrying crystals and letters when atmospheric conditions allow.
+- Children: [[Melfina Maelstorm]] and [[Karol-Elf Maelstorm]] (quarter-elves). Karol-Elf is employed by Lady Vaelora Serath of [[Serathis]]—complicating loyalties. Protectiveness drives choices.
 - Colleagues: Faculty at [[Winter University]].
+- **New bond**: Paternal connection to [[Samantha Seraphel]], who reminds him strongly of his daughters' protective spirit.
 
 ## Wounds & Fears
-- Wound: Abandonment and the weight of single parenthood.
-- Fear: Losing his daughters; becoming the very danger he claims to prevent.
+- Wound: Geographic separation from family—wife in distant political work, daughters traveling; managing scholarly duties while missing daily family connections.
+- Fear: Losing his daughters to dangerous work; becoming isolated from those he loves; failing to balance family protection with their independence.
+- **New Development**: Finding unexpected paternal connection with [[Samantha Seraphel]] helps fill emotional void while family is distant.
 
 ## Arc Notes
 - Act I: Uses wit and craft to hold the line at a siege; hints of blood magic surface under pressure.

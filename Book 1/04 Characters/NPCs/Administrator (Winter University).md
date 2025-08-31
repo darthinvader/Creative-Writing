@@ -1,5 +1,19 @@
 ---
-title: Administrator (Winter Uni## Hidden Elements
+title: Administrator (Winter Uni## Hid## Hidden Elements
+- **Secret Chamber**: Protects a sealed chamber beneath her office containing the [[Book of Gosh]]
+- **Crystal Ring**: Wears a heavy crystal ring on her right hand that absorbs light and serves as key to the chamber
+- **Guardian Role**: Has served as guardian of the Book of Gosh for thirty years
+- **Undead Dragon**: The chamber contains an undead dragon bound to protect and test worthiness of those seeking the artifacts
+- **Ancient Duty**: Inherited responsibility for containing one of the most dangerous artifacts in three realms
+- **Burden of Secrecy**: Has carried this secret alone for decades, isolated from even close colleagues
+- **Authority Transition**: Her death in the coming crisis will lead to [[Lareth Lakhart]] becoming University Administrator
+
+## Guardian Responsibilities
+- **Thirty Years**: Has protected the Book of Gosh since becoming Administrator
+- **Daily Burden**: Wakes every morning knowing an apocalyptic artifact sits beneath her office
+- **Isolation**: Unable to share this burden with colleagues or seek help
+- **Wards**: Maintains protective wards that require her willing cooperation to bypass
+- **Testing Protocol**: The chamber serves as more than vault—it's designed to test spiritual worthinesslements
 - **Secret Chamber**: Maintains a hidden chamber beneath her quarters
 - **Magic Ring**: Possesses a magic ring that can open the secret chamber
 - **Guardian Role**: Protects the [[Book of Gosh]] hidden in her chamber

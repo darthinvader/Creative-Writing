@@ -107,8 +107,8 @@ Use one term per heading and link usages in notes.
 - Related: [[Gosh (Fallen Angel)]], [[Baramoth (Demon God)]], [[10 - Dawnspear's Folly]]
 
 ## Tengus
-- Definition: Exceptionally powerful dark elf sorcerer (~100) seeking the [[Book of Gosh]] and [[Sword of Gosh]]. Possible brother to [[Lareth Lakhart]]. Employs covert methods before escalating to direct threats.
-- Related: [[Tengus]], [[Lareth Lakhart]], [[Book of Gosh]], [[Sword of Gosh]]
+- Definition: Exceptionally powerful dark elf sorcerer (~100) seeking the artifacts of Gosh for personal power. Works alone as an independent agent, using other factions as tools and cover. Has spent decades planning his assault on the Winter University's sealed chambers.
+- Related: [[Tengus]], [[Book of Gosh]], [[Sword of Gosh]], [[Administrator]]
 
 ## The Lattice
 - Definition: The patterned substrate of magic; replaces the D&D term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.

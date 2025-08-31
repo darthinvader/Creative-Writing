@@ -24,13 +24,9 @@ Snow whispered against her face—not the cutting sleet of the siege but fat, la
 
 *What if they won't listen? What if they can't help? Valamar grant me wisdom to serve where I stand, regardless of their answer.*
 
-Winter University's garden opened before them like a held breath made visible. The air hit her lungs clean and sharp—the first breath in hours that didn't taste of blood or smoke. Ordered beds stretched in geometric precision under the pale sun, their edges cut from black basalt that drank what warmth there was and gave none back. Her boots crunched on gravel paths where ice crystals caught the light and threw it back in splinters that made her eyes water.
+Winter University's garden opened before them—ordered beds cut from black basalt, gravel paths where ice crystals caught the light. Glasshouses lined the inner wall like giant ribs, breathing fog into the cold air. Brass plaques named each bed: winter aconite; saint's valerian; juniper; foxglove.
 
-Glasshouses lined the inner wall like giant ribs—long, curved spines of glass that breathed fog into the cold air with each exhalation. The condensation rolled down the panes in rivulets that froze and thawed and froze again, creating delicate traceries of ice. Brass plaques named each bed in script that hurt to read in the brightness: winter aconite; saint's valerian; juniper; foxglove; frost-mint. The metal was so cold it stung her fingertips when she brushed against one.
-
-A row of copper glyph-arches traced the central path, their surfaces green with verdigris that cracked like old paint. Water ran beneath them without freezing—a gentle murmur that spoke of warmth below. The sigils pulsed with light the color of old honey, slow as a sleeping pulse, each beat sending warmth through the metal that she could feel on her face when she passed near. The rhythm reminded her of temple bells in Erandia, though these served function rather than worship.
-
-Steam met sleet at ankle height and made ghost-clouds that twisted around her boots. The air was a symphony of scents that made her mouth water despite her fear: rich peat and sharp vinegar from somewhere behind the hedges, sweet bay crushed underfoot releasing oils that made her think of summer kitchens, and beneath it all the whisper of brimstone from a sealed retort in the alchemical shed—sulfur and possibilities and controlled fire. Her stomach clenched with hunger.
+A row of copper glyph-arches traced the central path, their sigils pulsing with honey-colored light. Water ran beneath them without freezing, and the warmth reached her face when she passed near. Steam met sleet at ankle height, carrying scents of rich peat, sharp vinegar, and sweet bay that made her mouth water despite her fear.
 
 Beyond the hedges, a glass hive slept in the pale light. Through the transparent walls she could see bees clotted in amber clusters, their wings folded in perfect stillness. The combs glowed with a faint luminescence where tiny runes—no bigger than pinheads—kept them just above death's drowse. The soft hum of their dreaming filled the spaces between her heartbeats.
 

@@ -26,11 +26,13 @@ updated: 2025-08-30
 - Conflict: Secret blood-magic talent invites moral and political scrutiny; will do what’s necessary after exhausting other options.
 
 ## Abilities
-- Transmutation expert: matter manipulation, structural reinforcement, precision transformations; can coax stone grain to flow and knit like living tissue.
-- Alchemy master: battlefield reagents, binders, solvents, anti-chaff washes; rapid formulation under pressure.
-- Blood magic: rare, potent, risky—kept discreet; costs: fatigue, focus, ethical toll.
-- Battlefield ingenuity; excels at improvised solutions and emergency ward repairs.
- - Casting Profile: Lower baseline capacity than [[Lareth Lakhart]] but superior precision; blood magic temporarily multiplies capacity and opens a deeper repertoire of powerful spells—invoked only after safer options.
+- **Transmutation expert**: Matter manipulation, structural reinforcement, precision transformations; can coax stone grain to flow and knit like living tissue.
+- **Enhanced Stone-Sense**: Can detect vibrations and movements through stone structures across vast areas; reads stress patterns and compression points to map human activity and structural integrity; stone "remembers" footfall patterns and he can interpret these traces.
+- **Alchemy master**: Battlefield reagents, binders, solvents, anti-chaff washes; rapid formulation under pressure.
+- **Blood magic**: Rare, potent, risky—kept discreet; costs: fatigue, focus, ethical toll.
+- **Stone Communication**: The University's foundations respond to his emotional state; granite sings warnings and information to him; can feel the presence of everyone in connected structures.
+- **Battlefield ingenuity**: Excels at improvised solutions and emergency ward repairs.
+- **Casting Profile**: Lower baseline capacity than [[Lareth Lakhart]] but superior precision; blood magic temporarily multiplies capacity and opens a deeper repertoire of powerful spells—invoked only after safer options.
 
 ## Appearance
 - Big white beard; long, thick silver‑white hair; often rimed with frost in winter.

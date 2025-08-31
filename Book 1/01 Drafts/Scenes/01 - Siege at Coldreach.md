@@ -18,27 +18,29 @@ Conflict: Organized sellsword assault (Serathis coin) with alchemical chaff; sto
 Turn: Samantha holds a ladder breach in close quarters with disciplined strikes and an empowered smite, buying time for Melf's stonework and Lareth's fire lines.
 Outcome: West Gate compromised; ordered withdrawal toward [[Winter University]] to regroup, brew countermeasures, and hear Samantha's petition.
 
-The third bell swung to war when the first ladder hit stone. The impact shuddered through Samantha's boots, up her shins, settling in her teeth like the taste of copper. She took the stairs two at a time, shoulder grinding against rough-hewn stone, each breath a knife of frozen air that burned her throat white. Ice crystals formed on her lashes with each blink. She had come to speak in a council chamber with a sealed petition and a practiced voice—now that voice was trapped behind chattering teeth and the metallic fear coating her tongue. A guard with a crooked braid and frost-cracked lips had redirected her with a jab of two fingers that left bruises: "If you're a caster, up. We need hands, not speeches."
+The third bell swung to war when the first ladder hit stone. Samantha took the stairs two at a time, each breath burning her throat in the frozen air. She had come to speak in a council chamber—now a guard with frost-cracked lips redirected her: "If you're a caster, up. We need hands, not speeches."
 
-"I'm an acolyte," she'd said, the words barely escaping the vice of cold around her chest. "I can help."
+"I'm an acolyte," she said. "I can help."
 
 Her stomach twisted. *Can I?*
 
-From the parapet the enemy were plain: not an army, a contract. The stench hit first—unwashed bodies, rotting leather, the sour reek of men who'd marched through mud and worse. Brigands and sellswords in mismatched mail that screamed with each movement, rust flaking like dried blood. Their tarred shields steamed in the sleet, the acrid smoke making her eyes water. Some bore onyx sea‑drake pins that glinted like wet obsidian—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets on wheels that shrieked like dying animals, ladders dark with old blood, two sled‑mounted towers lurching in the gusts like drunken giants. An unknown banner hung stiff with ice, its fabric crackling. At the fore, men with slings whirled their weapons in practiced arcs, the whistle of leather cutting through wind. They scattered glittering grit that hissed against stone, skittering like a thousand tiny claws. Behind them, a ram head of pitted iron waited, its mouth twisted in a permanent snarl.
+From the parapet the enemy were plain: not an army, a contract. Brigands and sellswords in mismatched mail, their shields steaming in the sleet. Some bore onyx sea‑drake pins—the sign of [[Serathis|Serathis (Eastern Realm)]]. They hauled mantlets and ladders dark with old blood, two siege towers lurching in the wind. Men with slings scattered glittering grit that hissed against stone. Behind them, a ram head of pitted iron waited.
 
 "Alchemical chaff," someone muttered near her, spitting pink-tinged phlegm over the wall. "Salted ash and iron. Foul the catches, burn your lungs if you breathe it."
 
-The grit stung where it found exposed skin, leaving welts that throbbed with each heartbeat.
+The grit stung where it found exposed skin. *Ward-staves,* Samantha realized, scanning the defensive positions. The wooden posts with carved spirals were meant to maintain protective barriers, but this powder was designed to disrupt their magic.
 
 A man in a heavy traveling cape had both hands pressed to a fresh plug of pale blocks, his knuckles white with strain. Sweat beaded on his forehead despite the cold, freezing before it could fall. His beard was a grand thing—big, white, rimed with frost that crackled when he spoke—and long silver‑white hair whipped from beneath his hood like banners. The cape itself billowed and folded in clever layers: one of the many from the "cape of capes" he was famous (and teased) for. The fabric whispered secrets with each gust. "Two inches more," he called to the team below, voice cheerful despite the tremor of exhaustion beneath, "and I promise I will stop making these heavier than they already are."
 
 The stone groaned. Samantha felt it in her bones—a deep, primal sound like the earth itself crying out.
 
-She realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered with a sound like breaking bones knitting backwards. Old mortar creaked, dust cascading in gray waterfalls, then knit with a ripple like frost taking a window. The smell of crushed limestone and something older—magic itself—filled her nostrils.
+She realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered with a sound like breaking bones knitting backwards. He seemed to be listening to something in the stone itself, his face showing the concentrated attention of someone reading a complex text.
 
 He glanced along the parapet, caught Samantha watching, and raised his brows as if to ask whether she planned to faint. His eyes were the color of winter sky before a storm. "Don't," he said lightly, though she could see the strain in the cords of his neck. "We're very short on fainting space."
 
-"I won't," she said, then, because it itched at her like a splinter beneath skin, "Something's off on that seam."
+"I won't," she said, then, because it itched at her like a splinter beneath skin, "Something's off on that seam. I'm Samantha, by the way."
+
+"Melf Maelstorm," he said with a brief smile. "Professor of Applied Transmutation, when I'm not playing mason."
 
 "Is it?" He pressed two fingertips to the seam and she heard him suck in a sharp breath—the stone bit back. A bead of blood welled on his finger before he smiled as if the wall had told him a joke. Warmth pulsed once in the stone, and with it came the smell of hot granite and ozone. "Better?"
 
@@ -68,9 +70,13 @@ Samantha kept pace between them, her boots slipping on ice slick with blood. "I 
 
 A crossbow bolt whistled past her ear, so close she felt the fletching kiss her cheek.
 
-"Steady," Lareth said without looking away from the field, though his jaw clenched. "They're clocking how much fire we spend."
+"Steady," Lareth said without looking away from the field, though his jaw clenched. "They're clocking how much fire we spend." He glanced at Samantha briefly. "Lareth Lakhart, Marshal of Strategic Defense."
 
-His voice stayed even, but she could see the cost—the way his shoulders hunched, the tremor in his extended hand. Through his Lattice Sight, he could read the precise threads of power, stitching flame exactly where he set it—no wider than a boot, no hotter than needed—but each casting left him grayer.
+"Samantha Seraphel," she replied. "Herald of Erandia, though that probably means nothing here."
+
+"It will," Melf said from behind them. "After we survive this."
+
+His voice stayed even, but she could see the cost—the way his shoulders hunched, the tremor in his extended hand. Through his Lattice Sight, he could read the precise threads of magical energy like a scholar reading text, stitching flame exactly where he set it—no wider than a boot, no hotter than needed—but each casting left him grayer.
 
 The next push came like a hammer blow: mantlets thumped into place with impacts that rattled teeth; ladders rose like skeletal fingers; hooks bit stone with shrieks that set her teeth on edge. The sound of tearing metal on stone was the sound of nightmares. Lareth rationed flame in tight stitches that melted rings to flesh—the screams were immediate and horrible—and sent men scrambling back with blistered hands fused to ladder rungs. The stench of burned pork made her stomach heave. Melf shifted the wall's grain with a grinding sound like millstones, and when a crack tried to form, he guided it sideways instead of through. A ladder bounced back when its hooks failed to bite, the man at its top falling with a wet crunch that carried even over the battle din.
 

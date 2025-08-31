@@ -46,8 +46,12 @@ updated: 2025-08-30
 - Abandonment concerns: Deep-seated fear of being left behind or rejected, stemming from being orphaned and adopted despite loving upbringing.
 
 ## Abilities
-- Close‑quarters weapon mastery: disciplined strikes, joint control, efficient disarms; trained in precise, economy-of-motion combat.
-- Empowered Smite: focused divine strike ("Valamar") that adds controlled force to a blow; used sparingly and precisely with measured restraint.
+- **Close‑quarters weapon mastery**: Disciplined strikes, joint control, efficient disarms; trained in precise, economy-of-motion combat.
+- **Empowered Smite**: Focused divine strike ("Valamar") that adds controlled force to a blow; used sparingly and precisely with measured restraint.
+- **Divine Healing**: Can channel Valamar's grace to heal injuries and restore vitality; particularly effective on wounds caused by corrupt or demonic forces; strength varies with her spiritual state and the severity of need.
+- **Herald Abilities**: Divine guidance, detection of corruption, blessing and protection rites, ability to consecrate ground and objects.
+- **Angelic Heritage** (dormant/unknown): Enhanced physical capabilities, resistance to corruption, natural affinity for purification magic; heritage currently hidden even from herself.
+- **Spiritual Resilience**: Faith provides protection against mental corruption and despair; under extreme stress may experience Concord Fracture (temporary clarity loss) remedied by rest and prayer.
 - Ward maintenance: can identify fouled magical staves and perform basic counter-marking to restore function.
 - Paladin rites (oaths, warding steadies, protective auras); Herald authority in sacred spaces.
 - Concord Channel: her covenant stabilizes coupling to [[Magic System — The Lattice|The Lattice]]; costs as exertion and clarity—she tires, but her edge stays clean.

@@ -13,33 +13,35 @@ updated: 2025-08-30
 
 # Tengus
 
-- Summary: A relatively young but extraordinarily powerful dark elf sorcerer (~100) seeking the [[Book of Gosh]] and [[Sword of Gosh]] for his own purposes. Employs covert methods before revealing himself with lethal ultimatums. His power level exceeds that of typical mages—making direct confrontation nearly impossible.
+- Summary: A relatively young but extraordinarily powerful dark elf sorcerer (~100) seeking the [[Book of Gosh]] and [[Sword of Gosh]] for personal power. Works alone as an independent agent, using other factions as tools and cover. His power level exceeds that of typical mages—making direct confrontation nearly impossible.
 
 ## Motivation
-- Seeks the paired artifacts to fulfill his pact with [[Baramoth (Demon God)]]
-- Views the Book and Sword as tools to achieve unfathomable power and test his abilities before larger conquests
-- Possible family tie to [[Lareth Lakhart]] makes him a personal threat as well as strategic one
-- Unlike [[Lady Vaelora Serath]]'s diplomatic approach, Tengus prefers intimidation and force
+- Seeks to complete the fallen angel's interrupted working using the paired artifacts
+- Desires to open permanent gates between realms and wield divine authority without mortal restrictions
+- Has spent decades planning and positioning himself for this opportunity
+- Works alone, not affiliated with any known faction—considers them all beneath his ambition
+- Views [[Lady Vaelora Serath]] and Serathis as useful tools but lacking true vision
 
 ## Abilities
 - **Exceptional Magical Power**: Far beyond normal sorcerer capabilities—overpowered compared to University faculty
 - **Shadow Mastery**: Expert in stealth, misdirection, and concealment magic
-- **Scrying & Detection**: Can penetrate most magical defenses and wards
-- **Lethal Spellcasting**: Capable of mass destruction when threatened
+- **Structural Manipulation**: Can weaken building supports and create catastrophic failure points
+- **Long-term Planning**: Decades of preparation, positioning, and resource gathering
+- **Magical Compulsion**: Can control and manipulate other agents as tools
 - **Counter-Scouting**: Skilled at avoiding detection while gathering intelligence
-- **Arcane Negotiation**: Understands magical contracts and binding agreements
 
 ## Methods
-- **Phase 1 - Covert**: Uses stealth, scrying, and infiltration to locate the artifacts
-- **Phase 2 - Pressure**: Employs indirect threats and demonstrations of power
-- **Phase 3 - Direct**: Open ultimatums backed by overwhelming magical force
-- **Leverage**: May use [[Karol-Elf Maelstorm]] and [[Melfina Maelstorm]] as pressure points
+- **Phase 1 - Infiltration**: Used Serathis agents as cover while working on the sealed chambers
+- **Phase 2 - Manipulation**: Let Serathis believe they hired him while pursuing his own goals
+- **Phase 3 - Ultimatum**: Issues 3-day warning before beginning his "true working"
+- **Leverage**: Threatens to collapse entire University and town if opposed immediately
+- **Strategic Patience**: Willing to wait decades and abandon current work if necessary
 
 ## Relationships
-- **Possible sibling**: [[Lareth Lakhart]] (unconfirmed, creates personal stakes)
-- **Rival**: [[Lady Vaelora Serath]] and her Serathis agents (competing for same artifacts)
-- **Target**: [[Samantha Seraphel]] (his eventual killer, according to fate)
-- **Intelligence Network**: Contacts within East and West realms; monitored by Paladin King's agents
+- **Tools**: Serathis agents (they think they hired him, he uses them as cover)
+- **Target**: [[Samantha Seraphel]] (needed for divine resonance in his working)
+- **Rival**: [[Lady Vaelora Serath]] (he considers her "lacking vision")
+- **Threat**: [[Administrator]] (will kill her in magical battle during his return)
 
 ## Hooks & Resources
 - May possess or trade critical pages from the [[Book of Gosh]]

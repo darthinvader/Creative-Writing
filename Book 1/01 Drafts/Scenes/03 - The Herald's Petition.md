@@ -20,7 +20,7 @@ Outcome: Formal investigation authorized; Samantha gains standing to provide fur
 
 ---
 
-The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through three siege escalations without degrading. You've earned this hearing."
+The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through yesterday's remaining siege escalations without degrading. You've earned this hearing."
 
 Samantha's hands still smelled of binder wash and copper filings despite scrubbing. Her shoulders ached from hunching over the crucible, and her eyes felt gritty from alchemical vapors that made her blink too often. The work had been precise, exhausting, and successful—the first victory she'd been part of since arriving in Codaria. But now she had to set aside the satisfaction of solved problems and reach for larger truths that might sound like madness to tired minds.
 
@@ -90,7 +90,7 @@ Samantha felt the weight of being hunted settling on her shoulders like a famili
 
 The silence stretched uncomfortably. Lareth and Melf exchanged glances, recognizing the same shift in energy Samantha had noticed—the way the Administrator had gone from efficient authority to something closer to wariness.
 
-"Every institution has its foundations," the Administrator said finally, her voice carefully neutral. "Some are older than the buildings above them." She straightened, but not before her hand moved briefly to her jacket pocket—a gesture so quick it might have been unconscious. "What matters now is ensuring those foundations remain... stable."
+"Every institution has its foundations," the Administrator said finally, her voice carefully neutral. "Some are older than the buildings above them." She straightened, but not before her hand moved briefly to a ring on her right hand—heavy crystal that seemed to absorb light rather than reflect it. "What matters now is ensuring those foundations remain... stable."
 
 The watch clicked shut. Five minutes had become fifteen, and the real work was just beginning.
 

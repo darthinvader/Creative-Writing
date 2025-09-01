@@ -30,17 +30,15 @@ The Administrator looked up at them, her granite expression showing hairline cra
 
 "She shouldn't be here for this conversation," the Administrator said, her words carrying the weight of institutional protocol that had governed University business for generations. "This involves matters that predate her involvement, secrets that require clearance levels she doesn't possess."
 
-Melf felt something hot and protective flare in his chest—the same fierce loyalty that had driven him to join the magical assault against Tengus despite knowing they were outmatched. Watching the Administrator dismiss someone who had fought beside them, who had shown courage that had earned his respect even as their combined efforts proved futile, triggered a protective instinct he hadn't realized had taken root so deeply.
+Melf felt something hot and protective flare in his chest—the same fierce loyalty that had driven him to join the magical assault against Tengus despite knowing they were outmatched. Watching the Administrator dismiss someone who had fought beside them, who had shown courage that had earned his respect, triggered a protective instinct he hadn't realized had taken root so deeply.
 
 Samantha stepped toward the ruined doorway with diplomatic grace, but Melf could see the familiar sting of exclusion in her posture. "I understand. I'll wait outside while you—"
 
-"No." The word erupted from Melf with an authority that surprised everyone, including himself. He moved between Samantha and the door, his protective instincts fully engaged by the weight of injustice being perpetrated against someone who had earned the right to know. "Absolutely not. She stays."
+"No." The word erupted from Melf with an authority that surprised everyone, including himself. He moved between Samantha and the door, his protective instincts fully engaged. "Absolutely not. She stays."
 
 The Administrator's eyes narrowed with the sharp focus of someone unaccustomed to having her directives challenged. "Professor Maelstorm, this is not a matter for—"
 
-"For what?" Melf interrupted, feeling decades of scholarly debate channeling into passionate advocacy. The University's stones seemed to vibrate with his emotion, responding to anger that ran deeper than academic disagreement. "Not a matter for someone who faced Tengus without hesitation? Who stood with us against a creature that made our building's foundations scream in terror, even when we all knew we were facing something beyond our capabilities?"
-
-His voice gained intensity as protective fury transformed into eloquent argument. "She faced down a creature that made our building's foundations scream in terror, and you want to exclude her because she doesn't have the right paperwork?"
+"For someone who faced Tengus without hesitation?" Melf interrupted, feeling decades of scholarly debate channeling into passionate advocacy. The University's stones seemed to vibrate with his emotion, responding to anger that ran deeper than academic disagreement. "She stood with us against a creature that made our building's foundations scream in terror, and you want to exclude her because she doesn't have the right paperwork?"
 
 Through his stone-sense, Melf could feel the University itself responding to his words—the ancient foundations recognizing truth in his defense of someone who had protected what they all held dear. The building had witnessed Samantha's courage, had felt her divine radiance push back against supernatural corruption, and the stones themselves seemed to approve of his fierce advocacy.
 
@@ -76,13 +74,13 @@ The Administrator closed her eyes, her scarred fingers finally moving away from 
 
 Melf felt his scholarly curiosity flare alongside growing alarm. Through his stone-sense, he could detect the architectural anomalies Lareth had mentioned—spaces below that hummed with power signatures unlike anything in his experience. "An ancient grimoire," he said, pieces falling into a terrifying picture. "Something connected to the power Tengus demonstrated."
 
-"The Book of Gosh," the Administrator replied, her words falling like stones into still water. "The grimoire was created to contain and control knowledge that was supposed to die with its maker. When the fallen angel Gosh was destroyed, his book survived. Everything he learned about opening gates between realms, about binding demons to mortal service, about trading divine authority for temporal power... it's all there. Waiting."
+"The Book of Gosh," the Administrator replied, her words falling like stones into still water. "When the fallen angel Gosh was destroyed, his grimoire survived—containing everything he learned about opening gates between realms, binding demons to mortal service, and trading divine authority for temporal power."
 
 The revelation hit Melf like a physical blow, reframing everything he thought he understood about the University's true purpose. Through his stone-sense, he could feel the building's long history of careful concealment, decades of architectural modifications designed to hide and contain rather than showcase and preserve.
 
-"That's why Tengus wants it," Samantha said, her voice carrying the weight of terrible understanding. "He's not just seeking power—he's seeking the knowledge to remake the fundamental barriers between realms."
+"That's why Tengus wants it," Samantha said, her voice carrying the weight of terrible understanding. "He's seeking the knowledge to remake the fundamental barriers between realms."
 
-"The chamber below isn't just a vault," the Administrator continued, her voice gaining strength as she finally shared burdens that had been carried in isolation for too long. "It's a prison. The book is guarded by an undead dragon—the skeletal remains of the last creature Gosh summoned before his death. Something that was bound to protect the grimoire until someone worthy of its destruction could claim it."
+"The chamber below isn't just a vault," the Administrator continued, her voice gaining strength as she finally shared burdens that had been carried in isolation for too long. "It's a prison. The book is guarded by an undead dragon—the skeletal remains of the last creature Gosh summoned before his death, bound to protect the grimoire until someone worthy of its destruction could claim it."
 
 Through his connection to the University's foundations, Melf could sense the presence she described—something ancient and patient and utterly wrong dwelling in darkness below their feet. The stones themselves recoiled from whatever lay beneath, their natural mineral consciousness unable to process the existence of something that defied every natural law.
 

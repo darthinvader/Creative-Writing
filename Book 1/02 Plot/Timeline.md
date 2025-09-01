@@ -21,6 +21,8 @@ tags: [book/book1, type/timeline]
 
 **Y1 M1 D4** — Sealed chambers accessed; Tengus revealed as independent agent manipulating Serathis infiltrators; issues 3-day ultimatum. See [[04 - Secrets Beneath Stone]].
 
+**Y1 M1 D5** — Multi-layered defense strategy developed; contact established with Tiana's thieves' guild for underground resistance networks; Captain Aldara briefed on Serathis occupation threats; trio disperses for urgent preparation tasks. See [[06 - Lines of Sight]].
+
 **Y1 M1 D7-D10** — Samantha assists Melf and Lareth with various University issues; trust builds through shared work and challenges.
 
 **Y1 M1 D11** — **THE CAPTURE**: Serathis agents kidnap Samantha, Melf, and Lareth for interrogation about artifact locations. Transported to eastern realm.

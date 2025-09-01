@@ -56,6 +56,12 @@ updated: 2025-08-30
 - Act II: Owns the power he hides; codifies limits; family-first decisions create friction.
 - Act III: Reconciles prankster persona with professor and protector; chooses responsibility over spectacle.
 
+## Core Values & Priorities
+- **People First**: Believes lives matter more than knowledge because "books can be rewritten, people don't come back"
+- **Family Protection**: Students and chosen family (like Samantha) take priority over institutional preservation
+- **Knowledge as Tool**: Values research for its ability to protect people, not as an end in itself
+- **Practical Wisdom**: Would rather lose the University's archives than lose a single life under his protection
+
 ## Voice Cues
 - Sardonic, quick quips; uses humor to defuse fear.
 - Explains complex magic with tangible metaphors (hinges, grains, vectors).

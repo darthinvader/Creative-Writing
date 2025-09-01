@@ -21,6 +21,10 @@ Use one term per heading and link usages in notes.
 - Definition: Cursed artifact sought by multiple factions; paired with the [[Sword of Gosh]].
 - Related: [[Gosh (Fallen Angel)]], [[Tengus]], [[Sword of Gosh]]
 
+## Captain Aldara
+- Definition: Guard Captain of Winterholme; former military officer from Florian campaigns who carries a cursed blade scar and warned about Serathis expansion.
+- Related: [[Captain Aldara]], [[Winterholme]], [[Florian]], [[Serathis]]
+
 ## Codaria (The Code)
 - Definition: Northern island of fjords and long winters; home to [[Winter University]] and the city of [[Coldreach]].
 - Also known as: The Code
@@ -67,7 +71,7 @@ Use one term per heading and link usages in notes.
 - Related: [[Lumina Maelstorm]], [[Melf Maelstorm]], [[Grettany]]
 
 ## Melf Maelstorm
-- Definition: Half-elf professor of Transmutation (and discreet blood mage); defender of Coldreach.
+- Definition: Half-elf professor of Transmutation (and discreet blood mage); defender of Coldreach. Prioritizes people over knowledge, believing that "books can be rewritten, people don't come back."
 - Related: [[Melf Maelstorm]], [[Winter University]]
 
 ## Mesothenna
@@ -113,6 +117,14 @@ Use one term per heading and link usages in notes.
 ## The Lattice
 - Definition: The patterned substrate of magic; replaces the D&D term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.
 - Related: [[Magic System — The Lattice]], [[Strain]], [[Lattice Sight]]
+
+## Thieves' Guild (Winterholme)
+- Definition: Underground organization maintaining smuggling tunnels and resistance networks throughout Winterholme; led by halfling rogue Tiana.
+- Related: [[Tiana (Thieves Guild Leader)]], [[Winterholme]], [[Melf Maelstorm]]
+
+## Tiana
+- Definition: Halfling leader of Winterholme's thieves' guild; skilled rogue with history of eliminating threats to her people; maintains extensive underground networks.
+- Related: [[Tiana (Thieves Guild Leader)]], [[Thieves' Guild (Winterholme)]], [[Winterholme]]
 
 ## Valamar (Platinum Dragon)
 - Definition: Platinum dragon deity of justice, protection, and order (appearance adjusted from classic canon). Teaches that truth is best proven through service and action, and that when the direct path is barred, one should serve where they stand.

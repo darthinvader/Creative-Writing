@@ -15,7 +15,7 @@ updated: 2025-08-30
 
 - Pronunciation: sah-MAN-tha SEH-rah-fell
 - Height: 1.75 m
-- Appearance: White human with golden blonde hair; reasonable build concealing great strength and muscle—deceptively powerful physique
+- Appearance: White human with golden blonde hair and blue eyes; strong, athletic build concealing great strength and muscle—deceptively powerful physique that appears reasonable but houses exceptional capability
 - Occupation: Paladin-Emissary (Herald of Valamar)
 - Faith: Valamar (Platinum Dragon)
 - Family: Adopted sister to Queen [[Andromeda]] of [[Whitehaven]]; found as infant, birth parents were angelic servants to the royal house (deceased)

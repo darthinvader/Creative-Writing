@@ -1,5 +1,9 @@
 ---
-title: Codaria (The Code)
+title: Codaria (T## Locations
+- [[Winter University]] — Codaria's intellectual and magical heart.
+- [[Winterholme]] — Main city containing [[Winter University]] and the port district of [[Coldreach]].
+- [[Coldreach]] — Frontier port district of [[Winterholme]], often tested by storms and raiders (siege site).
+- Blackwater Sound — Treacherous channel; smugglers and ice-witches rumored.ode)
 type: region
 status: draft
 aliases: [Code, Codaria]

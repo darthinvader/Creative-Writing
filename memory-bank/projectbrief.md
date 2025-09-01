@@ -1,7 +1,7 @@
 # Project Brief
 
 Purpose
-- Produce Book 1 of a fantasy novel set in Codaria: artifact conflict around the Sword/Book of Gosh, siege of [[Coldreach]], and finale at [[Winter University]].
+- Produce Book 1 of a fantasy novel set in Codaria: artifact conflict around the Sword/Book of Gosh, siege of Coldreach district, and finale at [[Winter University]].
 
 Goals & Scope
 - Tell Samantha Seraphel, Melf Maelstorm, and Lareth Lakhart’s story across one novel.
@@ -11,7 +11,7 @@ Goals & Scope
 Success Criteria
 - Complete outline + scene drafts for key tentpoles (opener, Dawnspear’s Folly, The Gate at Winter).
 - Consistent canon in [[Glossary]] and cross-links between scenes/plot.
-- Opening chapter revised to match outline (retreat from Coldreach).
+- Opening chapter revised to match outline (retreat from Coldreach district to inner city).
 
 Constraints
 - Markdown/Obsidian only; minimal frontmatter.

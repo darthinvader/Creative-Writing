@@ -108,7 +108,8 @@ The Winter Garden is the central botanical and alchemical research facility of [
 - [[Green Crucible]] (primary processing facility)
 - [[Herbarium Cloister]] (administrative and cataloging area)
 - [[Winter University]] (parent institution)
-- [[Coldreach]] (city served by University's resources)
+- [[Winterholme]] (city served by University's resources)
+- [[Coldreach]] (port district defended by University personnel)
 
 ## First Appearance
 Scene: [[02 - Petition in the Winter Garden]]

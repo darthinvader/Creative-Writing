@@ -4,11 +4,12 @@ type: scene
 pov: Samantha Seraphel
 tense: past
 location: [[Coldreach]]
-timeline: [[Timeline]]
-characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]]
+timeline: [[Timeline#Y1 M1 D1]]
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Captain Aldara]]
+character_notes: "Samantha: blonde hair, blue eyes, tall, white skin, strong build; Captain Aldara: weathered veteran with cursed blade scar"
 status: draft
 created: 2025-08-29
-updated: 2025-08-30
+updated: 2025-09-01
 ---
 
 # 01 — Siege at Coldreach
@@ -16,7 +17,7 @@ updated: 2025-08-30
 Goal: Deliver a plea for aid and be believed by proving herself in battle and on the line.
 Conflict: Organized sellsword assault (Serathis coin) with alchemical chaff; storm; skepticism; breach attempt at the North Bend.
 Turn: Samantha holds a ladder breach in close quarters with disciplined strikes and an empowered smite, buying time for Melf's stonework and Lareth's fire lines.
-Outcome: West Gate compromised; ordered withdrawal toward [[Winter University]] to regroup, brew countermeasures, and hear Samantha's petition.
+Outcome: West Gate compromised; ordered withdrawal from Coldreach district to prepare city defenses and coordinate with magistrates; Samantha's expertise now needed for the larger threat analysis and University consultation.
 
 The third bell swung to war when the first ladder hit stone. Samantha took the stairs two at a time, each breath burning her throat in the frozen air. She had come to speak in a council chamber—now a guard with frost-cracked lips redirected her: "If you're a caster, up. We need hands, not speeches."
 
@@ -32,9 +33,9 @@ The grit stung where it found exposed skin. *Ward-staves,* Samantha realized, sc
 
 A man in a heavy traveling cape had both hands pressed to a fresh plug of pale blocks, his knuckles white with strain. Sweat beaded on his forehead despite the cold, freezing before it could fall. His beard was a grand thing—big, white, rimed with frost that crackled when he spoke—and long silver‑white hair whipped from beneath his hood like banners. The cape itself billowed and folded in clever layers: one of the many from the "cape of capes" he was famous (and teased) for. The fabric whispered secrets with each gust. "Two inches more," he called to the team below, voice cheerful despite the tremor of exhaustion beneath, "and I promise I will stop making these heavier than they already are."
 
-The stone groaned. Samantha felt it in her bones—a deep, primal sound like the earth itself crying out.
+The stone groaned—a deep, primal sound like the earth itself crying out. But the man's expression suggested he heard more than just sound. His head tilted slightly, as if the granite were whispering secrets only he could understand.
 
-She realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered with a sound like breaking bones knitting backwards. He seemed to be listening to something in the stone itself, his face showing the concentrated attention of someone reading a complex text.
+She realized the blocks were the wall. The plug had not been there a moment ago. The man—[[Melf Maelstorm]]—touched each stone like a musician tuning strings, and the grain answered with a sound like breaking bones knitting backwards. His fingertips traced the surface with the delicate attention of someone reading braille, listening to something in the stone itself that others missed entirely.
 
 He glanced along the parapet, caught Samantha watching, and raised his brows as if to ask whether she planned to faint. His eyes were the color of winter sky before a storm. "Don't," he said lightly, though she could see the strain in the cords of his neck. "We're very short on fainting space."
 
@@ -42,7 +43,7 @@ He glanced along the parapet, caught Samantha watching, and raised his brows as 
 
 "Melf Maelstorm," he said with a brief smile. "Professor of Applied Transmutation, when I'm not playing mason."
 
-"Is it?" He pressed two fingertips to the seam and she heard him suck in a sharp breath—the stone bit back. A bead of blood welled on his finger before he smiled as if the wall had told him a joke. Warmth pulsed once in the stone, and with it came the smell of hot granite and ozone. "Better?"
+"Is it?" He pressed two fingertips to the seam and she heard him suck in a sharp breath—the stone bit back. But his expression shifted as if the granite had shared something important, a conversation she couldn't hear. A bead of blood welled on his finger before he smiled as if the wall had told him a joke. Warmth pulsed once in the stone, and with it came the smell of hot granite and ozone. "Better?"
 
 "Better," she said, tasting the metallic aftershock of his working, and moved on.
 
@@ -50,11 +51,11 @@ Along the inner path of the parapet another figure walked as if the wind were me
 
 Samantha's eyes watered. Her mouth tasted of ash.
 
-She anchored her satchel with her knee, the leather already stiff with cold, and checked the ward‑staves set at intervals along the stone. The wood thrummed against her palm like a dying heartbeat. She knew enough to spot when light ran wrong—the way it flickered and dimmed like a candle drowning in its own wax—not enough to name every mark. These read thin, their glow the sickly yellow of infected wounds—insulated, not failing but fouled.
+She anchored her satchel with her knee, the leather already stiff with cold, and checked the ward-staves set at intervals along the stone. The wood thrummed against her palm like a dying heartbeat. She knew enough to spot when light ran wrong—the way it flickered and dimmed like a candle drowning in its own wax—not enough to name every mark. These read thin, their glow the sickly yellow of infected wounds—insulated, not failing but fouled.
 
 At the north curve a stave dimmed to nothing. The absence of its warmth hit like a slap. Samantha was already shouldering past a bowman whose fingers were blue to the second knuckle, the joints swollen like sausages. His breath wheezed; frostbite was eating him alive. "Excuse me," she said, and set her palm to the spiral. The wood was rough with ice crystals, dusted with the enemy's glittering grit that burned like salt in a wound where it lodged in the cuts.
 
-She took a scrap of oiled wool from her satchel—it reeked of lanolin and old sweat—and wiped the spiral clean. Black residue came away on the cloth. "Counter‑mark?" she asked without looking up, her voice tight.
+She took a scrap of oiled wool from her satchel—it reeked of lanolin and old sweat—and wiped the spiral clean. Black residue came away on the cloth. "Counter-mark?" she asked without looking up, her voice tight.
 
 "Short and tight," Melf said, arriving with the smell of wet wool and stone dust. His breathing was labored now, each exhale a plume of frost. "Just snug it; don't redraw the world."
 
@@ -84,13 +85,15 @@ Magic always asked for breath and discipline; overreach frayed edges or made the
 
 Another stave went dim with a dying wheeze. Samantha cleaned, her fingers numb and clumsy, followed Melf's curt taps for placement, and snugged it before the dullness could spread like gangrene.
 
-"Understood," Lareth said, blood trickling from one nostril. "Archers, cover her hands."
+"Understood," a voice called from behind them—crisp with military authority. A woman in guard captain's mail strode along the parapet, her weathered face grim with tactical assessment. Her left arm moved stiffly, favoring an old wound that had healed wrong, and pale scar tissue gleamed through a gap in her shoulder armor where the leather had been cut away to accommodate whatever damage lay beneath. She carried herself with the confident bearing of someone who had survived worse than this. "Archers, cover her hands."
+
+[[Captain Aldara]] had been coordinating the defense since the first ladder hit stone, her voice cutting through the chaos with practiced command. Lareth acknowledged her with a nod—the University's magical support working under her tactical authority.
 
 They held their stretch. Muscles screamed; tendons pulled taut as bowstrings. The sled‑tower nearest them pitched when a wheel—hastily nailed and badly—sheared its spokes with a sound like breaking teeth. The tower groaned, tilted, and men jumped rather than ride it down. One landed with a leg turning wrong, the bone punching through leather with a wet snap. His howl cut through everything else—primal, animal—until an arrow took him quiet, the shaft sprouting from his throat like a crimson flower. He gurgled, clawed at it, then went still. Blood hit snow and steamed, the iron smell thick enough to chew.
 
 Relief lasted three breaths that tasted of death. Then a knot of sellswords crashed grapnels under a mantlet and rammed a ladder up flush to the North Bend where the wind cut worst, driving ice splinters like needles into exposed flesh. Hooks shrieked on stone—the sound of violation. Three crested the parapet at once—tarred shields smoking in the cold, ice on their beards, eyes like chips of flint, knives for close work that gleamed with promise.
 
-Samantha moved. Training settled her shoulders and emptied her breath, but her heart hammered against her ribs like a caged bird. Time stretched like molten glass. She stepped inside the first man's guard—close enough to smell the rancid oil on his beard, the stale beer on his breath, see the broken veins in his eyes—turned his elbow with a wet pop, and struck the rim of his helm with the butt of her weapon. The impact jarred up her arms, into her shoulders. Metal rang like a broken bell; his teeth pinked his breath in a spray that spotted her face warm and copper-sweet. The second swung low, aiming for her guts; she caught on leather bracer that split but held, the blade's edge kissing her skin beneath, drove her shoulder into his solar plexus feeling ribs flex, and stamped his knee. Something in it gave with a wet pop like a knuckle cracking underwater. He screamed—high and thin—as the joint bent sideways. The third met her eyes, hesitated at what he saw there—her own face reflected in his pupils, splattered with blood, eyes wild—and paid for it when her strike caught him in the throat. Cartilage crunched. He dropped, clawing at his crushed windpipe, making sounds no human should make.
+Samantha moved. Training settled her shoulders and emptied her breath, but her heart hammered against her ribs like a caged bird. She stepped inside the first man's guard—close enough to smell rancid oil on his beard, stale beer on his breath—turned his elbow with a wet pop, and struck his helm with her weapon's butt. Metal rang like a broken bell; his teeth pinked his breath in a spray. The second swung low for her guts; she caught the blade on her leather bracer, drove her shoulder into his solar plexus, and stamped his knee. Something gave with a wet pop. He screamed as the joint bent sideways. The third met her eyes, hesitated at what he saw there, and paid for it when her strike caught his throat. Cartilage crunched. He dropped, clawing at his crushed windpipe.
 
 "Left!" a student shouted, voice cracking with panic. Lareth's flame stitched a line behind the ladder—flesh sizzled where it found targets—to keep new boots from finding purchase. The screaming intensified. Melf's hands were sunk to the wrists in stone that flowed like thick honey, coaxing grain to bite the ladder's hooks. Grit hissed against magic; frost cracked like bones breaking. His face was gray with strain, blood running freely from his nose now.
 
@@ -110,7 +113,17 @@ Only then did relief last four breaths that rattled in her chest.
 
 From the West Gate came a blow that felt like a drum in the stone, like the world's own heartbeat stumbling. The vibration traveled up through her boots, into her bones, settling in her chest like dread given weight. A long, low horn rolled over the streets—the withdrawal note, mournful as a dying animal. Bells followed in measured sequence, bronze voices calling districts by order toward the inner ways. Each toll was a small surrender.
 
+Captain Aldara's voice rang out across the defensive positions. "West Gate's compromised!" she called, her voice carrying the authority of someone who had been commanding this defense from the start. "Breach in the lower works. We need to fall back and prepare the city for siege."
+
+"Acknowledged, Captain," Lareth replied, already calculating angles and distances while wiping blood from his nose. "How long can your people hold the retreat route?"
+
+"Long enough," she said with veteran certainty, her hand unconsciously flexing near her sword hilt in a way that suggested old pain flaring with stress. "But not much longer. Those alchemical tricks are fouling every ward we've got."
+
 Samantha realized her palm stung where chalk had ground into old scrapes, mixing with fresh blood to form a pink paste. She flexed her fingers and looked to the others. They all looked like they'd been dragged through hell's own kitchen.
 
-"We regroup at the University," Lareth said, already turning, though blood still traced from his nose. "They'll have gone to Redline Three by now—crisis protocols, emergency shelter for the refugees." His voice carried the exhaustion of sustained casting, but also grim satisfaction. "And time to brew proper countermeasures for their alchemical tricks."
+"We regroup with the city magistrates," Captain Aldara decided, her tactical assessment complete. "They need to understand what we're facing—this was reconnaissance in force, not the main assault. The real siege will follow." She looked to Lareth, acknowledging his expertise. "The University can brief them on these alchemical countermeasures while we prepare the inner defenses."
+
+"Agreed," Lareth said, already turning, though blood still traced from his nose. "They'll have gone to Redline Three by now—crisis protocols. The University and city authorities need to coordinate defensive strategy."
+
+"The inner walls will hold against conventional assault," the captain added, cleaning her blade with efficient movements that spoke of decades of practice. "This district bought us time and intelligence. Now we prepare for a proper siege."
 Notes: This scene links to [[Outline#Chapter-by-Chapter|Outline]], anchors the inciting incident, and should be cross‑referenced in [[Timeline]].

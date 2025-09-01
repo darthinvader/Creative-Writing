@@ -67,7 +67,7 @@ updated: 2025-08-31
 ## Links
 - [[Winter University]] - The institution the town exists to support
 - [[Codaria]] - The region containing Winterholme
-- [[Coldreach]] - Nearby fortified position
+- [[Coldreach]] - Port district within Winterholme proper
 - [[Administrator (Winter University)]] - Oversees relationship between University and town
 - [[Timeline]] - Events affecting the community
 

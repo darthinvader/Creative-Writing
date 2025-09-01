@@ -36,8 +36,10 @@ Captain Aldara leads Winterholme's city guard with the tactical expertise of a v
 - **Tactical Reality:** Understands difference between political solutions and military necessities
 
 ## Appearance & Demeanor
-- **Physical:** Weather-beaten appearance of veteran soldier; moves with military bearing
-- **Scars:** Prominent cursed blade scar on shoulder; other combat marks from military service
+- **Physical:** Weather-beaten appearance of veteran soldier; moves with military bearing despite old injuries
+- **Build:** Solid, practical build of an experienced fighter; carries herself with authority
+- **Scars:** Prominent cursed blade scar on shoulder with visible pale scar tissue; left arm moves stiffly favoring the old wound
+- **Injuries:** Shoulder armor modified with leather cut away to accommodate damage; hand unconsciously flexes near sword when stressed
 - **Equipment:** Practical military-grade armor and weapons; no ceremonial decorations
 - **Bearing:** Professional competence without unnecessary formality; speaks plainly about threats
 
@@ -64,6 +66,8 @@ Captain Aldara leads Winterholme's city guard with the tactical expertise of a v
 - **Credibility Issues:** Veteran perspective dismissed as "military paranoia" by traders
 
 ## Current Crisis Response
+- **Early Involvement:** Present from the beginning of the Coldreach siege, commanding defensive operations
+- **Tactical Command:** Issues orders to guard forces and coordinates with University magical support
 - **Vindication:** Recent siege validates her warnings about external threats
 - **Tactical Coordination:** Ready to work with University forces for integrated defense
 - **Resource Mobilization:** Prepared to activate emergency protocols and defensive measures

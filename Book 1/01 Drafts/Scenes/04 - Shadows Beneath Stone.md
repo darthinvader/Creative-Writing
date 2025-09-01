@@ -20,7 +20,7 @@ Outcome: The protagonists learn what they're truly protecting and face an imposs
 
 ---
 
-The morning had begun like every other for the past forty-three years—with Melf's bare feet against the cold stone floor of his study, his palm pressed to the ancient granite wall, listening to the University's whispered gossip.
+The dawn after Samantha's formal petition had begun like every other for the past forty-three years—with Melf's bare feet against the cold stone floor of his study, his palm pressed to the ancient granite wall, listening to the University's whispered gossip.
 
 Winter University woke slowly in the pre-dawn darkness, its foundations murmuring with the familiar rhythm of institutional life beginning another day. Professor Hendricks's heavy boots descended toward the alchemical workshops three floors below, each step resonating through the stone with the methodical precision of someone who had walked the same route for decades. The kitchen staff in the basement moved with efficient purpose, their preparations for morning meals creating subtle vibrations that spoke of bread rising, hearth fires being stoked, and the eternal dance of feeding two hundred souls.
 

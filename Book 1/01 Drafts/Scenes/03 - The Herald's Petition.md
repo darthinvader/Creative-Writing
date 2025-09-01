@@ -20,15 +20,21 @@ Outcome: Formal investigation authorized; Samantha gains standing to provide fur
 
 ---
 
-The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through yesterday's remaining siege escalations without degrading. You've earned this hearing."
+The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. Evening shadows had begun to creep across the herbarium's windows, and the day's siege felt like a lifetime ago despite the exhaustion that still weighed Samantha's shoulders. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through yesterday's remaining siege escalations without degrading. You've earned this hearing."
 
-Samantha's hands still smelled of binder wash and copper filings despite scrubbing. Her shoulders ached from hunching over the crucible, and her eyes felt gritty from alchemical vapors that made her blink too often. The work had been precise, exhausting, and successful—the first victory she'd been part of since arriving in Codaria. But now she had to set aside the satisfaction of solved problems and reach for larger truths that might sound like madness to tired minds.
+From the courtyard below came the distant sound of boots on stone—patrol shifts changing, guards moving with the heightened alertness of people who knew yesterday's attack was only the beginning. Somewhere a bell tolled once, then again, marking the quarter-hour with grim precision.
+
+Samantha's hands still smelled of binder wash and copper filings despite scrubbing. Her shoulders ached from hunching over the crucible, and her eyes felt gritty from alchemical vapors that made her blink too often. The work had been precise, exhausting, and successful—the first victory she'd been part of since arriving in Codaria. But now she had to set aside the satisfaction of solved problems and reach for larger truths that might sound like madness to tired minds who had already fought one battle today.
 
 Melf rubbed his temples where soot had left smudges despite his careful washing. "Your technique with the binding agents was... unusual," he said, voice hoarse from breathing workshop air. "Precise in ways I don't have terms for. Like you were reading the components' intentions rather than their properties."
 
 Lareth sat with the controlled stillness of someone managing exhaustion through discipline. His astrolabe rested beside notes covered in siege calculations—angles of fire, ward coverage patterns, resource consumption rates. Even now, part of his attention tracked the sounds filtering through the herbarium's walls: the distant shouts of cleanup crews, the clatter of wagons moving supplies. "Speak quickly," he said, not unkindly. "The bells haven't named full retreat, which means we may need to return to the walls."
 
 A shadow passed across the window—too quick for a cloud, too large for a bird. Samantha's paladin senses prickled with wrongness, but when she glanced up, only empty sky remained. Lareth had noticed too; his fingers traced a protective ward against the astrolabe's rim.
+
+Another shadow flickered past, then another. Not random. Circling.
+
+"We should make this quick," Lareth said quietly, his strategic mind already calculating threat vectors. "Whatever those are, they're not natural."
 
 Samantha drew a breath that still tasted faintly of workshop vapors. Her practiced words felt clumsy after hours of precise chemical work, but she forced herself to find the rhythm. "Erandia is a realm where the divine and mortal worlds overlap. My sister rules the northern kingdom as Queen. I serve as her Herald, sent to find allies against enemies who corrupt magic at its source." She met the Administrator's measuring gaze. "The same enemies whose methods you saw today—the chaff designed to foul rather than destroy, the targeting of knowledge over wealth."
 

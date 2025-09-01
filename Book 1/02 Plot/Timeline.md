@@ -83,7 +83,7 @@ tags: [book/book1, type/timeline]
 
 ## Act V: The Final Battle
 
-**Y1 M2 D11-D13** — **COLDREACH SIEGE**: Demon lord masses army for assault on Coldreach; all surviving factions prepare defense.
+**Y1 M2 D11-D13** — **COLDREACH DEFENSE**: Demon lord masses army for assault on Coldreach district; all surviving factions prepare defense of Winterholme.
 
 **Y1 M2 D14** — **THE BATTLE BEGINS**: Coordinated defense with University faculty, Serathis forces, and surviving Kingdom troops.
 

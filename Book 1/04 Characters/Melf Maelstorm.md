@@ -16,14 +16,20 @@ updated: 2025-09-01
 **Professor of Applied Transmutation at [[Winter University]]**
 
 ## Overview
-Half-elf professor known for his practical approach to magic and protective nature toward his students and family. Distinguished by his multi-layered cape collection and his philosophy that "books can be rewritten, people don't come back."
+Half-elf professor known for his practical approach to magic and protective nature toward his students and family. Distinguished by his multi-layered cape collection and his philosophy that "books can be rewritten, people don't come back." Has spent nearly his entire life at Winter University, arriving as a young student and advancing through the ranks to become a respected professor over the course of more than a century.
 
 ## Appearance
-- **Age:** Middle-aged half-elf
+- **Age:** Middle-aged half-elf (approximately 120-130 years old, with half-elf lifespan around 200 years)
 - **Hair:** Grand white beard with silver-white hair 
 - **Eyes:** Winter sky blue, particularly striking before storms
 - **Notable Features:** Famous "cape of capes" - multiple layered traveling cloaks that whisper secrets in the wind
 - **Build:** Strong forearms from practical work, hands of a craftsman rather than pure academic
+
+## Background & Career
+- **University Life:** Arrived at Winter University as a young student and has remained there for over a century
+- **Academic Progression:** Rose through the ranks from student to professor through dedication and exceptional ability
+- **Institutional Knowledge:** Possesses deep understanding of University traditions, politics, and hidden elements due to his lengthy tenure
+- **Stone-Sense Connection:** His long residence has allowed him to develop an intimate magical connection with the University's foundations
 
 ## Abilities & Skills
 - **Primary Magic:** Transmutation specialist, particularly stonework and structural manipulation

@@ -1,6 +1,6 @@
 ---
 title: Book 1 Outline
-tags: [book/book1, type/outline]
+t	- Leadership: Following Gorran Thricebind's death in battle against Tengus, faculty elect [[Lareth Lakhart]] as High Mage to coordinate wartime defense and research.gs: [book/book1, type/outline]
 ---
 
 # Book 1 — Outline

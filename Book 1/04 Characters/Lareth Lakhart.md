@@ -1,5 +1,9 @@
 ---
-title: Lareth Lakhart
+title: Lareth Lakhar## Background
+- Florian Service: Rose to Marshal Arcanum (highest war-mage rank) through distinguished military service across multiple campaigns. Led magical forces in various theaters of conflict with strategic precision and tactical innovation.
+- Varied Career: Before settling at Winter University, served in multiple capacities - military advisor, independent scholar, consultant to various institutions. Known for his restless pursuit of knowledge and practical applications of magical theory.
+- Academic Transition: Eventually chose to join Winter University's faculty, bringing practical battlefield experience to scholarly pursuits. While often away on research expeditions or consulting work, he always returns to the University as his professional anchor.
+- Current Role: Professor focusing on large-scale evocation and battlefield control; serves as the University's primary expert on defensive doctrine and tactical magical applications.
 type: character
 role: Protagonist
 status: active
@@ -41,7 +45,7 @@ updated: 2025-08-30
 - Lifelong friend: [[Melf Maelstorm]]; iron sharpens iron.
 - New ally: [[Samantha Seraphel]]; takes her claims seriously sooner than most.
 - Faculty peer: [[Winter University]].
- - Leadership: Elected High Mage of [[Winter University]] after the death of [[Gorran Thricebind]] to guide wartime defense.
+ - Leadership: Elected High Mage of [[Winter University]] after the death of [[Gorran Thricebind (Administrator)]] to guide wartime defense.
 
 ## Wounds & Fears
 - Wound: War memories; a decisive strike that saved many but cost too much.

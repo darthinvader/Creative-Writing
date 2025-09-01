@@ -48,6 +48,10 @@ Use one term per heading and link usages in notes.
 - Definition: Origin bearer of the sword and book; artifacts are cursed and central to the current conflict.
 - Related: [[Sword of Gosh]], [[Book of Gosh]]
 
+## Gorran Thricebind
+- Definition: Female half-orc Administrator of [[Winter University]]; abjuration specialist known for multi-layered protective bindings. Guardian of the [[Book of Gosh]] hidden beneath the University. Dies in magical battle defending against [[Tengus]]'s assault.
+- Related: [[Gorran Thricebind (Administrator)]], [[Winter University]], [[Book of Gosh]], [[Tengus]], [[Lareth Lakhart]]
+
 ## Green Crucible
 - Definition: Heat-tolerant lab hall at [[Winter University]] for countermeasures like binder washes.
 - Related: [[Winter University]], [[Magic System — The Lattice]]

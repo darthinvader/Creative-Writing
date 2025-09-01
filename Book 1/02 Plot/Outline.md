@@ -39,4 +39,4 @@ Codaria reels when [[Coldreach]] falls—its siege covertly funded by the easter
 - ChY: The Gate at Winter
 	- [[Tengus]] springs his pact to summon [[Baramoth (Demon God)]]. Samantha enacts the counter-rite; Melf spends blood to bind and still the explosion-bound death; Lareth holds the line and gives his life to shield the students. Gosh’s grace saves the rest. Samantha defeats Tengus.
 
-Notes: Link characters like [[04 Characters/PCs/]] and locations like [[05 Locations/]] as you outline.
+Notes: Link characters like [[04 Characters/]] and locations like [[05 Locations/]] as you outline.

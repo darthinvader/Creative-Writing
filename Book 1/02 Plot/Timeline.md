@@ -5,6 +5,10 @@ tags: [book/book1, type/timeline]
 
 # Timeline
 
+## Background Context (Pre-Crisis)
+
+**Years Prior** — Tengus begins positioning assets and gathering intelligence about Winter University's sealed chambers through multiple faction networks, using Serathis agents as unwitting tools while pursuing his own agenda for the artifacts of Gosh.
+
 ## Act I: The Petition and Capture
 
 **Y1 M1 D1** — Coldreach siege intensifies; Serathis-backed sellswords identified by onyx sea-drake pins use alchemical chaff to foul ward-staves. See [[01 - Siege at Coldreach]].
@@ -17,9 +21,9 @@ tags: [book/book1, type/timeline]
 
 **Y1 M1 D4** — Security protocols established; accelerated faculty vote scheduled; infiltration concerns raised. See [[03.5 - Bonds of Understanding]].
 
-**Y1 M1 D4** — Multiple hostile networks revealed throughout Winterholme; scope of threat expands beyond University. See [[05 - The Network Revealed]].
+**Y1 M1 D4** — Multiple hostile networks revealed throughout Winterholme; scope of threat expands beyond University. See [[05 - The Guardian's Burden]].
 
-**Y1 M1 D4** — Sealed chambers accessed; Tengus revealed as independent agent manipulating Serathis infiltrators; issues 3-day ultimatum. See [[04 - Secrets Beneath Stone]].
+**Y1 M1 D4** — Sealed chambers accessed; Tengus revealed as independent agent manipulating Serathis infiltrators; issues 3-day ultimatum. See [[04 - Shadows Beneath Stone]].
 
 **Y1 M1 D5** — Multi-layered defense strategy developed; contact established with Tiana's thieves' guild for underground resistance networks; Captain Aldara briefed on Serathis occupation threats; trio disperses for urgent preparation tasks. See [[06 - Lines of Sight]].
 
@@ -69,9 +73,9 @@ tags: [book/book1, type/timeline]
 
 **Y1 M2 D6** — **SECOND CAPTURE**: Tengus kidnaps Melf and Lareth while they're planning defenses.
 
-**Y1 M2 D7** — **FAMILY REVELATION**: Melf discovers his daughter Karol-Elf has been with Tengus as apprentice; she's been studying him secretly.
+**Y1 M2 D7** — **FAMILY REVELATION**: Melf discovers his daughter Karol-Elf has been with Lady Vaelora in Serathis; her loyalties are tested as she must choose between her employer and her family during the crisis.
 
-**Y1 M2 D8** — **THE ESCAPE**: Melf and Lareth trick Tengus and escape; Karol-Elf's loyalties tested.
+**Y1 M2 D8** — **THE ESCAPE**: Melf and Lareth trick Tengus and escape; Karol-Elf's conflicted loyalties become apparent but she ultimately aids her family.
 
 **Y1 M2 D9** — **TENGUS PURSUIT**: Chase sequence across Codaria as Tengus hunts the escaped prisoners.
 
@@ -93,7 +97,7 @@ tags: [book/book1, type/timeline]
 
 **Y1 M2 D14** — **LARETH'S SACRIFICE**: Demon lord begins to explode with cataclysmic force; Lareth teleports University students and civilians to safety.
 
-**Y1 M2 D14** — **LARETH'S DEATH**: Lareth dies completing the mass teleportation, saving hundreds of lives.
+**Y1 M2 D14** — **LARETH'S DEATH**: Lareth dies completing the mass teleportation, saving hundreds of lives. His sacrifice at the climax demonstrates ultimate heroism and provides emotional weight to the victory.
 
 **Y1 M2 D15** — **AFTERMATH**: Survivors assess the cost; Codaria saved but at terrible price; new equilibrium established.
 
@@ -111,7 +115,7 @@ tags: [book/book1, type/timeline]
 ### Melf Maelstorm:
 - **D1-D10**: Growing mentor relationship with Samantha
 - **D11-D15**: Serathis captivity
-- **D7**: Discovery of daughter's betrayal/loyalty crisis with Karol-Elf
+- **D7**: Discovery of daughter's conflicted position with Karol-Elf
 - **D14**: Ultimate sacrifice using blood magic
 - **D14**: Survival with terrible magical cost
 
@@ -119,8 +123,8 @@ tags: [book/book1, type/timeline]
 - **D18**: Becomes University Administrator after chief's death
 - **D25**: Cursed by the Book of Gosh
 - **D6-D10**: Captured and escapes with Melf
-- **D14**: Ultimate sacrifice saving civilians
-- **D14**: Dies as hero of Codaria
+- **D14**: Ultimate heroic sacrifice saving civilians during final battle climax
+- **D14**: Dies as the hero of Codaria, ensuring victory's emotional cost
 
 ### Supporting Characters:
 - **Administrator**: Dies D17 fighting Tengus

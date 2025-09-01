@@ -21,7 +21,7 @@ Structure:
 Relations:
 - Allies:
 - Rivals/Enemies:
-- With PCs/NPCs:
+- With Characters:
 
 Appearance & Culture:
 - Colors/Uniforms:

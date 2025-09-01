@@ -7,7 +7,7 @@ age: ~45
 species: Human
 occupation: Political Operative
 location: Grettany (Mesothenna)
-relations: Wife of Melf Maelstorm, Mother of Karol-Elf and Melfina
+relations: Wife of Melf Maelstorm, Mother of Karol-Elf and Elfina
 created: 2025-08-30
 updated: 2025-08-30
 ---
@@ -23,14 +23,14 @@ updated: 2025-08-30
 - **Communication**: Maintains contact with [[Melf Maelstorm]] through scrying crystals when atmospheric conditions allow
 
 ## Personality & Traits
-- **Protective Instincts**: Passed on to daughters [[Karol-Elf Maelstorm]] and [[Melfina Maelstorm]]
+- **Protective Instincts**: Passed on to daughters [[Karol-Elf Maelstorm]] and [[Elfina Maelstorm]]
 - **Political Acumen**: Skilled in cross-realm political networks and diplomacy
 - **Family Values**: Believes in acting when others would wait, standing against injustice
 - **Sacrificial Nature**: Chose political calling despite family separation costs
 
 ## Relationships
 - **Husband**: [[Melf Maelstorm]] - long-distance marriage maintained through letters and scrying
-- **Daughters**: [[Karol-Elf Maelstorm]], [[Melfina Maelstorm]] - inherited her protective instincts
+- **Daughters**: [[Karol-Elf Maelstorm]], [[Elfina Maelstorm]] - inherited her protective instincts
 - **Separation Impact**: Missing daily family moments while pursuing work that helps people across realms
 
 ## Political Work
@@ -64,4 +64,4 @@ updated: 2025-08-30
 - **Relevance**: Potential future ally or information source
 
 ## Links
-- See also: [[Melf Maelstorm]], [[Karol-Elf Maelstorm]], [[Melfina Maelstorm]], [[Grettany]], [[Mesothenna]]
+- See also: [[Melf Maelstorm]], [[Karol-Elf Maelstorm]], [[Elfina Maelstorm]], [[Grettany]], [[Mesothenna]]

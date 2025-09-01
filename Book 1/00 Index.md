@@ -29,5 +29,5 @@ Suggested workflow:
 
 Notes:
 - Tag drafts with #status/draft, scenes with #type/scene, chapters with #type/chapter
-- Link PCs/NPCs and Locations inside scenes for easy graph navigation
+- Link Characters and Locations inside scenes for easy graph navigation
 - Keep terminology consistent with [[06 References/Glossary]] and decisions in [[08 Editing/Style Guide]]

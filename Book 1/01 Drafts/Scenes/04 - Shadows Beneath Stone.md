@@ -38,7 +38,7 @@ He settled into his favorite reading chair—worn leather that had molded to his
 
 Another letter, this one in Karol-Elf's enthusiastic handwriting, full of excitement about her research expedition into the eastern territories. His eldest daughter had inherited his curiosity about the world's hidden corners, though her recent employer—Lady Vaelora Serath of Serathis—had been steering her research in directions that made Melf's paternal instincts prickle with unease.
 
-A third letter from Melfina, his younger daughter, describing advanced magical studies in realms where reality bent around scholarly pursuit. Her descriptions of theoretical frameworks and experimental methodologies reminded him pleasantly of his own youth, when every magical principle seemed like a puzzle waiting to be solved.
+A third letter from Elfina, his younger daughter, describing advanced magical studies in realms where reality bent around scholarly pursuit. Her descriptions of theoretical frameworks and experimental methodologies reminded him pleasantly of his own youth, when every magical principle seemed like a puzzle waiting to be solved.
 
 He was reaching for his tea when the stone screamed.
 

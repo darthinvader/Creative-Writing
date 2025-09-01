@@ -5,7 +5,7 @@ cssclass: template
 
 # Character/Plot Arc — {{title}}
 Type: character/relationship/plot/theme
-Owner: [[04 Characters/PCs/]] / [[04 Characters/NPCs/]] / N/A
+Owner: [[04 Characters/]] / N/A
 
 Beats:
 - Setup:

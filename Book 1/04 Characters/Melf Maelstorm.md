@@ -24,10 +24,13 @@ Half-elf professor known for his practical approach to magic and protective natu
 - **Eyes:** Winter sky blue, particularly striking before storms
 - **Notable Features:** Famous "cape of capes" - multiple layered traveling cloaks that whisper secrets in the wind
 - **Build:** Strong forearms from practical work, hands of a craftsman rather than pure academic
+- **Equipment:** Carries two swords from his fencing days, though they're usually stored in his office rather than worn
+- **Habits:** Often smokes a well-worn pipe during downtime, contemplation, and casual conversation; the tobacco smoke helps him think and provides a familiar comfort during stressful situations
 
 ## Background & Career
 - **University Life:** Arrived at Winter University as a young student and has remained there for over a century
 - **Academic Progression:** Rose through the ranks from student to professor through dedication and exceptional ability
+- **Youthful Pursuits:** Active fencer and swordsman in his younger days, participating in University dueling societies and maintaining physical training alongside magical studies
 - **Institutional Knowledge:** Possesses deep understanding of University traditions, politics, and hidden elements due to his lengthy tenure
 - **Stone-Sense Connection:** His long residence has allowed him to develop an intimate magical connection with the University's foundations
 
@@ -38,6 +41,7 @@ Half-elf professor known for his practical approach to magic and protective natu
 - **Teaching:** Exceptional educator with practical, hands-on approach
 - **Combat Magic:** Can manipulate stone walls and defensive structures in real-time
 - **Lattice Work:** Skilled in precise magical applications, works well in teams
+- **Swordsmanship:** Accomplished fencer from his younger days; owns two swords and maintains his skills despite decades of academic focus. Still capable in combat though rusty from lack of regular practice
 
 ## Personality & Philosophy
 - **Core Belief:** People matter more than knowledge or artifacts

@@ -35,6 +35,10 @@ tags: [book/book1**Y1**Y1 M1 D17** — **TENGUS RETURNS**: Tengus launches assau
 
 **Y1 M1 D5** — Multi-layered defense strategy developed; contact established with Tiana's thieves' guild for underground resistance networks; Captain Aldara briefed on Serathis occupation threats; trio disperses for urgent preparation tasks. See [[06 - Lines of Sight]].
 
+**Y1 M1 D6** — Guard Headquarters discussions on external aid; Lareth and Captain Aldara consider requesting assistance from [[Kandar (Western Realm)]] if Serathis escalates. Rumors of a Kandaran trade cog at Outer Harbor. See [[09 - Lines of Authority]].
+
+**Y1 M1 D6 (Unknown to protagonists)** — Kandar intelligence confirms credible reports that the [[Book of Gosh]] lies beneath [[Winter University]]; discreet emissary dispatched under mercantile cover to secure leverage for locating the [[Sword of Gosh]].
+
 **Y1 M1 D7-D10** — Samantha assists Melf and Lareth with various University issues; trust builds through shared work and challenges.
 
 **Y1 M1 D11** — Heightened security and preparations across University and city; infiltration concerns escalate; no capture yet.

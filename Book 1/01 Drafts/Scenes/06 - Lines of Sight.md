@@ -182,6 +182,8 @@ Time was short. The countdown continued, and every passing hour brought them clo
 
 But for the first time since this crisis began, Lareth felt something beyond grim determination. Looking at his companions—each preparing to risk everything for people they barely knew—he felt the quiet strength that came from standing with others who understood that some things were worth any sacrifice.
 
+Through all the calculus, one outcome was unacceptable: letting Vaelora seize the [[Book of Gosh]] while Winterholme bled. If the East moved faster than stone and ward could stand, he would study the Book first—and use it, if that was the price of keeping the city alive.
+
 
 Top priorities before sunset:
 - Deny Tengus the [[Book of Gosh]]: Vera briefs Samantha; prepare for the guardian's test; define contingencies if the test fails.

@@ -12,6 +12,8 @@ On the storm-lashed island of [[Codaria]], a siege orchestrated by [[Serathis (E
 ## Premise
 Codaria reels when [[Coldreach]] falls—its siege covertly funded by the eastern realm of [[Serathis (Eastern Realm)]], ruled by Lady Vaelora Serath, who seeks a cursed artifact: a sword and its companion book once borne by the fallen angel Gosh. The blade can only be purified by [[Samantha Seraphel]]. Professors [[Melf Maelstorm]] and [[Lareth Lakhart]] unite with Samantha to locate the relics first and keep them from three competing forces: Serathis (whose ruler employs Karol-Elf), the western kingdom of [[Kandar (Western Realm)]], and its [[Paladin King (Kandar)]], who demands the artifact be retrieved. The dark-elf sorcerer [[Tengus]]—possibly kin to Lareth—has secretly bargained with [[Baramoth (Demon God)]] to unleash minotaur demons on Codaria as a test before turning on [[Florian]]. The trio resolves not to surrender the relics until they lift the curse and prevent the sword from opening a demon gate.
 
+Hidden knowledge: Unknown to the protagonists, Kandar has obtained intelligence that the [[Book of Gosh]] lies beneath [[Winter University]], and plans to leverage it to locate the [[Sword of Gosh]].
+
 ## Acts Overview
 - Act I: Fall of [[Coldreach]] — Samantha meets Melf and Lareth during the siege; they lose the city as eastern-backed brigands breach the defenses. In the retreat’s wake, clues point to the Sword and Book of Gosh and to rival realms converging on Codaria.
 - Act II: The Relics and the Net — A race to trace the relics’ trail pits the trio against agents of Serathis, envoys of Kandar, edicts from the Paladin King, and the maneuvering of [[Tengus]]. Mid-book, the [[Paladin King (Kandar)]] dies attempting to wield the unpurified sword, catalyzing Baramoth’s incursion that destroys his city. Corrupted seals and failing wards cluster around the relic sites; Melf’s ingenuity, Lareth’s force, and Samantha’s oathcraft keep the group ahead.
@@ -33,6 +35,9 @@ Codaria reels when [[Coldreach]] falls—its siege covertly funded by the easter
 - Ch4: Rivals in the Snow
 	- Skirmish with agents from East/West and an appearance or message from [[Tengus]].
 	- Decision: Do not surrender the relics until de-cursed; go to ground with allies.
+
+- Ch9/Next Scene Seed: Lines of Authority (Guard HQ)
+	- Lareth and Aldara debate whether to request aid from [[Kandar (Western Realm)]] to counter Serathis expansion; plant rumor of a Kandaran envoy operating under mercantile cover.
 
 - ChX: Dawnspear’s Folly
 	- The [[Paladin King (Kandar)]]—Alistair Dawnspear—attempts to wield the unpurified sword. Catastrophic backfire opens a gate; Baramoth’s minotaur demons overrun the city. The king dies; the trio barely escapes with crucial clues.

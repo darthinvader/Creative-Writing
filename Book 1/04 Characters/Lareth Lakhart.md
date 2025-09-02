@@ -1,5 +1,4 @@
----
-title: Lareth Lakhar## Background
+title: Lareth Lakhart
 - Florian Service: Rose to Marshal Arcanum (highest war-mage rank) through distinguished military service across multiple campaigns. Led magical forces in various theaters of conflict with strategic precision and tactical innovation.
 - Varied Career: Before settling at Winter University, served in multiple capacities - military advisor, independent scholar, consultant to various institutions. Known for his restless pursuit of knowledge and practical applications of magical theory.
 - Academic Transition: Eventually chose to join Winter University's faculty, bringing practical battlefield experience to scholarly pursuits. While often away on research expeditions or consulting work, he always returns to the University as his professional anchor.
@@ -15,7 +14,7 @@ class: Sorcerer (War/Destructive)
 affiliation: Winter University (Professor)
 tags: [#character, #pc, #professor, #sorcerer, #war-mage, #astronomer]
 created: 2025-08-29
-updated: 2025-08-30
+updated: 2025-09-02
 ---
 
 # Lareth Lakhart
@@ -27,6 +26,11 @@ updated: 2025-08-30
 - Goal: Keep Codaria secure while modernizing the University’s defense doctrine.
 - Motivation: Hungry for knowledge and power; left war in Florian to teach, yet conflict follows. When stakes demand it, he turns his drive toward saving students.
 - Conflict: Past campaigns in Florian haunt decisions; collateral damage vs. surgical restraint; ambition vs. duty to protect.
+
+## Current Stance on the Book
+- Strategic Imperative: To stop Serathis expansion before it hardens into occupation, Lareth is prepared to study and, if necessary, deploy the [[Book of Gosh]] under strict controls.
+- Limits & Safeguards: Only as a last resort, with containment contingencies and University oversight; better by his hand than Vaelora’s.
+- Rationale: Civilian lives and city sovereignty take precedence over orthodoxy when timelines compress.
 
 ## Background
 - Florian Service: Rose to Marshal Arcanum (highest war-mage rank). Returned to academia to escape war’s cycle; maintains strategic rigor.
@@ -60,6 +64,15 @@ updated: 2025-08-30
 
 ## Voice Cues
 - Sparse words, tactical clarity; less quip, more cadence.
+- When cornered by timelines: “We act on the clock we have, not the one we prefer.”
+
+## Moral Fault Line
+- Utility vs. Sanctity: Believes controlled use of dangerous tools can be moral if it prevents greater harm; risks sliding into ends-justify-means if unchecked.
+
+## Presence & Charm
+- Older, disciplined beauty; posture and poise signal calm command.
+- Charm is deliberate and sparing—used to lower defenses without surrendering ground.
+- Reads rooms quickly; chooses when to soften tone to keep coalitions functional under pressure.
 
 ## Continuity
 - Surname confirmed: Lakhart.

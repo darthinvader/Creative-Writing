@@ -29,7 +29,7 @@ From the parapet the enemy were plain: not an army, a contract. Brigands and sel
 
 "Alchemical chaff," someone muttered near her, spitting pink-tinged phlegm over the wall. "Salted ash and iron. Foul the catches, burn your lungs if you breathe it."
 
-The grit stung where it found exposed skin. *Ward-staves,* Samantha realized, scanning the defensive positions. The wooden posts with carved spirals were meant to maintain protective barriers, but this powder was designed to disrupt their magic.
+The grit stung where it found exposed skin. [[Ward-staves]], Samantha realized, scanning the defensive positions. The wooden posts with carved spirals were meant to maintain protective barriers, but this powder was designed to disrupt their magic.
 
 A man in a heavy traveling cape had both hands pressed to a fresh plug of pale blocks, his knuckles white with strain. Sweat beaded on his forehead despite the cold, freezing before it could fall. His beard was a grand thing—big, white, rimed with frost that crackled when he spoke—and long silver‑white hair whipped from beneath his hood like banners. The cape itself billowed and folded in clever layers: one of the many from the "cape of capes" he was famous (and teased) for. The fabric whispered secrets with each gust. "Two inches more," he called to the team below, voice cheerful despite the tremor of exhaustion beneath, "and I promise I will stop making these heavier than they already are."
 
@@ -77,9 +77,9 @@ A crossbow bolt whistled past her ear, so close she felt the fletching kiss her 
 
 "It will," Melf said from behind them. "After we survive this."
 
-His voice stayed even, but she could see the cost—the way his shoulders hunched, the tremor in his extended hand. Through his Lattice Sight, he could read the precise threads of magical energy like a scholar reading text, stitching flame exactly where he set it—no wider than a boot, no hotter than needed—but each casting left him grayer.
+His voice stayed even, but she could see the cost—the way his shoulders hunched, the tremor in his extended hand. Lareth's Lattice Sight read the precise threads of magical energy like a scholar reading text. He stitched flame exactly where he set it—no wider than a boot, no hotter than needed—but each casting left him grayer.
 
-The next push came like a hammer blow: mantlets thumped into place with impacts that rattled teeth; ladders rose like skeletal fingers; hooks bit stone with shrieks that set her teeth on edge. The sound of tearing metal on stone was the sound of nightmares. Lareth rationed flame in tight stitches that melted rings to flesh—the screams were immediate and horrible—and sent men scrambling back with blistered hands fused to ladder rungs. The stench of burned pork made her stomach heave. Melf shifted the wall's grain with a grinding sound like millstones, and when a crack tried to form, he guided it sideways instead of through. A ladder bounced back when its hooks failed to bite, the man at its top falling with a wet crunch that carried even over the battle din.
+The next push came like a hammer blow: mantlets thumped into place with impacts that rattled teeth; ladders rose like skeletal fingers; hooks bit stone with shrieks that set her teeth on edge. The sound of tearing metal on stone was the sound of nightmares. Lareth rationed flame in tight stitches that melted rings to flesh—the screams were immediate and horrible—and sent men scrambling back with blistered hands fused to ladder rungs. Melf shifted the wall's grain with a grinding sound like millstones, and when a crack tried to form, he guided it sideways instead of through. A ladder bounced back when its hooks failed to bite, the man at its top falling with a wet crunch that carried even over the battle din.
 
 Magic always asked for breath and discipline; overreach frayed edges or made them bite back through the Lattice's own resistance. She could taste it now—the copper-lightning flavor of power burning its channels through living flesh.
 
@@ -107,7 +107,7 @@ Light ran up her arm like a bell-note made visible, like lightning given form an
 
 Samantha held. Not by shouting, not by show, but by placing each step where it counted and making each hit do only the work required. Her body moved on instinct now, training overriding the part of her mind that wanted to curl up and weep. When more hands reached the crenel—fingers like pale spiders—she rapped knuckles hard enough to split skin to bone. The crack was audible. She hooked a wrist, feeling tendons pop beneath her grip, and sent a knife clattering into the yard below where it rang against stone. The empowered hum faded as quickly as it had come, leaving her feeling hollow and brittle as old paper; she did not chase it. She saved it, hoarding it like a last swallow of water in the desert.
 
-Melf breathed out—a long, shuddering exhale—and the ladder's hooks failed to bite. "Shoelaces tied," he said, though his grin was more grimace now. The ladder lurched backward and slid; bodies thumped into the drift far below, dull as sacks of wet grain. Some moved afterward. Most didn't.
+Melf breathed out—a long, shuddering exhale—and the ladder's hooks failed to bite. "Shoelaces tied," he said, though his grin was more grimace now. The ladder lurched backward and slid; bodies thumped into the drift far below, dull as sacks of wet grain.
 
 Only then did relief last four breaths that rattled in her chest.
 
@@ -123,7 +123,7 @@ Samantha realized her palm stung where chalk had ground into old scrapes, mixing
 
 "We regroup with the city magistrates," Captain Aldara decided, her tactical assessment complete. "They need to understand what we're facing—this was reconnaissance in force, not the main assault. The real siege will follow." She looked to Lareth, acknowledging his expertise. "The University can brief them on these alchemical countermeasures while we prepare the inner defenses."
 
-"Agreed," Lareth said, already turning, though blood still traced from his nose. "They'll have gone to Redline Three by now—crisis protocols. The University and city authorities need to coordinate defensive strategy."
+"Agreed," Lareth said, already turning, though blood still traced from his nose. "They'll have gone to [[Redline Three]] by now—crisis protocols. The University and city authorities need to coordinate defensive strategy."
 
 "The inner walls will hold against conventional assault," the captain added, cleaning her blade with efficient movements that spoke of decades of practice. "This district bought us time and intelligence. Now we prepare for a proper siege."
 Notes: This scene links to [[Outline#Chapter-by-Chapter|Outline]], anchors the inciting incident, and should be cross‑referenced in [[Timeline]].

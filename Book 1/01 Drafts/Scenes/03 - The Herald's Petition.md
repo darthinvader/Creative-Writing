@@ -1,11 +1,11 @@
----
 title: 03 - The Herald's Petition
+The five minutes began with [[Administrator (Winter University)|Vera]]'s finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution.
 type: scene
 pov: Samantha Seraphel
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], Administrator
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Administrator (Winter University)|Vera]]
 status: draft
 created: 2025-08-30
 updated: 2025-08-30
@@ -20,7 +20,7 @@ Outcome: Formal investigation authorized; Samantha gains standing to provide fur
 
 ---
 
-The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. Evening shadows had begun to creep across the herbarium's windows, and the day's siege felt like a lifetime ago despite the exhaustion that still weighed Samantha's shoulders. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through yesterday's remaining siege escalations without degrading. You've earned this hearing."
+The five minutes began with the Administrator's finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution. Evening shadows had begun to creep across the herbarium's windows, and the day's siege felt like a lifetime ago despite the exhaustion that still weighed Samantha's shoulders. "Five minutes," she said, voice carrying the same granite certainty that had marked emergency supply lists for the past six hours. "The countermeasure works. Your formulation held through today's remaining siege escalations without degrading. You've earned this hearing."
 
 From the courtyard below came the distant sound of boots on stone—patrol shifts changing, guards moving with the heightened alertness of people who knew yesterday's attack was only the beginning. Somewhere a bell tolled once, then again, marking the quarter-hour with grim precision.
 

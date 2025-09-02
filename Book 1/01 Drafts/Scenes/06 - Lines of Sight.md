@@ -5,7 +5,7 @@ pov: Lareth Lakhart
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Administrator (Winter University)]]
+characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Administrator (Winter University)|Vera]]
 status: draft
 created: 2025-08-31
 updated: 2025-08-31
@@ -40,9 +40,9 @@ Samantha's hand moved unconsciously to her blessed sword. "Different corruptions
 
 Through his lattice sight—his enhanced perception that revealed magical energy patterns invisible to normal vision—Lareth tracked the residual energy patterns through the window. "I can see the signatures now that I know what to look for. Scrying marks at key intersections, tagged with that distinctive coldness Samantha describes. They've been watching us far longer than we realized."
 
-He turned from the window, fixing his companions with a look that carried military certainty. "We're not preparing for one threat—we're preparing for two converging catastrophes. Tengus will come for the Book of Gosh with overwhelming magical force. But Serathis will come for the city itself, and they'll time their occupation to coincide with our moment of greatest vulnerability."
+He turned from the window, fixing his companions with a look that carried military certainty. "We're not preparing for one threat—we're preparing for two converging catastrophes. Tengus will come for the [[Book of Gosh]] with overwhelming magical force. But Serathis will come for the city itself, and they'll time their occupation to coincide with our moment of greatest vulnerability."
 
-Through his lattice sight, the Administrator's office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
+Through his lattice sight, [[Administrator (Winter University)|Vera]]'s office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
 
 "The chamber," he said quietly. "When I focus on it directly, I see... layers. The current wards are maybe thirty years old, but beneath them are older protections. Much older. The magical signatures suggest multiple attempts to contain whatever's down there, each one building on the failures of the last."
 
@@ -78,7 +78,7 @@ He paused, studying her through lattice sight. The divine radiance that surround
 
 "I need to understand what the test actually measures," Samantha said, completing his thought. "Not just magical power or combat skill, but the specific type of worthiness the guardian evaluates."
 
-"The Administrator knows more than she's shared," Melf said quietly. "Thirty years of guarding that chamber means thirty years of studying what it contains. She must have theories, research, some understanding of the test's nature."
+"Vera knows more than she's shared," Melf said quietly. "Thirty years of guarding that chamber means thirty years of studying what it contains. She must have theories, research, some understanding of the test's nature."
 
 "Then I'll speak with her," Samantha decided. "Herald to Guardian, acknowledging the burden she's carried alone for too long."
 
@@ -88,15 +88,15 @@ Through the window, the sun cleared the horizon, painting Winterholme's stone wa
 
 "Until they realize occupation IS destruction," Melf said bitterly. "Just slower, more systematic. Every freedom stripped away through legal precedent rather than force."
 
-A knock at the door interrupted their planning. The Administrator entered without waiting for permission, her scarred hands carrying a tea service that seemed absurdly normal given the circumstances. But Lareth's lattice sight revealed the truth—the crystal ring on her hand pulsed with agitation, responding to proximity to the sealed chamber below.
+A knock at the door interrupted their planning. Vera entered without waiting for permission, her scarred hands carrying a tea service that seemed absurdly normal given the circumstances. But Lareth's lattice sight revealed the truth—the crystal ring on her hand pulsed with agitation, responding to proximity to the sealed chamber below.
 
 "I thought you should know," she said without preamble, setting the tray on his desk with careful precision. "The chamber's wards fluctuated three times during the night. Not failures—responses. Something down there is... anticipating."
 
 "It knows the deadline too," Samantha said quietly. "The guardian understands that Tengus is coming."
 
-"More than that," the Administrator replied, her expression showing the strain of knowledge carried too long. "The fluctuations match patterns from thirty years ago, the last time someone attempted to claim what's below. That attempt failed, but the guardian learned from it. It's been preparing its own response to intrusion."
+"More than that," Vera replied, her expression showing the strain of knowledge carried too long. "The fluctuations match patterns from thirty years ago, the last time someone attempted to claim what's below. That attempt failed, but the guardian learned from it. It's been preparing its own response to intrusion."
 
-Through his lattice sight, Lareth saw how the Administrator's personal wards had been modified recently—additional protections layered over existing defenses, all keyed to specific magical signatures. She wasn't just guarding the chamber; she was preparing to defend herself against whatever might emerge from it.
+Through his lattice sight, Lareth saw how Vera's personal wards had been modified recently—additional protections layered over existing defenses, all keyed to specific magical signatures. She wasn't just guarding the chamber; she was preparing to defend herself against whatever might emerge from it.
 
 "You're planning to go down with whoever attempts the test," he said, recognizing the tactical preparation.
 
@@ -104,13 +104,13 @@ Through his lattice sight, Lareth saw how the Administrator's personal wards had
 
 "Not alone," Melf said firmly. "Not anymore. Whatever happens when that chamber opens, you'll have support."
 
-The Administrator's expression softened slightly—the first crack Lareth had seen in her granite facade. "That's... appreciated. But you should understand the full scope of what we're facing. The chamber doesn't just test worthiness—it reveals truth. Divine heritage, hidden purposes, destined paths. The guardian sees everything, judges everything. Most who face that level of scrutiny break before the test even begins."
+Vera's expression softened slightly—the first crack Lareth had seen in her granite facade. "That's... appreciated. But you should understand the full scope of what we're facing. The chamber doesn't just test worthiness—it reveals truth. Divine heritage, hidden purposes, destined paths. The guardian sees everything, judges everything. Most who face that level of scrutiny break before the test even begins."
 
 She looked directly at Samantha. "Your divine markings suggest you might survive the revelation. But survival and success are different things. The guardian's definition of worthiness might not align with what any of us expect."
 
-"Then we prepare for multiple outcomes," Lareth said, his tactical mind already working through contingencies. "Best case: Samantha passes the test, destroys the Book of Gosh, and we only have to deal with Serathis occupation. Worst case: the test fails, the guardian is freed, Tengus claims the book, and Serathis conquers a city already ravaged by supernatural conflict."
+"Then we prepare for multiple outcomes," Lareth said, his tactical mind already working through contingencies. "Best case: Samantha passes the test, destroys the [[Book of Gosh]], and we only have to deal with Serathis occupation. Worst case: the test fails, the guardian is freed, Tengus claims the book, and Serathis conquers a city already ravaged by supernatural conflict."
 
-"Most likely case," the Administrator corrected grimly, "something between those extremes that we haven't anticipated. The chamber has been sealed for thirty years. Whatever's down there has had three decades to evolve beyond its original parameters."
+"Most likely case," Vera corrected grimly, "something between those extremes that we haven't anticipated. The chamber has been sealed for thirty years. Whatever's down there has had three decades to evolve beyond its original parameters."
 
 Through his lattice sight, Lareth watched the city wake to another day, unaware that it might be one of their last in freedom. Merchants arranged their wares, dock workers loaded cargo, University students hurried to morning lectures. The ordinary patterns of life continuing while extraordinary threats gathered like storm clouds.
 
@@ -140,7 +140,7 @@ The morning light had grown stronger, but instead of bringing comfort, it only r
 
 "Agreed," Melf said firmly, his voice carrying the weight of a father's convictions. "Books can be rewritten, knowledge rediscovered. People don't come back. The students, the townspeople, my daughters—they're what we're really defending."
 
-"Freedom matters too," the Administrator added. "Better to burn the archives than let Serathis turn our people into another expansion of their empire."
+"Freedom matters too," Vera added. "Better to burn the archives than let Serathis turn our people into another expansion of their empire."
 
 Lareth looked at his companions—united in their core priority but each bringing different perspectives on how to protect what mattered most. This was the brutal mathematics of defense: everything couldn't be saved, so choices had to be made about what would be sacrificed.
 
@@ -156,7 +156,7 @@ Melf broke the heavy silence with a dry chuckle. "You know, three days ago my bi
 
 The brief moment of shared humanity reminded them that beneath the tactical planning and supernatural threats, they were still people trying to do their best with impossible circumstances.
 
-"I'll begin immediately," Samantha said, standing with the fluid grace of someone who had made peace with necessary action. "The Administrator and I need to discuss the chamber's history. Every previous attempt, every failure, every lesson learned."
+"I'll begin immediately," Samantha said, standing with the fluid grace of someone who had made peace with necessary action. "Vera and I need to discuss the chamber's history. Every previous attempt, every failure, every lesson learned."
 
 "I'll reach out to my contacts in the thieves' guild," Melf said, already moving toward the door. "And carefully review Karol-Elf's intelligence for patterns we might have missed."
 
@@ -178,7 +178,11 @@ Two days. The countdown continued, and every passing hour brought them closer to
 
 But for the first time since this crisis began, Lareth felt something beyond grim determination. Looking at his companions—each preparing to risk everything for people they barely knew—he felt the quiet strength that came from standing with others who understood that some things were worth any sacrifice.
 
-They would face the darkness together.
+
+Top priorities before sunset:
+- Deny Tengus the [[Book of Gosh]]: Vera briefs Samantha; prepare for the guardian's test; define contingencies if the test fails.
+- Civil defense vs [[Serathis (Eastern Realm)|Serathis]]: Lareth + [[Captain Aldara]] fortify evacuation routes and safe houses; Melf engages thieves' guild tunnels and caches.
+- Protect civilians and communications: stage supply caches, set signal protocols, seed resistance cells; accept strategic losses to save lives.
 
 ---
 

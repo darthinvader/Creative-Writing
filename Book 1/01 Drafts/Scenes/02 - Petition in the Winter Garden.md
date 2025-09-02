@@ -56,7 +56,7 @@ Each line was a negation. Each shortage a door closing on possibility.
 
 People moved through the space with the focused intensity of those who knew exactly what mattered and what didn't. A boy barely old enough to shave staggered under a crate of peat blocks that looked heavier than he was, his breath coming in short puffs that spoke of strain held just this side of breaking. A woman with ink stained to her wrists counted glass pipettes into a rack with the rhythm of prayer, her lips moving silently as she sorted by size and condition. Students—identifiable by the cut of their coats and the way their eyes tried to be everywhere at once—ran for the shed where a brazier sighed contentment and a rune-kiln steamed with barely contained intent.
 
-The Administrator stood by the blackboard like a monument to efficiency. A half-orc with neat tusks that caught the light when she turned her head, sleeves rolled to reveal forearms marked with old scars from laboratory accidents. Her expression had been carved from stone that didn't care about weather or wishes. When she looked at you, you understood that time was a limited resource and she would not waste it on courtesy.
+[[Administrator (Winter University)|Vera]] stood by the blackboard like a monument to efficiency. A half-orc with neat tusks that caught the light when she turned her head, sleeves rolled to reveal forearms marked with old scars from laboratory accidents. Her expression had been carved from stone that didn't care about weather or wishes. When she looked at you, you understood that time was a limited resource and she would not waste it on courtesy.
 
 "Professor. Marshal." She nodded to Melf and Lareth with equal measure—respect without deference, acknowledgment without subservience. Her gaze found Samantha and evaluated without curiosity, without disdain. Simply measured and catalogued. "Report."
 
@@ -102,7 +102,7 @@ The air hummed with potential—not loud, but persistent, like the feeling befor
 
 "Steady," Lareth said to the room, his voice cutting through nervous chatter without needing volume. The words carried authority earned through competence, respected because it had been tested. "We're being clocked."
 
-"As always," Melf said, rolling his sleeves to his elbows with methodical care. His forearms were strong in the way of people who lifted things more important than themselves—not the bulk of a laborer but the precise strength of a craftsman. "All right. Binder wash. We need something that turns grit into polite paste and slides out of grooves without scratching. Juniper resin? Vinegar? A breath of oil so it doesn't seize."
+"As always," Melf said, rolling his sleeves to his elbows with methodical care. His forearms were strong in the way of people who lifted things more important than themselves—not the bulk of a laborer but the precise strength of a craftsman. "All right. Binder wash. We need something that turns grit into polite paste and slides out of grooves without scratching—basically a gentle solvent to restore fouled [[Ward-staves]]. Juniper resin? Vinegar? A breath of oil so it doesn't seize."
 
 The work demanded breath and steadiness. Samantha felt fatigue at the edges of her consciousness like a blade testing an edge—aware of its presence but not yet cutting deep enough to matter.
 

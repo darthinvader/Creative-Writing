@@ -5,7 +5,7 @@ pov: Melf Maelstorm
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Administrator (Winter University)]], [[Lady Vaelora Serath]] (agents)
+characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Administrator (Winter University)|Vera]], [[Lady Vaelora Serath]] (agents)
 status: draft
 created: 2025-08-31
 updated: 2025-08-31
@@ -126,7 +126,7 @@ The third no longer bothered with disguise. Through his connection to the Univer
 
 "Magical signature like nothing in our files," Lareth confirmed, his lattice sight cutting through illusions and concealment magic to reveal power levels that shouldn't be possible for someone operating without institutional support. "Authority that makes the air itself reshape around his presence. And he's standing before the Administrator's door like he owns not just the building, but the concepts that created it."
 
-Voices carried through the administrative wing's carefully designed acoustics—the Administrator's controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
+Voices carried through the administrative wing's carefully designed acoustics—[[Administrator (Winter University)|Vera]]'s controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
 
 Melf pressed deeper into his connection with the University's foundations, using the granite's memory to hear what transpired beyond barriers that had been designed to protect institutional authority from external pressures.
 
@@ -176,7 +176,7 @@ Tengus smiled at that acknowledgment, an expression that contained genuine affec
 
 Through his stone-sense, Melf could feel how that simple gesture—the Administrator's unconscious touch of her ring—made the hidden chamber below them resonate with ancient magics that had been dormant for generations. Power that predated the University's construction stirred in response to the presence of its key, recognizing authorization patterns that had been established by forces operating outside normal magical frameworks.
 
-"The Book of Gosh," Tengus said with satisfaction, watching her reaction with the attention of someone who had been anticipating this revelation for decades. "Still down there, still waiting behind protections that require your willing cooperation to bypass safely."
+"The [[Book of Gosh]]," Tengus said with satisfaction, watching her reaction with the attention of someone who had been anticipating this revelation for decades. "Still down there, still waiting behind protections that require your willing cooperation to bypass safely."
 
 The revelation hit Melf like a physical blow that reframed everything he thought he understood about institutional purpose and hidden responsibilities. Through his connection to the University's foundations, he felt confirmation of fears and duties older than recorded history—knowledge that the building had been constructed around purposes that extended far beyond scholarly research into areas that required supernatural protection.
 
@@ -222,7 +222,7 @@ He turned his attention back to the Administrator, who had watched the entire sk
 
 "What do you want?" Melf demanded, pressing his hand against the wall to steady himself while the University's foundations whispered of magical forces that could reshape stone according to will rather than physical law.
 
-"What I've always wanted," Tengus replied, shadows beginning to gather around him like a living cloak that responded to his emotional state with organic loyalty. "What Vera has been protecting all these years with dedication that deserves better recognition than institutional secrecy. The Book of Gosh, and the cooperation necessary to use it properly."
+"What I've always wanted," Tengus replied, shadows beginning to gather around him like a living cloak that responded to his emotional state with organic loyalty. "What Vera has been protecting all these years with dedication that deserves better recognition than institutional secrecy. The [[Book of Gosh]], and the cooperation necessary to use it properly."
 
 The Administrator's expression had gone carefully neutral, but through the granite beneath his feet, Melf could feel how her entire body remained tensed around the ring that had suddenly become the focus of supernatural attention. "You know what it will cost if I cooperate."
 
@@ -234,7 +234,7 @@ The threat hung in the air with the certainty of inevitable consequences. Throug
 
 "Why three days?" Samantha asked, divine radiance still flickering around her armor despite the futility of their recent assault against forces that operated outside normal spiritual frameworks.
 
-"Because," Tengus said, his gaze fixing on her with predatory interest that suggested her presence created opportunities he had been hoping to exploit, "what I ultimately require cannot be taken by force from unwilling subjects. The Book of Gosh is merely the first component in a working that requires willing cooperation from those with appropriate... resonances."
+"Because," Tengus said, his gaze fixing on her with predatory interest that suggested her presence created opportunities he had been hoping to exploit, "what I ultimately require cannot be taken by force from unwilling subjects. The [[Book of Gosh]] is merely the first component in a working that requires willing cooperation from those with appropriate... resonances."
 
 His attention turned back to the Administrator, shadows gathering around him with increasing density as emotional intensity translated into supernatural manifestation. "Three days to consider how many lives you're willing to sacrifice for the sake of keeping secrets that were never meant to stay buried forever, Vera. Three days to remember why cooperation serves everyone's interests better than noble gestures that accomplish nothing except prolonged suffering."
 

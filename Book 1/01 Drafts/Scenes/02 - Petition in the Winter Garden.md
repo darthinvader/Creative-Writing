@@ -4,7 +4,7 @@ type: scene
 pov: Samantha Seraphel
 tense: past
 location: [[Winter University]]
-timeline: [[Timeline]]
+timeline: [[Timeline#Y1 M1 D2]]
 characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]]
 status: draft
 created: 2025-08-30
@@ -56,7 +56,7 @@ Each line was a negation. Each shortage a door closing on possibility.
 
 People moved through the space with the focused intensity of those who knew exactly what mattered and what didn't. A boy barely old enough to shave staggered under a crate of peat blocks that looked heavier than he was, his breath coming in short puffs that spoke of strain held just this side of breaking. A woman with ink stained to her wrists counted glass pipettes into a rack with the rhythm of prayer, her lips moving silently as she sorted by size and condition. Students—identifiable by the cut of their coats and the way their eyes tried to be everywhere at once—ran for the shed where a brazier sighed contentment and a rune-kiln steamed with barely contained intent.
 
-[[Administrator (Winter University)|Vera]] stood by the blackboard like a monument to efficiency. A half-orc with neat tusks that caught the light when she turned her head, sleeves rolled to reveal forearms marked with old scars from laboratory accidents. Her expression had been carved from stone that didn't care about weather or wishes. When she looked at you, you understood that time was a limited resource and she would not waste it on courtesy.
+[[Gorran Thricebind (Administrator)|Vera]] stood by the blackboard like a monument to efficiency. A half-orc with neat tusks that caught the light when she turned her head, sleeves rolled to reveal forearms marked with old scars from laboratory accidents. Her expression had been carved from stone that didn't care about weather or wishes. When she looked at you, you understood that time was a limited resource and she would not waste it on courtesy.
 
 "Professor. Marshal." She nodded to Melf and Lareth with equal measure—respect without deference, acknowledgment without subservience. Her gaze found Samantha and evaluated without curiosity, without disdain. Simply measured and catalogued. "Report."
 

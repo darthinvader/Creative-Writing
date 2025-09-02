@@ -48,23 +48,6 @@ Half-elf professor known for his practical approach to magic and protective natu
 - **Ethical Restraint:** Refuses to use his full blood magic potential due to moral implications and institutional prohibition
 - **Self-Control:** Demonstrates remarkable discipline in limiting himself to minor enhancements rather than his true capabilities
 
-## Blood Magic Mastery & Restraint
-### True Capabilities
-- **Unique Techniques:** Possesses rare and exceptionally powerful blood magic methods unknown to most practitioners
-- **Combat Potential:** Could devastate enemies through blood manipulation, but considers such methods abhorrent
-- **Healing Applications:** Advanced blood magic could accelerate healing dramatically, but risks dangerous dependency
-- **Transmutation Synergy:** Blood magic could amplify his transmutation to reality-warping levels
-
-### Self-Imposed Limitations
-- **University Prohibition:** Winter University strictly forbids blood magic practice among faculty
-- **Ethical Concerns:** Views unrestricted blood magic as a path to corruption and loss of humanity
-- **Professional Risk:** Discovery could result in dismissal, exile, or worse
-- **Protective Secrecy:** Keeps abilities hidden even from close colleagues like [[Lareth Lakhart]]
-
-### Current Practice
-- **Minor Enhancements Only:** Limits himself to small augmentations that appear as normal magical strain
-- **Emergency Reserve:** Maintains capabilities as last resort for protecting family or students
-- **Careful Concealment:** Disguises blood magic effects as advanced transmutation techniques
 - **Ethical Restraint:** Refuses to use his full blood magic potential due to moral implications and institutional prohibition
 - **Self-Control:** Demonstrates remarkable discipline in limiting himself to minor enhancements rather than his true capabilities
 

@@ -23,13 +23,13 @@ tags: [book/book1, type/timeline]
 
 **Y1 M1 D4** — Multiple hostile networks revealed throughout Winterholme; scope of threat expands beyond University. See [[05 - The Guardian's Burden]].
 
-**Y1 M1 D4** — Sealed chambers accessed; Tengus revealed as independent agent manipulating Serathis infiltrators; issues 3-day ultimatum. See [[04 - Shadows Beneath Stone]].
+**Y1 M1 D4** — Sealed chambers accessed; Tengus revealed as independent agent manipulating Serathis infiltrators; issues an ultimatum (no fixed interval). See [[04 - Shadows Beneath Stone]].
 
 **Y1 M1 D5** — Multi-layered defense strategy developed; contact established with Tiana's thieves' guild for underground resistance networks; Captain Aldara briefed on Serathis occupation threats; trio disperses for urgent preparation tasks. See [[06 - Lines of Sight]].
 
 **Y1 M1 D7-D10** — Samantha assists Melf and Lareth with various University issues; trust builds through shared work and challenges.
 
-**Y1 M1 D11** — **THE CAPTURE**: Serathis agents kidnap Samantha, Melf, and Lareth for interrogation about artifact locations. Transported to eastern realm.
+**Y1 M1 D11** — Heightened security and preparations across University and city; infiltration concerns escalate; no capture yet.
 
 **Y1 M1 D12-D15** — Held in Serathis; questioned about the Book of Gosh; learn of Lady Vaelora's true intentions and scope of the search.
 
@@ -37,15 +37,17 @@ tags: [book/book1, type/timeline]
 
 **Y1 M1 D16** — **ESCAPE FROM SERATHIS**: The trio escape captivity and race back to Winter University.
 
-**Y1 M1 D17** — **TENGUS RETURNS**: Tengus fulfills his threat after 3-day preparation period, launching assault on Winter University seeking the artifacts.
+**Y1 M1 D17** — **TENGUS RETURNS**: Tengus launches assault on Winter University seeking the artifacts.
 
-**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator dies in magical battle against Tengus; massive confrontation damages University defenses.
+**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Gorran “Vera” Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.
 
-**Y1 M1 D18** — **LARETH BECOMES HEAD**: Emergency faculty vote; Lareth elected new University Administrator in crisis.
+**Y1 M1 D18** — **LARETH BECOMES HEAD**: Emergency faculty vote; Lareth (Professor; Defense Coordinator) elected new University Administrator in crisis.
+
+**Y1 M1 D18 (Night)** — **SERATHIS ATTACKS**: Serathis forces move on Winterholme under pretext of restoring order following the Administrator’s death; occupation attempt begins after Vera’s fall.
 
 **Y1 M1 D19-D21** — Investigation of sealed chambers beneath University; discovery of ancient foundation network.
 
-**Y1 M1 D22** — **THE DRAGON CHAMBER**: Discovery of the undead dragon guardian and the Book of Gosh in deepest sealed chamber.
+**Y1 M1 D22** — **THE DRAGON CHAMBER**: Enter deepest sealed chamber; confront undead dragon guardian; Book confirmed.
 
 **Y1 M1 D23** — **SAMANTHA'S AWAKENING**: Dragon battle; Samantha manifests angelic heritage (wings, green gem forehead symbol) and slays the guardian with Melf and Lareth's aid.
 
@@ -107,7 +109,7 @@ tags: [book/book1, type/timeline]
 
 ### Samantha Seraphel:
 - **D1-D5**: Petition and alliance building
-- **D11-D15**: Serathis captivity and interrogation
+- **D23-D25**: Serathis captivity and interrogation
 - **D23**: Angelic awakening during dragon battle (wings sprout, green gem appears on forehead)
 - **D14**: Communion with Gosh and sword purification
 - **D14**: Final battle leadership
@@ -122,7 +124,7 @@ tags: [book/book1, type/timeline]
 ### Lareth Lakhart:
 - **D18**: Becomes University Administrator after chief's death
 - **D25**: Cursed by the Book of Gosh
-- **D6-D10**: Captured and escapes with Melf
+- **D23-D25**: Captured and escapes with Melf
 - **D14**: Ultimate heroic sacrifice saving civilians during final battle climax
 - **D14**: Dies as the hero of Codaria, ensuring victory's emotional cost
 

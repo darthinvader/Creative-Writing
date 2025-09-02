@@ -120,8 +120,8 @@ Use one term per heading and link usages in notes.
 - Definition: Cursed artifact that precipitates Baramoth's incursion when misused; paired with the [[Book of Gosh]].
 - Related: [[Gosh (Fallen Angel)]], [[Baramoth (Demon God)]], [[10 - Dawnspear's Folly]]
 
-## Tengus
-- Definition: Exceptionally powerful dark elf sorcerer (~100) seeking the artifacts of Gosh for personal power. Former exile from [[Florian]] who faced discrimination and persecution. Works alone as an independent agent, using other factions as tools and cover. Has spent decades planning his assault on the Winter University's sealed chambers.
+-## Tengus
+- Definition: Exceptionally powerful dark elf sorcerer (approximately 100 years old) seeking the artifacts of Gosh for personal power. Former exile from [[Florian]] who faced discrimination and persecution. Works alone as an independent agent, using other factions as tools and cover. Has spent decades planning his assault on the Winter University's sealed chambers.
 - Related: [[Tengus]], [[Book of Gosh]], [[Sword of Gosh]], [[Administrator]], [[Florian]]
 
 ## The Lattice

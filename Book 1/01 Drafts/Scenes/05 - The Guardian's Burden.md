@@ -5,10 +5,11 @@ pov: Melf Maelstorm
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Administrator (Winter University)|Vera]], [[Tengus]]
+timeline: [[Timeline#Y1 M1 D4]]
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Gorran Thricebind (Administrator)|Vera]], [[Tengus]]
 status: draft
 created: 2025-08-31
-updated: 2025-08-31
+updated: 2025-09-02
 ---
 
 # 05 — The Guardian's Burden
@@ -22,9 +23,9 @@ Outcome: The Administrator reveals her role as guardian of the Book of Gosh and 
 
 The silence that followed Tengus's departure felt heavier than the stone walls surrounding them—walls that whispered their distress directly into Melf's consciousness through his stone-sense connection. He could feel the University's foundations still trembling with residual terror, the ancient stonework struggling to process what had just passed through its halls like a wound in reality itself.
 
-Melf stood watching [[Administrator (Winter University)|Vera]]'s scarred hands tremble against her desk surface, the crystal ring on her right hand catching light like a trapped star. The sight filled him with protective fury that surprised him with its intensity. How long had she carried this burden alone? How many years had she sat in this office, guarding secrets that left her isolated from even her closest colleagues?
+Melf stood watching [[Gorran Thricebind (Administrator)|Vera]]'s scarred hands tremble against her desk surface, the crystal ring on her right hand catching light like a trapped star. The sight filled him with protective fury that surprised him with its intensity. How long had she carried this burden alone? How many years had she sat in this office, guarding secrets that left her isolated from even her closest colleagues?
 
-"Three days," Lareth said quietly, his voice cutting through the stillness with surgical precision. Through his lattice sight, residual magical energy still shimmered where Tengus had stood—power signatures that belonged to no mortal tradition, shadows that lingered like stains on reality itself. "We need to understand exactly what we're protecting."
+"Not long," Lareth said quietly, his voice cutting through the stillness with surgical precision. Through his lattice sight, residual magical energy still shimmered where Tengus had stood—power signatures that belonged to no mortal tradition, shadows that lingered like stains on reality itself. "We need to understand exactly what we're protecting."
 
 Vera looked up at them, her granite expression showing hairline cracks that spoke of burdens carried too long in solitude. Her gaze moved from Melf to Lareth—the colleagues who had shared decades of institutional authority—and then settled on Samantha with obvious reluctance.
 
@@ -90,7 +91,7 @@ Melf felt protective fury and scholarly excitement war in his chest as the impli
 
 "You think I'm... that I have the authority to—" Samantha began.
 
-"I think," Vera said carefully, "that you survived direct confrontation with Tengus when centuries-old wards couldn't slow him down. I think your blessed armor responds to spiritual corruption with protective radiance that belongs to no mortal magical tradition. And I think that if we're going to survive the next three days, we need someone who can do more than just fight—we need someone who can cleanse."
+"I think," Vera said carefully, "that you survived direct confrontation with Tengus when centuries-old wards couldn't slow him down. I think your blessed armor responds to spiritual corruption with protective radiance that belongs to no mortal magical tradition. And I think that if we're going to survive what's coming, we need someone who can do more than just fight—we need someone who can cleanse."
 
 Melf stepped closer to Samantha, his protective instincts fully engaged by the weight of responsibility being placed on someone he had come to think of as family. "What exactly are you asking her to do?"
 
@@ -106,19 +107,19 @@ Through his stone-sense, Melf could feel the wall responding to her touch—anci
 
 The weight of that revelation settled over them like a physical presence, and Melf felt the University's foundations shudder with ancient terror. Through his stone-sense, he could perceive the building's memory of the day the chamber was sealed—the desperate measures taken to contain something that should never have existed, the sacrifices made to ensure that forbidden knowledge remained buried.
 
-Three days to decide whether to risk unleashing horrors that could reshape reality itself, or allow Tengus to claim power that would serve his own apocalyptic ambitions. Melf looked at Samantha—this Herald who had walked into their academic sanctuary and transformed everything they thought they knew about courage and purpose—and felt his protective instincts crystallize into absolute determination.
+Little time to decide whether to risk unleashing horrors that could reshape reality itself, or allow Tengus to claim power that would serve his own apocalyptic ambitions. Melf looked at Samantha—this Herald who had walked into their academic sanctuary and transformed everything they thought they knew about courage and purpose—and felt his protective instincts crystallize into absolute determination.
 
-"We need to understand what we're truly facing before we act," Samantha said carefully, her voice carrying the diplomatic caution that had guided her through dangerous negotiations. "Three days gives us time to prepare properly. Rushing in unprepared could trigger exactly what Tengus wants—either I prove unworthy and free the dragon, or he claims the book while we're recovering from failure."
+"We need to understand what we're truly facing before we act," Samantha said carefully, her voice carrying the diplomatic caution that had guided her through dangerous negotiations. "A little time gives us a chance to prepare properly. Rushing in unprepared could trigger exactly what Tengus wants—either I prove unworthy and free the dragon, or he claims the book while we're recovering from failure."
 
 Vera's expression shifted to something that might have been relief mixed with grudging respect. "You're right. Thirty years of carrying this secret alone has made me... hasty. We should plan carefully."
 
 Melf stepped closer to Samantha, his scholar's curiosity tempered by protective concern. "What do you need from us? Research? Preparation? Understanding the specific nature of this worthiness test?"
 
-"All of that," Samantha replied, and Melf could see the weight of divine purpose settling on her shoulders like familiar armor. "But first, we need to understand exactly what Tengus knows and what his timeline really means. If he's given us three days, there's a reason for that specific deadline."
+"All of that," Samantha replied, and Melf could see the weight of divine purpose settling on her shoulders like familiar armor. "But first, we need to understand exactly what Tengus knows and what his timing implies. If he's controlling the tempo, it's because it serves his strategy."
 
 As they began to plan their approach to the sealed chamber, Melf offered his own silent prayer—to whatever forces governed the University's ancient foundations, to the spirits of scholars who had safeguarded knowledge for generations, to anyone who might help them navigate the impossible choices ahead. Through his stone-sense, he could feel the building itself listening, waiting, hoping that this time the burden of guardianship might finally be shared rather than endured in solitude.
 
-Three days to prevent an apocalypse, starting with understanding the true nature of what they faced in the darkness below their feet. The countdown continued, and Melf was determined to ensure that Samantha wouldn't face it alone.
+Little time to prevent an apocalypse, starting with understanding the true nature of what they faced in the darkness below their feet. The countdown continued, and Melf was determined to ensure that Samantha wouldn't face it alone.
 
 ---
 

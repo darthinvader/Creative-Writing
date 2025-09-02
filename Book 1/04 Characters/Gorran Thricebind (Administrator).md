@@ -19,6 +19,9 @@ updated: 2025-09-01
 ## Overview
 Gorran Thricebind serves as the institutional backbone of [[Winter University]], wielding practical authority over resources, personnel, and crisis management. A female half-orc with extensive experience in both magical theory and institutional administration, she operates with granite-like efficiency and treats time as a limited resource. Known for her expertise in abjuration magic, particularly multi-layered protective bindings that earned her the "Thricebind" epithet.
 
+Alias & Usage
+- Also known as: Vera (use [[Gorran Thricebind (Administrator)|Vera]] on first mention in scenes; "Vera" thereafter).
+
 ## Appearance & Demeanor
 - **Species:** Female half-orc with neat tusks that catch light when she turns her head
 - **Build:** Scarred forearms from old laboratory accidents and magical practice, speaking to hands-on experience

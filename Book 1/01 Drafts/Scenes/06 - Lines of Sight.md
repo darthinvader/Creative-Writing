@@ -4,11 +4,11 @@ type: scene
 pov: Lareth Lakhart
 tense: past
 location: [[Winter University]]
-timeline: [[Timeline]]
-characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Administrator (Winter University)|Vera]]
+timeline: [[Timeline#Y1 M1 D5]]
+characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Gorran Thricebind (Administrator)|Vera]]
 status: draft
 created: 2025-08-31
-updated: 2025-08-31
+updated: 2025-09-02
 ---
 
 # 06 — Lines of Sight
@@ -42,7 +42,7 @@ Through his lattice sight—his enhanced perception that revealed magical energy
 
 He turned from the window, fixing his companions with a look that carried military certainty. "We're not preparing for one threat—we're preparing for two converging catastrophes. Tengus will come for the [[Book of Gosh]] with overwhelming magical force. But Serathis will come for the city itself, and they'll time their occupation to coincide with our moment of greatest vulnerability."
 
-Through his lattice sight, [[Administrator (Winter University)|Vera]]'s office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
+Through his lattice sight, [[Gorran Thricebind (Administrator)|Vera]]'s office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
 
 "The chamber," he said quietly. "When I focus on it directly, I see... layers. The current wards are maybe thirty years old, but beneath them are older protections. Much older. The magical signatures suggest multiple attempts to contain whatever's down there, each one building on the failures of the last."
 
@@ -114,7 +114,7 @@ She looked directly at Samantha. "Your divine markings suggest you might survive
 
 Through his lattice sight, Lareth watched the city wake to another day, unaware that it might be one of their last in freedom. Merchants arranged their wares, dock workers loaded cargo, University students hurried to morning lectures. The ordinary patterns of life continuing while extraordinary threats gathered like storm clouds.
 
-"We have two days," he said quietly. "Two days to prepare a city for occupation, a University for siege, and a Herald for a test that might reshape everything we understand about divine authority."
+"We have little time," he said quietly. "Days at best to prepare a city for occupation, a University for siege, and a Herald for a test that might reshape everything we understand about divine authority."
 
 "Then we'd better begin," Samantha said, her hand resting on her sword with the easy familiarity of someone who had accepted that some problems could only be solved through action. "Starting with understanding exactly what Serathis has planned. Melf, you mentioned your daughter's letters contained unusual intelligence?"
 
@@ -148,7 +148,7 @@ Lareth looked at his companions—united in their core priority but each bringin
 
 Through his lattice sight, he saw them accept this cold reality—the acknowledgment that victory might simply mean losing less than total defeat would cost. The weight of leadership settled on all three of them, but somehow sharing that burden made it more bearable.
 
-Melf broke the heavy silence with a dry chuckle. "You know, three days ago my biggest worry was whether the first-year students would pass their basic enchantment exams."
+Melf broke the heavy silence with a dry chuckle. "You know, a few days ago my biggest worry was whether the first-year students would pass their basic enchantment exams."
 
 "And I was concerned about a delayed shipment of research materials," Lareth added, surprised to find himself almost smiling.
 

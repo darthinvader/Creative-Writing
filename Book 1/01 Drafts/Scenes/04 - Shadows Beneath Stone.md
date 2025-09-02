@@ -5,7 +5,7 @@ pov: Melf Maelstorm
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Administrator (Winter University)|Vera]], [[Lady Vaelora Serath]] (agents)
+characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Gorran Thricebind (Administrator)|Vera]], [[Lady Vaelora Serath]] (agents)
 status: draft
 created: 2025-08-31
 updated: 2025-08-31
@@ -126,7 +126,7 @@ The third no longer bothered with disguise. Through his connection to the Univer
 
 "Magical signature like nothing in our files," Lareth confirmed, his lattice sight cutting through illusions and concealment magic to reveal power levels that shouldn't be possible for someone operating without institutional support. "Authority that makes the air itself reshape around his presence. And he's standing before the Administrator's door like he owns not just the building, but the concepts that created it."
 
-Voices carried through the administrative wing's carefully designed acoustics—[[Administrator (Winter University)|Vera]]'s controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
+Voices carried through the administrative wing's carefully designed acoustics—[[Gorran Thricebind (Administrator)|Vera]]'s controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
 
 Melf pressed deeper into his connection with the University's foundations, using the granite's memory to hear what transpired beyond barriers that had been designed to protect institutional authority from external pressures.
 
@@ -226,21 +226,21 @@ He turned his attention back to the Administrator, who had watched the entire sk
 
 The Administrator's expression had gone carefully neutral, but through the granite beneath his feet, Melf could feel how her entire body remained tensed around the ring that had suddenly become the focus of supernatural attention. "You know what it will cost if I cooperate."
 
-"Then in three days, I return with methods that don't require your cooperation," Tengus said simply, his voice carrying the certainty of someone who had spent decades planning for contingencies that included institutional resistance. "Methods that will demonstrate why the University's foundations, impressive though they are through mortal engineering, cannot stand against power that predates their construction by centuries."
+"I will return with methods that don't require your cooperation," Tengus said simply, his voice carrying the certainty of someone who had spent decades planning for contingencies that included institutional resistance. "Methods that will demonstrate why the University's foundations, impressive though they are through mortal engineering, cannot stand against power that predates their construction by centuries."
 
 Power blazed around him that made every foundation block scream warnings through Melf's senses. The building groaned under pressure that bypassed all physical resistance, revealing exactly how the ancient wards could be exploited. "How many faculty members will survive the demonstration? How many students caught in conflicts they never chose? How many innocent townspeople who depend on this institution for their survival?"
 
 The threat hung in the air with the certainty of inevitable consequences. Through his stone-sense, Melf felt exactly how Tengus's power had revealed every structural weakness. This wasn't bluffing—this was surgical precision by someone who had studied their defenses for decades.
 
-"Why three days?" Samantha asked, divine radiance still flickering around her armor despite the futility of their recent assault against forces that operated outside normal spiritual frameworks.
+"Why wait at all?" Samantha asked, divine radiance still flickering around her armor despite the futility of their recent assault against forces that operated outside normal spiritual frameworks.
 
 "Because," Tengus said, his gaze fixing on her with predatory interest that suggested her presence created opportunities he had been hoping to exploit, "what I ultimately require cannot be taken by force from unwilling subjects. The [[Book of Gosh]] is merely the first component in a working that requires willing cooperation from those with appropriate... resonances."
 
-His attention turned back to the Administrator, shadows gathering around him with increasing density as emotional intensity translated into supernatural manifestation. "Three days to consider how many lives you're willing to sacrifice for the sake of keeping secrets that were never meant to stay buried forever, Vera. Three days to remember why cooperation serves everyone's interests better than noble gestures that accomplish nothing except prolonged suffering."
+His attention turned back to the Administrator, shadows gathering around him with increasing density as emotional intensity translated into supernatural manifestation. "Consider how many lives you're willing to sacrifice for the sake of keeping secrets that were never meant to stay buried forever, Vera. Remember why cooperation serves everyone's interests better than noble gestures that accomplish nothing except prolonged suffering."
 
 Power withdrew from the air around him, but the threat remained palpable like electricity before thunderstorms. "Choose wisely. Our history means I take no pleasure in what will be necessary if you force me to more direct methods of persuasion."
 
-He began backing toward the space where the door had been, shadows gathering around him like a living cloak that bent light in ways that made tracking his movement difficult for normal vision. "Three days. I trust you'll use the time to remember that some responsibilities are too heavy for one person to carry alone."
+He began backing toward the space where the door had been, shadows gathering around him like a living cloak that bent light in ways that made tracking his movement difficult for normal vision. "Soon. I trust you'll use the time to remember that some responsibilities are too heavy for one person to carry alone."
 
 Within moments, he had vanished as completely as if he had never existed, taking with him the supernatural wrongness that had made the University's foundations scream with terror. The only evidence of his presence was the missing door and two unconscious agents who would wake with no memory of anything beyond their carefully constructed cover identities.
 
@@ -254,7 +254,7 @@ The Administrator sat in her chair, scarred hands still clenched around the crys
 
 Through his palm against the wall, Melf felt the University's foundations whisper of ancient duties and impossible choices that reached back to the institution's founding. Below them, in a chamber that had been sealed for generations, something ancient and powerful waited in darkness that had preserved it through decades of careful guardianship.
 
-Three days.
+Time was short.
 
 The countdown had begun.
 

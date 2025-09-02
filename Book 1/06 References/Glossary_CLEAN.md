@@ -36,6 +36,10 @@ Use one term per heading and link usages in notes.
 - Definition: Youngest daughter of [[Melf Maelstorm]]; currently operating undercover as [[Tengus]]'s assistant while secretly spying on him for intelligence gathering purposes.
 - Related: [[Elfina Maelstorm]], [[Melf Maelstorm]], [[Tengus]]
 
+## Gorran Thricebind (Administrator)
+- Definition: Female half-orc Chief Administrator of [[Winter University]]; abjuration specialist (“Thricebind”). Guardian of the [[Book of Gosh]] beneath the University. Alias: Vera.
+- Related: [[Gorran Thricebind (Administrator)]], [[Winter University]], [[Book of Gosh]], [[Lareth Lakhart]], [[Tengus]]
+
 ## Erandia
 - Definition: Distant realm many in Codaria consider a myth; Samantha's homeland. Features temple bells with distinctive rhythms and strong traditions of diplomatic preparation and service.
 - Related: [[Samantha Seraphel]], [[Whitehaven]], [[Andromeda]]
@@ -123,6 +127,10 @@ Use one term per heading and link usages in notes.
 ## The Lattice
 - Definition: The patterned substrate of magic; replaces the D&D term "weave." Accessed via arcane patterns, divine covenants, or alchemical processes.
 - Related: [[Magic System — The Lattice]], [[Strain]], [[Lattice Sight]]
+
+## The Silence
+- Definition: Covert network undermining divine connections and targeting centers of magical learning across realms; favors corruption/chaos over open conquest.
+- Related: [[Samantha Seraphel]], [[Timeline]]
 
 ## Thieves' Guild (Winterholme)
 - Definition: Underground organization maintaining smuggling tunnels and resistance networks throughout Winterholme; led by halfling rogue Tiana.

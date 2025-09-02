@@ -46,7 +46,7 @@ updated: 2025-08-30
 - Lifelong friend: [[Melf Maelstorm]]; iron sharpens iron.
 - New ally: [[Samantha Seraphel]]; takes her claims seriously sooner than most.
 - Faculty peer: [[Winter University]].
- - Leadership: Elected High Mage of [[Winter University]] after the death of [[Gorran Thricebind (Administrator)]] to guide wartime defense.
+ - Leadership: Elected High Mage of [[Winter University]] after the death of [[Vera Thricebind (Administrator)]] to guide wartime defense.
  - Defense Coordination: Serves as Defense Coordinator (Marshal of Strategic Defense) prior to election; leads strategic planning and civil defense integration.
 
 ## Wounds & Fears

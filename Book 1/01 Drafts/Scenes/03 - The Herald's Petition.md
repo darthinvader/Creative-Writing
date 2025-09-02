@@ -1,12 +1,11 @@
+---
 title: 03 - The Herald's Petition
-The five minutes began with [[Gorran Thricebind (Administrator)|Vera]]'s finger tapping against a pocket watch—brass on brass, marking time like a countdown to execution.
 type: scene
 pov: Samantha Seraphel
 tense: past
 location: [[Winter University]]
-timeline: [[Timeline]]
 timeline: [[Timeline#Y1 M1 D3]]
-characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Gorran Thricebind (Administrator)|Vera]]
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Vera Thricebind (Administrator)|Vera]]
 status: draft
 created: 2025-08-30
 updated: 2025-08-30

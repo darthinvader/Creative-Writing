@@ -3,7 +3,7 @@
 What Works
 - Core macro plot and stakes are defined (Serathis/Kandar/Codaria; Baramoth threat; artifacts of Gosh).
 - Opening Scene 01 revised to set retreat and foreshadowing.
-- Winter University leadership change captured (Gorran dies; Lareth elected).
+- Winter University leadership change captured (Vera dies; Lareth elected).
 
 What's Left to Build
 - Draft "10 - Dawnspear's Folly" and expand "30 - The Gate at Winter".

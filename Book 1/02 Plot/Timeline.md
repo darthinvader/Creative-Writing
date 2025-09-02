@@ -1,6 +1,14 @@
 ---
 title: Timeline
-tags: [book/book1, type/timeline]
+tags: [book/book1**Y1**Y1 M1 D17** — **TENGUS RETURNS**: Tengus launches assault on Winter University seeking the artifacts.
+
+**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.
+
+**Y1 M1 D18** — **LARETH BECOMES HEAD**: Emergency faculty vote; Lareth (Professor; Defense Coordinator) elected new University Administrator in crisis.17** — **TENGUS RETURNS**: Tengus launches assault on Winter University seeking the artifacts.
+
+**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.
+
+**Y1 M1 D18** — **LARETH BECOMES HEAD**: Emergency faculty vote; Lareth (Professor; Defense Coordinator) elected new University Administrator in crisis.1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.*Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.*Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.*Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera "Vera" Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.ype/timeline]
 ---
 
 # Timeline
@@ -39,7 +47,7 @@ tags: [book/book1, type/timeline]
 
 **Y1 M1 D17** — **TENGUS RETURNS**: Tengus launches assault on Winter University seeking the artifacts.
 
-**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Gorran “Vera” Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.
+**Y1 M1 D17** — **ADMINISTRATOR'S DEATH**: University Administrator (Vera Thricebind) dies in magical battle against Tengus; massive confrontation damages University defenses.
 
 **Y1 M1 D18** — **LARETH BECOMES HEAD**: Emergency faculty vote; Lareth (Professor; Defense Coordinator) elected new University Administrator in crisis.
 

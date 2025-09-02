@@ -18,7 +18,7 @@ updated: 2025-08-29
 ## Faculty & Notables
 - Chief Administrator: Half-Orc (name TBD) — oversees crisis protocols and student safety
 - Treasurer: Jady (druid) — manages funding and resource allocation; favors sustainable provisioning
- - High Mage: Gorran Thricebind (Half-Orc, Abjuration/Administrator) — dies in Book 1 during battle with Tengus
+ - High Mage: Vera Thricebind (Half-Orc, Abjuration/Administrator) — dies in Book 1 during battle with Tengus
  - Succession: [[Lareth Lakhart]] elected High Mage in wartime to lead defense and strategy
 - Ritual Studies — warding, contract magic, hearth sigils.
 - Applied Leycraft — mapping and maintenance of basaltic leylines.

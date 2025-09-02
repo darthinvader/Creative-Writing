@@ -6,7 +6,7 @@ tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
 timeline: [[Timeline#Y1 M1 D4]]
-characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Gorran Thricebind (Administrator)|Vera]], [[Tengus]]
+characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Vera Thricebind (Administrator)|Vera]], [[Tengus]]
 status: draft
 created: 2025-08-31
 updated: 2025-09-02
@@ -23,7 +23,7 @@ Outcome: The Administrator reveals her role as guardian of the Book of Gosh and 
 
 The silence that followed Tengus's departure felt heavier than the stone walls surrounding them—walls that whispered their distress directly into Melf's consciousness through his stone-sense connection. He could feel the University's foundations still trembling with residual terror, the ancient stonework struggling to process what had just passed through its halls like a wound in reality itself.
 
-Melf stood watching [[Gorran Thricebind (Administrator)|Vera]]'s scarred hands tremble against her desk surface, the crystal ring on her right hand catching light like a trapped star. The sight filled him with protective fury that surprised him with its intensity. How long had she carried this burden alone? How many years had she sat in this office, guarding secrets that left her isolated from even her closest colleagues?
+Melf stood watching [[Vera Thricebind (Administrator)|Vera]]'s scarred hands tremble against her desk surface, the crystal ring on her right hand catching light like a trapped star. The sight filled him with protective fury that surprised him with its intensity. How long had she carried this burden alone? How many years had she sat in this office, guarding secrets that left her isolated from even her closest colleagues?
 
 "Not long," Lareth said quietly, his voice cutting through the stillness with surgical precision. Through his lattice sight, residual magical energy still shimmered where Tengus had stood—power signatures that belonged to no mortal tradition, shadows that lingered like stains on reality itself. "We need to understand exactly what we're protecting."
 

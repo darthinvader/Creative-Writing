@@ -5,7 +5,7 @@ pov: Lareth Lakhart
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline#Y1 M1 D5]]
-characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Gorran Thricebind (Administrator)|Vera]]
+characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Vera Thricebind (Administrator)|Vera]]
 status: draft
 created: 2025-08-31
 updated: 2025-09-02
@@ -42,7 +42,7 @@ Through his lattice sight—his enhanced perception that revealed magical energy
 
 He turned from the window, fixing his companions with a look that carried military certainty. "We're not preparing for one threat—we're preparing for two converging catastrophes. Tengus will come for the [[Book of Gosh]] with overwhelming magical force. But Serathis will come for the city itself, and they'll time their occupation to coincide with our moment of greatest vulnerability."
 
-Through his lattice sight, [[Gorran Thricebind (Administrator)|Vera]]'s office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
+Through his lattice sight, [[Vera Thricebind (Administrator)|Vera]]'s office below them pulsed with the desperate intensity of wards trying to contain something that shouldn't exist. The sealed chamber's magical signatures grew more disturbing the longer he studied them—not just powerful, but wrong in ways that made his enhanced perception recoil.
 
 "The chamber," he said quietly. "When I focus on it directly, I see... layers. The current wards are maybe thirty years old, but beneath them are older protections. Much older. The magical signatures suggest multiple attempts to contain whatever's down there, each one building on the failures of the last."
 

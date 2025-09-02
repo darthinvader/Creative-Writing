@@ -1,6 +1,7 @@
 ---
-title: Book 1 Outline
-t	- Leadership: Following Gorran Thricebind's death in battle against Tengus, faculty elect [[Lareth Lakhart]] as High Mage to coordinate wartime defense and research.gs: [book/book1, type/outline]
+title: Book 1 — Outline
+tags: [book/book1, type/outline]
+status: draft
 ---
 
 # Book 1 — Outline
@@ -25,7 +26,7 @@ Codaria reels when [[Coldreach]] falls—its siege covertly funded by the easter
 	- Refugees and faculty debrief; edicts arrive from the Paladin King to retrieve a holy artifact.
 	- Clues point to the Sword and Book of Gosh resurfacing; Kandar and Serathis envoys land in Codaria.
 	- Complication: Karol-Elf’s involvement ties Melf’s family to Lady Vaelora Serath.
-	- Leadership: Following Gorran Thricebind’s death, faculty elect [[Lareth Lakhart]] as High Mage to coordinate wartime defense and research.
+	- Leadership: Following Vera Thricebind’s death, faculty elect [[Lareth Lakhart]] as High Mage to coordinate wartime defense and research.
 - Ch3: The First Seal
 	- Trail leads to an old warded site where corruption lingers around a seal.
 	- Turning Point: Evidence confirms the sword’s curse can open a demon gate; purification requires Samantha.

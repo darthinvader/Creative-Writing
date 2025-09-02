@@ -5,7 +5,7 @@ pov: Samantha Seraphel
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline#Y1 M1 D5]]
-characters: [[Samantha Seraphel]], [[Gorran Thricebind (Administrator)|Vera]], [[Lareth Lakhart]], [[Melf Maelstorm]]
+characters: [[Samantha Seraphel]], [[Vera Thricebind (Administrator)|Vera]], [[Lareth Lakhart]], [[Melf Maelstorm]]
 status: draft
 created: 2025-09-02
 updated: 2025-09-02

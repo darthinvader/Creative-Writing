@@ -57,7 +57,7 @@ Summary: Magic flows through a pervasive substrate called [[#The Lattice]] (rena
 - Overdraw: Arcane—burn-through; Divine—concord fatigue; Alchemical—overpressure.
 
 ## Simple Contracts (table cues)
--## Steady Voice & Control (practice cues)
+## Steady Voice & Control (practice cues)
 - Voice carries pattern: Clear, steady intonation and breath support anchor complex workings; a shaken voice blurs lines.
 - Hands teach the line: Small, precise gestures and short, tight sigils keep edges clean under pressure.
 - Lareth vs. Melf (casting profiles):

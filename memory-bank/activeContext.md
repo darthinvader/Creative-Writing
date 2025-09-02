@@ -7,7 +7,7 @@ Current Focus (Aug 29, 2025)
 Recent Changes
 - Scene 01 updated with Serathis foreshadow, horned-name hint, West Gate breach, withdrawal bells, and retreat outcome.
 - Added NPC stubs: [[Elfina Maelstorm]], [[Karol-Elf Maelstorm]].
-- Created [[Gorran Thricebind]] (Half-Orc High Mage), marked deceased; [[Lareth Lakhart]] elected High Mage.
+- Created [[Vera Thricebind]] (Half-Orc High Mage), marked deceased; [[Lareth Lakhart]] elected High Mage.
 - Updated [[Winter University]] and Outline to reflect leadership change and key beats.
 
 Decisions & Rationale

@@ -5,7 +5,7 @@ pov: Melf Maelstorm
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Gorran Thricebind (Administrator)|Vera]], [[Lady Vaelora Serath]] (agents)
+characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Tengus]], [[Vera Thricebind (Administrator)|Vera]], [[Lady Vaelora Serath]] (agents)
 status: draft
 created: 2025-08-31
 updated: 2025-08-31
@@ -126,7 +126,7 @@ The third no longer bothered with disguise. Through his connection to the Univer
 
 "Magical signature like nothing in our files," Lareth confirmed, his lattice sight cutting through illusions and concealment magic to reveal power levels that shouldn't be possible for someone operating without institutional support. "Authority that makes the air itself reshape around his presence. And he's standing before the Administrator's door like he owns not just the building, but the concepts that created it."
 
-Voices carried through the administrative wing's carefully designed acoustics—[[Gorran Thricebind (Administrator)|Vera]]'s controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
+Voices carried through the administrative wing's carefully designed acoustics—[[Vera Thricebind (Administrator)|Vera]]'s controlled tones and another, cultured and supremely confident, that seemed to make the stone walls vibrate with each syllable. The conversation had the rhythm of people who knew each other well, whose words carried weight accumulated over years rather than moments.
 
 Melf pressed deeper into his connection with the University's foundations, using the granite's memory to hear what transpired beyond barriers that had been designed to protect institutional authority from external pressures.
 

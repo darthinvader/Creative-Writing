@@ -84,7 +84,7 @@ He paused, studying her through lattice sight. The divine radiance that surround
 
 Through the window, the sun cleared the horizon, painting Winterholme's stone walls with golden light that couldn't quite hide the city's vulnerabilities. Lareth's lattice sight revealed how the morning sun activated certain ward anchors—a security feature that also revealed their positions to anyone who knew to look.
 
-"Serathis will move at night," he said with sudden certainty. "After Tengus's deadline passes, when we're exhausted from magical confrontation. They'll present it as 'restoring order' after supernatural chaos. The merchant council might even welcome them initially, seeing occupation as preferable to destruction."
+"Serathis will move at night," he said with sudden certainty. "After Tengus's threat materializes, when we're exhausted from magical confrontation. They'll present it as 'restoring order' after supernatural chaos. The merchant council might even welcome them initially, seeing occupation as preferable to destruction."
 
 "Until they realize occupation IS destruction," Melf said bitterly. "Just slower, more systematic. Every freedom stripped away through legal precedent rather than force."
 
@@ -92,7 +92,7 @@ A knock at the door interrupted their planning. Vera entered without waiting for
 
 "I thought you should know," she said without preamble, setting the tray on his desk with careful precision. "The chamber's wards fluctuated three times during the night. Not failures—responses. Something down there is... anticipating."
 
-"It knows the deadline too," Samantha said quietly. "The guardian understands that Tengus is coming."
+"It knows the time is near," Samantha said quietly. "The guardian understands that Tengus is coming."
 
 "More than that," Vera replied, her expression showing the strain of knowledge carried too long. "The fluctuations match patterns from thirty years ago, the last time someone attempted to claim what's below. That attempt failed, but the guardian learned from it. It's been preparing its own response to intrusion."
 
@@ -162,11 +162,11 @@ The brief moment of shared humanity reminded them that beneath the tactical plan
 
 "I'll coordinate with Captain Aldara," Lareth confirmed. "And begin mapping evacuation routes that avoid Serathis's likely occupation points."
 
-As they prepared to separate, each to their urgent tasks, Lareth felt the weight of what they were attempting. Two days to prepare for convergent catastrophes, with no guarantee that any preparation would prove sufficient.
+As they prepared to separate, each to their urgent tasks, Lareth felt the weight of what they were attempting. Little time to prepare for convergent catastrophes, with no guarantee that any preparation would prove sufficient.
 
 But through his lattice sight, he also saw something else—the way their magical signatures had begun to harmonize, three very different types of power learning to work in concert. Perhaps that unexpected unity would prove more valuable than any defensive ward or tactical preparation.
 
-"We meet again at sunset," he said. "Share intelligence, adjust plans, prepare for tomorrow's challenges."
+"We meet again at sunset," he said. "Share intelligence, adjust plans, prepare for whatever challenges come next."
 
 "Together," Samantha added quietly, and the word carried weight beyond its simple meaning.
 
@@ -174,7 +174,7 @@ As they dispersed to their tasks, Lareth remained at the window, his lattice sig
 
 Somewhere out there, Serathis agents were likely watching, measuring, preparing their own plans. Somewhere in dimensions beyond normal perception, Tengus waited with patience born of centuries. And below, in a chamber that had been sealed for thirty years, something ancient and terrible anticipated judgment day with alien patience.
 
-Two days. The countdown continued, and every passing hour brought them closer to convergence of threats that would reshape everything they thought they knew about their world.
+Time was short. The countdown continued, and every passing hour brought them closer to convergence of threats that would reshape everything they thought they knew about their world.
 
 But for the first time since this crisis began, Lareth felt something beyond grim determination. Looking at his companions—each preparing to risk everything for people they barely knew—he felt the quiet strength that came from standing with others who understood that some things were worth any sacrifice.
 

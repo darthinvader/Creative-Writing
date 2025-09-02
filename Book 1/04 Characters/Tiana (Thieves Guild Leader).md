@@ -8,21 +8,21 @@ species: Halfling
 occupation: Thieves' Guild Leader
 tags: [#character, #npc, #halfling, #thieves-guild, #ally, #winterholme]
 created: 2025-09-01
-updated: 2025-09-01
+updated: 2025-09-02
 ---
 
 # Tiana
 
 **Species:** Halfling  
 **Occupation:** Leader of Winterholme's Thieves' Guild  
-**Height:** 1.1 m (typical halfling stature)  
+**Height:** ~1.1 m / 3 ft 7 in (short, typical halfling stature)  
 **Reputation:** Skilled rogue with excellent record of thievery and eliminating threats
 
 ## Overview
 Tiana leads Winterholme's underground thieves' guild with pragmatic efficiency and fierce loyalty to her people. Known for her exceptional skills in stealth, lock-picking, and "backstabbing assholes that try to kill them," she operates the guild's extensive network of smuggling tunnels and safe houses throughout the city. Her organization maintains careful neutrality in most conflicts, but occupation by foreign powers threatens their operational freedom.
 
 ## Appearance & Demeanor
-- **Physical:** Compact halfling build optimized for stealth and agility
+- **Physical:** Short, compact halfling build optimized for stealth and agility
 - **Style:** Practical dark clothing that blends into shadows; minimal jewelry to avoid noise
 - **Bearing:** Moves with fluid grace; constantly aware of exits and escape routes
 - **Eyes:** Sharp, calculating gaze that misses nothing of tactical importance

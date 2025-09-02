@@ -5,11 +5,14 @@ pov: Melf Maelstorm
 tense: past
 location: [[Winter University]]
 timeline: [[Timeline]]
-timeline: [[Timeline#Y1 M1 D4]]
 characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Vera Thricebind (Administrator)|Vera]], [[Tengus]]
 status: draft
 created: 2025-08-31
 updated: 2025-09-02
+scene_type: TODO
+when: [[Timeline]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 05 — The Guardian's Burden

@@ -10,6 +10,10 @@ character_notes: "Samantha: blonde hair, blue eyes, tall, white skin, strong bui
 status: draft
 created: 2025-08-29
 updated: 2025-09-01
+scene_type: TODO
+when: [[Timeline#Y1 M1 D1]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 01 — Siege at Coldreach

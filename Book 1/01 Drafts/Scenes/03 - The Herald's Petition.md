@@ -9,6 +9,10 @@ characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]], [[Ver
 status: draft
 created: 2025-08-30
 updated: 2025-08-30
+scene_type: TODO
+when: [[Timeline#Y1 M1 D3]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 03 — The Herald's Petition

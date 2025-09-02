@@ -9,6 +9,10 @@ characters: [[Melf Maelstorm]], [[Tiana (Thieves Guild Leader)]], [[Samantha Ser
 status: draft
 created: 2025-09-02
 updated: 2025-09-02
+scene_type: TODO
+when: [[Timeline#Y1 M1 D6]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 08 — Underground Networks
@@ -38,7 +42,7 @@ The interior hit him with a wall of sensation that made the street seem sterile 
 
 "You're lost, scholar."
 
-The voice came from a woman who'd materialized at his elbow without his noticing—a skill that probably served her well in her profession. She stood perhaps five and a half feet tall, with graying hair pulled back in a practical braid and clothes that managed to be both unremarkable and well-tailored. Her face bore the lines of someone who'd learned to read people quickly and accurately, and her eyes held the particular blend of wariness and amusement that Melf associated with his more perceptive students.
+The voice came from a halfling woman who'd materialized at his elbow without his noticing a skill that probably served her well in her profession. She stood just under four feet tallcompact and balancedwith graying hair pulled back in a practical braid and clothes that managed to be both unremarkable and well-tailored. Her face bore the lines of someone who'd learned to read people quickly and accurately, and her eyes held the particular blend of wariness and amusement that Melf associated with his more perceptive students.
 
 "Tiana?" he asked quietly.
 

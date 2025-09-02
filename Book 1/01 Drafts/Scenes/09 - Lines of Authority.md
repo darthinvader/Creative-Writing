@@ -9,6 +9,10 @@ characters: [[Lareth Lakhart]], [[Captain Aldara]], [[Samantha Seraphel]], [[Mel
 status: draft
 created: 2025-09-02
 updated: 2025-09-02
+scene_type: TODO
+when: [[Timeline#Y1 M1 D6]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 09 — Lines of Authority

@@ -9,6 +9,10 @@ characters: [[Lareth Lakhart]], [[Samantha Seraphel]], [[Melf Maelstorm]], [[Ver
 status: draft
 created: 2025-08-31
 updated: 2025-09-02
+scene_type: TODO
+when: [[Timeline#Y1 M1 D5]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 06 — Lines of Sight

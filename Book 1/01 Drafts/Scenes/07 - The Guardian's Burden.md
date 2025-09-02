@@ -9,6 +9,10 @@ characters: [[Samantha Seraphel]], [[Vera Thricebind (Administrator)|Vera]], [[L
 status: draft
 created: 2025-09-02
 updated: 2025-09-02
+scene_type: TODO
+when: [[Timeline#Y1 M1 D5]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 07 — The Guardian's Burden

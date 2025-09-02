@@ -9,6 +9,10 @@ characters: [[Melf Maelstorm]], [[Lareth Lakhart]], [[Samantha Seraphel]], [[Ten
 status: draft
 created: 2025-08-31
 updated: 2025-08-31
+scene_type: TODO
+when: [[Timeline]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 04 — Shadows Beneath Stone

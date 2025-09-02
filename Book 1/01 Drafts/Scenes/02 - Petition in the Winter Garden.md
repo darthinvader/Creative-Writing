@@ -9,6 +9,10 @@ characters: [[Samantha Seraphel]], [[Melf Maelstorm]], [[Lareth Lakhart]]
 status: draft
 created: 2025-08-30
 updated: 2025-08-30
+scene_type: TODO
+when: [[Timeline#Y1 M1 D2]]
+wordcount: TODO
+tags: [type/scene, status/draft]
 ---
 
 # 02 — Petition in the Winter Garden

@@ -42,6 +42,16 @@ updated: 2025-08-31
 - **Water Systems**: Underground channels that serve both practical and magical purposes
 - **Sealed Areas**: Spaces that are protected but whose original purpose is largely forgotten
 
+## Governance & Administration
+- **Harbor Council**: Five-member governing body that handles city administration, trade coordination, and diplomatic protocols
+  - **[[Councilor Thane Blackwater]]** (Chairman): Former merchant family leader who coordinates overall governance
+  - **[[Captain Aldara]]**: Guard Captain representing security and military affairs
+  - **[[Harbormaster Orin]]**: Harbor operations supervisor managing maritime trade
+  - **[[Guild Coordinator Malen Stonehammer]]**: Dwarven representative of merchant and craft guilds
+  - **[[Magistrate Eldra Brightforge]]**: Legal affairs coordinator handling judicial matters
+- **Autonomy Balance**: Maintains city independence while respecting [[Winter University]]'s academic autonomy
+- **Diplomatic Protocol**: Handles foreign emissaries and inter-realm negotiations through formal council sessions
+
 ## Population & Culture
 - **Fishing Community**: Primary industry focused on harbor-based fishing
 - **University Support**: Many residents provide services to the academic institution

@@ -39,6 +39,8 @@ tags: [book/book1**Y1**Y1 M1 D17** — **TENGUS RETURNS**: Tengus launches assau
 
 **Y1 M1 D6 (Unknown to protagonists)** — Kandar intelligence confirms credible reports that the [[Book of Gosh]] lies beneath [[Winter University]]; discreet emissary dispatched under mercantile cover to secure leverage for locating the [[Sword of Gosh]].
 
+**Y1 M1 D6 (Afternoon)** — Verification-first planning only: the trio defines probes (twin invites with controlled errors), verification tells (knot, ring metal, coin die), decision gates (2-of-3 tells + private meet), and cautious language. No parley assumed or scheduled. See [[10 - Lines of Accord]].
+
 **Y1 M1 D7-D10** — Samantha assists Melf and Lareth with various University issues; trust builds through shared work and challenges.
 
 **Y1 M1 D11** — Heightened security and preparations across University and city; infiltration concerns escalate; no capture yet.

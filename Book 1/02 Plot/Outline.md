@@ -39,6 +39,9 @@ Hidden knowledge: Unknown to the protagonists, Kandar has obtained intelligence 
 - Ch9/Next Scene Seed: Lines of Authority (Guard HQ)
 	- Lareth and Aldara debate whether to request aid from [[Kandar (Western Realm)]] to counter Serathis expansion; plant rumor of a Kandaran envoy operating under mercantile cover.
 
+- Ch10: Lines of Accord (Verification-first)
+	- Trio adopts a verification-first approach: do not assume Kandar’s envoy is present; define probes (twin invitations with controlled errors), verification tells (knot, ring metal, coin die), decision gates (2-of-3 tells + private meet request), cautious language (no names, no terms), and contingency phrases. Venue thinking without commitment.
+
 - ChX: Dawnspear’s Folly
 	- The [[Paladin King (Kandar)]]—Alistair Dawnspear—attempts to wield the unpurified sword. Catastrophic backfire opens a gate; Baramoth’s minotaur demons overrun the city. The king dies; the trio barely escapes with crucial clues.
 
